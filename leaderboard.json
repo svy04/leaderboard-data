@@ -377,9 +377,9 @@
     "SteamID": "76561199885445056",
     "DisplayName": "024",
     "PlayersKilled": 19,
-    "Deaths": 31,
+    "Deaths": 32,
     "Headshots": 128,
-    "KDR": 0.61,
+    "KDR": 0.59,
     "ArrowKills": 0,
     "MeleeKills": 0,
     "BladeKills": 0,
@@ -404,7 +404,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 32,
     "ClothesCrafted": 17,
-    "TimePlayed": 5,
+    "TimePlayed": 0,
     "LastSeen": 1765113190
   },
   {
@@ -513,9 +513,9 @@
     "SteamID": "76561199345580934",
     "DisplayName": "々mythic",
     "PlayersKilled": 18,
-    "Deaths": 52,
+    "Deaths": 53,
     "Headshots": 50,
-    "KDR": 0.35,
+    "KDR": 0.34,
     "ArrowKills": 3,
     "MeleeKills": 1,
     "BladeKills": 1,
@@ -535,12 +535,12 @@
     "RocksGathered": 25190,
     "SulfurOreGathered": 40882,
     "MetalOreGathered": 68120,
-    "RocketsFired": 40,
+    "RocketsFired": 41,
     "ExplosivesThrown": 19,
     "PlayersHealed": 0,
     "WeaponsCrafted": 11,
     "ClothesCrafted": 8,
-    "TimePlayed": 53,
+    "TimePlayed": 0,
     "LastSeen": 1765124690
   },
   {
@@ -1798,7 +1798,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 9,
     "ClothesCrafted": 9,
-    "TimePlayed": 6,
+    "TimePlayed": 11,
     "LastSeen": 1765109168
   },
   {
@@ -2308,7 +2308,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 28,
     "ClothesCrafted": 27,
-    "TimePlayed": 71,
+    "TimePlayed": 76,
     "LastSeen": 1765096177
   },
   {
@@ -2383,7 +2383,7 @@
     "SteamID": "76561199854361594",
     "DisplayName": "наполеон =)",
     "PlayersKilled": 5,
-    "Deaths": 114,
+    "Deaths": 115,
     "Headshots": 50,
     "KDR": 0.04,
     "ArrowKills": 1,
@@ -2406,11 +2406,11 @@
     "SulfurOreGathered": 19193,
     "MetalOreGathered": 55334,
     "RocketsFired": 0,
-    "ExplosivesThrown": 10,
+    "ExplosivesThrown": 11,
     "PlayersHealed": 0,
     "WeaponsCrafted": 120,
     "ClothesCrafted": 26,
-    "TimePlayed": 8,
+    "TimePlayed": 4,
     "LastSeen": 1765135044
   },
   {
@@ -3022,7 +3022,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 55,
     "ClothesCrafted": 6,
-    "TimePlayed": 283,
+    "TimePlayed": 288,
     "LastSeen": 1765112858
   },
   {
@@ -8394,7 +8394,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 26,
     "ClothesCrafted": 8,
-    "TimePlayed": 197,
+    "TimePlayed": 202,
     "LastSeen": 1765131802
   },
   {
@@ -16996,7 +16996,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 11,
-    "TimePlayed": 49,
+    "TimePlayed": 54,
     "LastSeen": 1765126732
   },
   {
@@ -18922,10 +18922,10 @@
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 0,
-    "StructuresBuilt": 14,
+    "StructuresBuilt": 25,
     "StructuresRepaired": 0,
     "PlantsGathered": 35,
-    "WoodGathered": 1263,
+    "WoodGathered": 1896,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
     "MetalOreGathered": 0,
@@ -18934,7 +18934,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 29,
+    "TimePlayed": 34,
     "LastSeen": 1765136217
   },
   {
@@ -19920,7 +19920,41 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
     "ClothesCrafted": 4,
-    "TimePlayed": 72,
+    "TimePlayed": 77,
     "LastSeen": 1765130122
+  },
+  {
+    "SteamID": "76561199010309086",
+    "DisplayName": "taegyu011",
+    "PlayersKilled": 0,
+    "Deaths": 2,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 6,
+    "WoodGathered": 0,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 0,
+    "ClothesCrafted": 0,
+    "TimePlayed": 1,
+    "LastSeen": 1765138048
   }
 ]
