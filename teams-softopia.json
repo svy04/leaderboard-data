@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T14:55:14.6236170Z",
+  "lastUpdated": "2025-12-08T15:00:14.6641080Z",
   "teams": [
     {
       "id": "4",
@@ -9,16 +9,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 9,
+        "totalKills": 12,
         "totalDeaths": 0,
-        "teamKDR": 9.0
+        "teamKDR": 12.0
       },
       "members": [
         {
           "steamId": "76561199840341677",
           "name": "Q",
           "role": "leader",
-          "kills": 4,
+          "kills": 6,
           "deaths": 0,
           "joinedAt": "2025-12-08"
         },
@@ -26,12 +26,45 @@
           "steamId": "76561198004480294",
           "name": "yes24",
           "role": "member",
-          "kills": 5,
+          "kills": 6,
           "deaths": 0,
           "joinedAt": "2025-12-08"
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198004480294",
+          "killerName": "yes24",
+          "victimSteamId": "76561198846939725",
+          "victimName": "Void",
+          "victimTeam": "Solo",
+          "weapon": "MP5A4",
+          "distance": 7,
+          "headshot": false,
+          "timestamp": "2025-12-08T14:56:22.0910130Z"
+        },
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561199492962538",
+          "victimName": "나쵸",
+          "victimTeam": "Team 12",
+          "weapon": "LR-300 Assault Rifle",
+          "distance": 4,
+          "headshot": false,
+          "timestamp": "2025-12-08T14:55:50.6706800Z"
+        },
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561198371903544",
+          "victimName": "레제",
+          "victimTeam": "Team 12",
+          "weapon": "LR-300 Assault Rifle",
+          "distance": 3,
+          "headshot": false,
+          "timestamp": "2025-12-08T14:55:42.6379990Z"
+        },
         {
           "killerSteamId": "76561199840341677",
           "killerName": "Q",
@@ -342,8 +375,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 2,
-        "totalDeaths": 3,
-        "teamKDR": 0.67
+        "totalDeaths": 5,
+        "teamKDR": 0.4
       },
       "members": [
         {
@@ -351,7 +384,7 @@
           "name": "나쵸",
           "role": "member",
           "kills": 2,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-08"
         },
         {
@@ -367,7 +400,7 @@
           "name": "레제",
           "role": "member",
           "kills": 0,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-08"
         }
       ],
