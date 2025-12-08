@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T14:00:14.2622920Z",
+  "lastUpdated": "2025-12-08T14:05:14.3030200Z",
   "teams": [
     {
       "id": "4",
@@ -330,16 +330,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 1,
+        "totalKills": 2,
         "totalDeaths": 3,
-        "teamKDR": 0.33
+        "teamKDR": 0.67
       },
       "members": [
         {
           "steamId": "76561199492962538",
           "name": "나쵸",
           "role": "member",
-          "kills": 1,
+          "kills": 2,
           "deaths": 1,
           "joinedAt": "2025-12-08"
         },
@@ -364,6 +364,17 @@
         {
           "killerSteamId": "76561199492962538",
           "killerName": "나쵸",
+          "victimSteamId": "76561199365874726",
+          "victimName": "SKY_yun",
+          "victimTeam": "Team 3",
+          "weapon": "Bone Knife",
+          "distance": 0,
+          "headshot": false,
+          "timestamp": "2025-12-08T14:00:16.8818320Z"
+        },
+        {
+          "killerSteamId": "76561199492962538",
+          "killerName": "나쵸",
           "victimSteamId": "76561199865396283",
           "victimName": "Lupi",
           "victimTeam": "Team 3",
@@ -383,8 +394,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 1,
-        "totalDeaths": 5,
-        "teamKDR": 0.2
+        "totalDeaths": 6,
+        "teamKDR": 0.17
       },
       "members": [
         {
@@ -400,7 +411,7 @@
           "name": "SKY_yun",
           "role": "member",
           "kills": 0,
-          "deaths": 2,
+          "deaths": 3,
           "joinedAt": "2025-12-08"
         }
       ],
