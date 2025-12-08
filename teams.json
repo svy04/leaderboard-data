@@ -1,4 +1,49 @@
 {
-  "lastUpdated": "2025-12-08T08:42:54.8812520Z",
-  "teams": []
+  "lastUpdated": "2025-12-08T08:47:54.9106880Z",
+  "teams": [
+    {
+      "id": "3",
+      "name": "Team 3",
+      "tag": "[T3]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 2,
+        "teamKDR": 0.5
+      },
+      "members": [
+        {
+          "steamId": "76561199865396283",
+          "name": "Lupi",
+          "role": "leader",
+          "kills": 1,
+          "deaths": 1,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561199365874726",
+          "name": "SKY_yun",
+          "role": "member",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199865396283",
+          "killerName": "Lupi",
+          "victimSteamId": "76561199365874726",
+          "victimName": "SKY_yun",
+          "victimTeam": "Solo",
+          "weapon": "Rock",
+          "distance": 0,
+          "headshot": false,
+          "timestamp": "2025-12-08T08:40:52.4376990Z"
+        }
+      ]
+    }
+  ]
 }
