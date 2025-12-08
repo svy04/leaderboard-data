@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T10:30:12.9083050Z",
+  "lastUpdated": "2025-12-08T10:35:12.9472830Z",
   "teams": [
     {
       "id": "4",
@@ -195,6 +195,38 @@
           "timestamp": "2025-12-08T08:40:52.4376990Z"
         }
       ]
+    },
+    {
+      "id": "9",
+      "name": "Team 9",
+      "tag": "[T9]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561199382747364",
+          "name": "악당처단세일러문",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198359198696",
+          "name": "Haserong",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": []
     },
     {
       "id": "7",
