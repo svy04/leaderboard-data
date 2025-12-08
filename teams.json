@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-12-08T08:57:54.9827640Z",
+  "lastUpdated": "2025-12-08T17:50:00Z",
+  "serverName": "Softopia",
   "teams": [
+    {
+      "id": "1",
+      "name": "mini",
+      "tag": "[mini]",
+      "createdAt": "2025-12-08",
+      "color": "#24FFFF",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [],
+      "recentKills": []
+    },
     {
       "id": "3",
       "name": "Team 3",
@@ -41,7 +57,7 @@
           "weapon": "Rock",
           "distance": 0,
           "headshot": false,
-          "timestamp": "2025-12-08T08:40:52.4376990Z"
+          "timestamp": "2025-12-08T08:40:52Z"
         }
       ]
     },
