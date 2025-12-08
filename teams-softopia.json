@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2025-12-08T10:10:12.8062210Z",
+  "lastUpdated": "2025-12-08T10:15:12.8237190Z",
   "teams": [
+    {
+      "id": "4",
+      "name": "Team 4",
+      "tag": "[T4]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 2,
+        "totalDeaths": 0,
+        "teamKDR": 2.0
+      },
+      "members": [
+        {
+          "steamId": "76561199840341677",
+          "name": "Q",
+          "role": "leader",
+          "kills": 2,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198004480294",
+          "name": "yes24",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561199701867902",
+          "victimName": "qwer",
+          "victimTeam": "Solo",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 8,
+          "headshot": false,
+          "timestamp": "2025-12-08T10:12:34.3644790Z"
+        },
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561198049433674",
+          "victimName": "miko",
+          "victimTeam": "Team 7",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 0,
+          "headshot": false,
+          "timestamp": "2025-12-08T09:59:29.7324490Z"
+        }
+      ]
+    },
     {
       "id": "2",
       "name": "Team 2",
@@ -42,50 +97,6 @@
           "distance": 3,
           "headshot": false,
           "timestamp": "2025-12-08T09:36:17.1720870Z"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "name": "Team 4",
-      "tag": "[T4]",
-      "createdAt": "2025-12-08",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 1,
-        "totalDeaths": 0,
-        "teamKDR": 1.0
-      },
-      "members": [
-        {
-          "steamId": "76561199840341677",
-          "name": "Q",
-          "role": "leader",
-          "kills": 1,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198004480294",
-          "name": "yes24",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561199840341677",
-          "killerName": "Q",
-          "victimSteamId": "76561198049433674",
-          "victimName": "miko",
-          "victimTeam": "Team 7",
-          "weapon": "Semi-Automatic Rifle",
-          "distance": 0,
-          "headshot": false,
-          "timestamp": "2025-12-08T09:59:29.7324490Z"
         }
       ]
     },
