@@ -1125,7 +1125,7 @@
     "SteamID": "76561198371903544",
     "DisplayName": "레제",
     "PlayersKilled": 0,
-    "Deaths": 10,
+    "Deaths": 11,
     "Headshots": 1,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -1152,7 +1152,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 2,
-    "TimePlayed": 13,
+    "TimePlayed": 0,
     "LastSeen": 1765206486
   },
   {
@@ -1193,7 +1193,7 @@
     "SteamID": "76561199492962538",
     "DisplayName": "나쵸",
     "PlayersKilled": 0,
-    "Deaths": 4,
+    "Deaths": 5,
     "Headshots": 2,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -1220,7 +1220,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 1,
-    "TimePlayed": 13,
+    "TimePlayed": 0,
     "LastSeen": 1765206420
   },
   {
@@ -1378,7 +1378,7 @@
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 102,
-    "StructuresBuilt": 10,
+    "StructuresBuilt": 12,
     "StructuresRepaired": 0,
     "PlantsGathered": 52,
     "WoodGathered": 2089,
@@ -1386,11 +1386,11 @@
     "SulfurOreGathered": 0,
     "MetalOreGathered": 0,
     "RocketsFired": 0,
-    "ExplosivesThrown": 1,
+    "ExplosivesThrown": 4,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 5,
-    "TimePlayed": 71,
+    "TimePlayed": 76,
     "LastSeen": 1765221864
   }
 ]
