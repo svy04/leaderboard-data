@@ -1,4 +1,165 @@
 {
-  "lastUpdated": "2025-01-01T00:00:00.000Z",
-  "teams": []
+  "lastUpdated": "2025-12-08T09:35:12.5537170Z",
+  "teams": [
+    {
+      "id": "5",
+      "name": "Team 5",
+      "tag": "[T5]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 0,
+        "teamKDR": 1.0
+      },
+      "members": [
+        {
+          "steamId": "76561199285603857",
+          "name": "거북이",
+          "role": "leader",
+          "kills": 1,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561199272472986",
+          "name": "Silvia",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198407401203",
+          "name": "살인",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199285603857",
+          "killerName": "거북이",
+          "victimSteamId": "76561199865396283",
+          "victimName": "Lupi",
+          "victimTeam": "Team 3",
+          "weapon": "Hunting Bow",
+          "distance": 16,
+          "headshot": true,
+          "timestamp": "2025-12-08T08:59:05.9391300Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Team 3",
+      "tag": "[T3]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 3,
+        "teamKDR": 0.33
+      },
+      "members": [
+        {
+          "steamId": "76561199865396283",
+          "name": "Lupi",
+          "role": "leader",
+          "kills": 1,
+          "deaths": 2,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561199365874726",
+          "name": "SKY_yun",
+          "role": "member",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199865396283",
+          "killerName": "Lupi",
+          "victimSteamId": "76561199365874726",
+          "victimName": "SKY_yun",
+          "victimTeam": "Solo",
+          "weapon": "Rock",
+          "distance": 0,
+          "headshot": false,
+          "timestamp": "2025-12-08T08:40:52.4376990Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Team 4",
+      "tag": "[T4]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561199840341677",
+          "name": "Q",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198004480294",
+          "name": "yes24",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": []
+    },
+    {
+      "id": "7",
+      "name": "Team 7",
+      "tag": "[T7]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561199181315683",
+          "name": "Shana",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198049433674",
+          "name": "miko",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": []
+    }
+  ]
 }
