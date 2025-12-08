@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T12:50:13.8123840Z",
+  "lastUpdated": "2025-12-08T12:55:13.8423410Z",
   "teams": [
     {
       "id": "4",
@@ -9,9 +9,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 5,
+        "totalKills": 7,
         "totalDeaths": 0,
-        "teamKDR": 5.0
+        "teamKDR": 7.0
       },
       "members": [
         {
@@ -26,12 +26,34 @@
           "steamId": "76561198004480294",
           "name": "yes24",
           "role": "member",
-          "kills": 3,
+          "kills": 5,
           "deaths": 0,
           "joinedAt": "2025-12-08"
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198004480294",
+          "killerName": "yes24",
+          "victimSteamId": "76561198858841356",
+          "victimName": "코쿠시보",
+          "victimTeam": "Team 11",
+          "weapon": "MP5A4",
+          "distance": 15,
+          "headshot": true,
+          "timestamp": "2025-12-08T12:50:43.8000400Z"
+        },
+        {
+          "killerSteamId": "76561198004480294",
+          "killerName": "yes24",
+          "victimSteamId": "76561198109763445",
+          "victimName": "Parbella",
+          "victimTeam": "Team 11",
+          "weapon": "MP5A4",
+          "distance": 14,
+          "headshot": false,
+          "timestamp": "2025-12-08T12:50:43.4822170Z"
+        },
         {
           "killerSteamId": "76561198004480294",
           "killerName": "yes24",
@@ -381,6 +403,38 @@
           "role": "member",
           "kills": 0,
           "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": []
+    },
+    {
+      "id": "11",
+      "name": "Team 11",
+      "tag": "[T11]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 3,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561198109763445",
+          "name": "Parbella",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198858841356",
+          "name": "코쿠시보",
+          "role": "member",
+          "kills": 0,
+          "deaths": 2,
           "joinedAt": "2025-12-08"
         }
       ],
