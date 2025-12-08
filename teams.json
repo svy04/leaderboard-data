@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T09:07:55.0476190Z",
+  "lastUpdated": "2025-12-08T09:10:59.5255490Z",
   "teams": [
     {
       "id": "5",
@@ -96,6 +96,38 @@
           "timestamp": "2025-12-08T08:40:52.4376990Z"
         }
       ]
+    },
+    {
+      "id": "4",
+      "name": "Team 4",
+      "tag": "[T4]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561199840341677",
+          "name": "Q",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198004480294",
+          "name": "yes24",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": []
     }
   ]
 }
