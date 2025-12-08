@@ -64,7 +64,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 8,
-    "TimePlayed": 12,
+    "TimePlayed": 17,
     "LastSeen": 1765188846
   },
   {
@@ -976,20 +976,20 @@
     "WoodGathered": 5331,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
-    "MetalOreGathered": 3500,
+    "MetalOreGathered": 4000,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 4,
-    "TimePlayed": 134,
+    "TimePlayed": 139,
     "LastSeen": 1765202081
   },
   {
     "SteamID": "76561198109763445",
     "DisplayName": "Parbella",
     "PlayersKilled": 0,
-    "Deaths": 12,
+    "Deaths": 13,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -1016,7 +1016,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 16,
-    "TimePlayed": 9,
+    "TimePlayed": 3,
     "LastSeen": 1765196514
   },
   {
@@ -1118,7 +1118,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 109,
+    "TimePlayed": 114,
     "LastSeen": 1765206821
   },
   {
@@ -1279,7 +1279,7 @@
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 44,
-    "WoodGathered": 4403,
+    "WoodGathered": 4612,
     "RocksGathered": 282,
     "SulfurOreGathered": 0,
     "MetalOreGathered": 329,
@@ -1288,7 +1288,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 0,
-    "TimePlayed": 81,
+    "TimePlayed": 86,
     "LastSeen": 1765206835
   },
   {
@@ -1305,15 +1305,15 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 0,
-    "NPCKills": 0,
+    "NPCKills": 1,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
-    "PVEKillDistance": 0,
+    "PVEKillDistance": 8,
     "StructuresBuilt": 33,
     "StructuresRepaired": 0,
-    "PlantsGathered": 24,
-    "WoodGathered": 379,
+    "PlantsGathered": 26,
+    "WoodGathered": 2770,
     "RocksGathered": 6388,
     "SulfurOreGathered": 160,
     "MetalOreGathered": 0,
@@ -1322,14 +1322,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 1,
-    "TimePlayed": 61,
+    "TimePlayed": 66,
     "LastSeen": 1765208000
   },
   {
     "SteamID": "76561199121560493",
     "DisplayName": "Dingo",
     "PlayersKilled": 0,
-    "Deaths": 1,
+    "Deaths": 2,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -1356,7 +1356,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 2,
+    "TimePlayed": 0,
     "LastSeen": 1765211441
   }
 ]
