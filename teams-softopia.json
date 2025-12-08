@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T13:40:14.1330370Z",
+  "lastUpdated": "2025-12-08T13:45:14.1602370Z",
   "teams": [
     {
       "id": "4",
@@ -9,16 +9,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 8,
+        "totalKills": 9,
         "totalDeaths": 0,
-        "teamKDR": 8.0
+        "teamKDR": 9.0
       },
       "members": [
         {
           "steamId": "76561199840341677",
           "name": "Q",
           "role": "leader",
-          "kills": 3,
+          "kills": 4,
           "deaths": 0,
           "joinedAt": "2025-12-08"
         },
@@ -32,6 +32,17 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561199492962538",
+          "victimName": "나쵸",
+          "victimTeam": "Team 12",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 34,
+          "headshot": true,
+          "timestamp": "2025-12-08T13:44:50.9540020Z"
+        },
         {
           "killerSteamId": "76561199840341677",
           "killerName": "Q",
@@ -468,7 +479,7 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 1,
+        "totalDeaths": 3,
         "teamKDR": 0.0
       },
       "members": [
@@ -477,7 +488,7 @@
           "name": "Ray",
           "role": "member",
           "kills": 0,
-          "deaths": 0,
+          "deaths": 1,
           "joinedAt": "2025-12-08"
         },
         {
@@ -485,7 +496,7 @@
           "name": "나쵸",
           "role": "member",
           "kills": 0,
-          "deaths": 0,
+          "deaths": 1,
           "joinedAt": "2025-12-08"
         },
         {
