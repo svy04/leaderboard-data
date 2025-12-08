@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T09:35:12.5537170Z",
+  "lastUpdated": "2025-12-08T09:40:12.6166540Z",
   "teams": [
     {
       "id": "5",
@@ -62,8 +62,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 1,
-        "totalDeaths": 3,
-        "teamKDR": 0.33
+        "totalDeaths": 4,
+        "teamKDR": 0.25
       },
       "members": [
         {
@@ -79,7 +79,7 @@
           "name": "SKY_yun",
           "role": "member",
           "kills": 0,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-08"
         }
       ],
