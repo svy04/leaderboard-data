@@ -18,7 +18,7 @@
     "APCKills": 0,
     "PVPKillDistance": 25,
     "PVEKillDistance": 54,
-    "StructuresBuilt": 261,
+    "StructuresBuilt": 263,
     "StructuresRepaired": 5,
     "PlantsGathered": 58,
     "WoodGathered": 26087,
@@ -30,7 +30,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 11,
-    "TimePlayed": 261,
+    "TimePlayed": 262,
     "LastSeen": 1765202447
   },
   {
@@ -54,17 +54,17 @@
     "PVEKillDistance": 24,
     "StructuresBuilt": 110,
     "StructuresRepaired": 0,
-    "PlantsGathered": 263,
+    "PlantsGathered": 275,
     "WoodGathered": 15732,
-    "RocksGathered": 18224,
-    "SulfurOreGathered": 4400,
-    "MetalOreGathered": 11500,
+    "RocksGathered": 23738,
+    "SulfurOreGathered": 4800,
+    "MetalOreGathered": 13000,
     "RocketsFired": 0,
     "ExplosivesThrown": 1,
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 7,
-    "TimePlayed": 71,
+    "TimePlayed": 76,
     "LastSeen": 1765188846
   },
   {
@@ -268,7 +268,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 12,
     "ClothesCrafted": 14,
-    "TimePlayed": 112,
+    "TimePlayed": 113,
     "LastSeen": 1765183201
   },
   {
@@ -976,13 +976,13 @@
     "WoodGathered": 5331,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
-    "MetalOreGathered": 500,
+    "MetalOreGathered": 3000,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 3,
-    "TimePlayed": 109,
+    "TimePlayed": 114,
     "LastSeen": 1765202081
   },
   {
@@ -1016,7 +1016,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 16,
-    "TimePlayed": 25,
+    "TimePlayed": 30,
     "LastSeen": 1765196514
   },
   {
@@ -1118,7 +1118,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 84,
+    "TimePlayed": 89,
     "LastSeen": 1765206821
   },
   {
@@ -1288,7 +1288,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 56,
+    "TimePlayed": 61,
     "LastSeen": 1765206835
   },
   {
@@ -1314,7 +1314,7 @@
     "StructuresRepaired": 0,
     "PlantsGathered": 22,
     "WoodGathered": 379,
-    "RocksGathered": 5807,
+    "RocksGathered": 6388,
     "SulfurOreGathered": 160,
     "MetalOreGathered": 0,
     "RocketsFired": 0,
@@ -1322,7 +1322,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 36,
+    "TimePlayed": 41,
     "LastSeen": 1765208000
   }
 ]
