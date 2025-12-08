@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 155,
     "ClothesCrafted": 67,
-    "TimePlayed": 800,
+    "TimePlayed": 805,
     "LastSeen": 1765197426
   },
   {
@@ -3226,7 +3226,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 55,
     "ClothesCrafted": 6,
-    "TimePlayed": 242,
+    "TimePlayed": 247,
     "LastSeen": 1765112858
   },
   {
@@ -3520,7 +3520,7 @@
     "APCKills": 0,
     "PVPKillDistance": 27,
     "PVEKillDistance": 83,
-    "StructuresBuilt": 416,
+    "StructuresBuilt": 475,
     "StructuresRepaired": 0,
     "PlantsGathered": 156,
     "WoodGathered": 30638,
@@ -3532,7 +3532,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 17,
     "ClothesCrafted": 4,
-    "TimePlayed": 15,
+    "TimePlayed": 20,
     "LastSeen": 1765212776
   },
   {
@@ -3558,15 +3558,15 @@
     "StructuresRepaired": 0,
     "PlantsGathered": 174,
     "WoodGathered": 840,
-    "RocksGathered": 20250,
-    "SulfurOreGathered": 800,
-    "MetalOreGathered": 4500,
+    "RocksGathered": 27000,
+    "SulfurOreGathered": 1400,
+    "MetalOreGathered": 8000,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 5,
-    "TimePlayed": 293,
+    "TimePlayed": 298,
     "LastSeen": 1765215106
   },
   {
@@ -4756,7 +4756,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 91,
     "ClothesCrafted": 13,
-    "TimePlayed": 32,
+    "TimePlayed": 37,
     "LastSeen": 1765212260
   },
   {
@@ -6966,7 +6966,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 3,
-    "TimePlayed": 1,
+    "TimePlayed": 6,
     "LastSeen": 1765208188
   },
   {
@@ -21559,7 +21559,7 @@
     "SteamID": "76561199042280855",
     "DisplayName": "김찬호",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -21586,7 +21586,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 0,
     "LastSeen": 1765215449
   }
 ]
