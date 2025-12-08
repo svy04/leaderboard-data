@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T13:00:13.8796910Z",
+  "lastUpdated": "2025-12-08T13:05:13.9232560Z",
   "teams": [
     {
       "id": "4",
@@ -435,6 +435,46 @@
           "role": "member",
           "kills": 0,
           "deaths": 2,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": []
+    },
+    {
+      "id": "12",
+      "name": "Team 12",
+      "tag": "[T12]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561199148676867",
+          "name": "Ray",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561199492962538",
+          "name": "나쵸",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198371903544",
+          "name": "레제",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
           "joinedAt": "2025-12-08"
         }
       ],
