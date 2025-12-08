@@ -1364,7 +1364,7 @@
     "DisplayName": "Breaker",
     "PlayersKilled": 0,
     "Deaths": 0,
-    "Headshots": 0,
+    "Headshots": 2,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -1373,11 +1373,11 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 0,
-    "NPCKills": 0,
+    "NPCKills": 2,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
-    "PVEKillDistance": 0,
+    "PVEKillDistance": 11,
     "StructuresBuilt": 10,
     "StructuresRepaired": 0,
     "PlantsGathered": 52,
@@ -1390,7 +1390,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 5,
-    "TimePlayed": 41,
+    "TimePlayed": 46,
     "LastSeen": 1765221864
   }
 ]
