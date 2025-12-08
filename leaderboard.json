@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 111,
     "ClothesCrafted": 67,
-    "TimePlayed": 43,
+    "TimePlayed": 48,
     "LastSeen": 1765172030
   },
   {
@@ -574,7 +574,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 73,
     "ClothesCrafted": 190,
-    "TimePlayed": 3,
+    "TimePlayed": 8,
     "LastSeen": 1765166262
   },
   {
@@ -778,7 +778,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 29,
     "ClothesCrafted": 26,
-    "TimePlayed": 7,
+    "TimePlayed": 12,
     "LastSeen": 1765166545
   },
   {
@@ -912,9 +912,9 @@
     "RocketsFired": 0,
     "ExplosivesThrown": 6,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 81,
+    "WeaponsCrafted": 86,
     "ClothesCrafted": 75,
-    "TimePlayed": 830,
+    "TimePlayed": 835,
     "LastSeen": 1765182520
   },
   {
@@ -1152,7 +1152,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 248,
     "ClothesCrafted": 36,
-    "TimePlayed": 60,
+    "TimePlayed": 65,
     "LastSeen": 1765178679
   },
   {
@@ -1431,9 +1431,9 @@
     "SteamID": "76561199836249440",
     "DisplayName": "Chino Paco",
     "PlayersKilled": 9,
-    "Deaths": 85,
+    "Deaths": 86,
     "Headshots": 34,
-    "KDR": 0.11,
+    "KDR": 0.1,
     "ArrowKills": 2,
     "MeleeKills": 0,
     "BladeKills": 0,
@@ -1458,7 +1458,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 96,
     "ClothesCrafted": 44,
-    "TimePlayed": 40,
+    "TimePlayed": 2,
     "LastSeen": 1765178217
   },
   {
@@ -1764,7 +1764,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 32,
     "ClothesCrafted": 49,
-    "TimePlayed": 201,
+    "TimePlayed": 206,
     "LastSeen": 1765165242
   },
   {
@@ -2070,7 +2070,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 0,
-    "TimePlayed": 123,
+    "TimePlayed": 128,
     "LastSeen": 1765181114
   },
   {
@@ -2750,7 +2750,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 55,
     "ClothesCrafted": 43,
-    "TimePlayed": 26,
+    "TimePlayed": 31,
     "LastSeen": 1765181609
   },
   {
@@ -3056,7 +3056,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 55,
     "ClothesCrafted": 6,
-    "TimePlayed": 1026,
+    "TimePlayed": 1031,
     "LastSeen": 1765112858
   },
   {
@@ -3430,7 +3430,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 25,
     "ClothesCrafted": 3,
-    "TimePlayed": 180,
+    "TimePlayed": 185,
     "LastSeen": 1765172022
   },
   {
@@ -3566,7 +3566,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 3,
-    "TimePlayed": 49,
+    "TimePlayed": 54,
     "LastSeen": 1765172035
   },
   {
@@ -4008,7 +4008,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 2,
-    "TimePlayed": 73,
+    "TimePlayed": 78,
     "LastSeen": 1765144185
   },
   {
@@ -4110,7 +4110,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 7,
-    "TimePlayed": 33,
+    "TimePlayed": 38,
     "LastSeen": 1765180101
   },
   {
@@ -4416,7 +4416,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 1,
-    "TimePlayed": 88,
+    "TimePlayed": 93,
     "LastSeen": 1765179643
   },
   {
@@ -4862,6 +4862,40 @@
     "LastSeen": 0
   },
   {
+    "SteamID": "76561199193895461",
+    "DisplayName": "달빛",
+    "PlayersKilled": 2,
+    "Deaths": 10,
+    "Headshots": 4,
+    "KDR": 0.2,
+    "ArrowKills": 1,
+    "MeleeKills": 0,
+    "BladeKills": 1,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 3,
+    "AnimalKills": 3,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 21,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 25,
+    "WoodGathered": 6964,
+    "RocksGathered": 2407,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 250,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 1,
+    "ClothesCrafted": 0,
+    "TimePlayed": 126,
+    "LastSeen": 1765177315
+  },
+  {
     "SteamID": "76561199126004888",
     "DisplayName": "zosel1004",
     "PlayersKilled": 2,
@@ -5130,7 +5164,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 48,
     "ClothesCrafted": 0,
-    "TimePlayed": 84,
+    "TimePlayed": 89,
     "LastSeen": 1765167263
   },
   {
@@ -6225,7 +6259,7 @@
     "SteamID": "76561199125861860",
     "DisplayName": "이김마",
     "PlayersKilled": 1,
-    "Deaths": 44,
+    "Deaths": 45,
     "Headshots": 23,
     "KDR": 0.02,
     "ArrowKills": 3,
@@ -6252,42 +6286,8 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 66,
-    "TimePlayed": 119,
+    "TimePlayed": 0,
     "LastSeen": 1765181934
-  },
-  {
-    "SteamID": "76561199193895461",
-    "DisplayName": "달빛",
-    "PlayersKilled": 1,
-    "Deaths": 10,
-    "Headshots": 3,
-    "KDR": 0.1,
-    "ArrowKills": 1,
-    "MeleeKills": 0,
-    "BladeKills": 1,
-    "RevolverKills": 0,
-    "ShotgunKills": 0,
-    "RifleKills": 3,
-    "AnimalKills": 3,
-    "NPCKills": 0,
-    "HelicopterKills": 0,
-    "APCKills": 0,
-    "PVPKillDistance": 21,
-    "PVEKillDistance": 0,
-    "StructuresBuilt": 0,
-    "StructuresRepaired": 0,
-    "PlantsGathered": 25,
-    "WoodGathered": 6964,
-    "RocksGathered": 2407,
-    "SulfurOreGathered": 0,
-    "MetalOreGathered": 250,
-    "RocketsFired": 0,
-    "ExplosivesThrown": 0,
-    "PlayersHealed": 0,
-    "WeaponsCrafted": 1,
-    "ClothesCrafted": 0,
-    "TimePlayed": 121,
-    "LastSeen": 1765177315
   },
   {
     "SteamID": "76561199241116580",
@@ -6321,7 +6321,7 @@
     "WeaponsCrafted": 18,
     "ClothesCrafted": 21,
     "TimePlayed": 0,
-    "LastSeen": 1765110021
+    "LastSeen": 1765183053
   },
   {
     "SteamID": "76561198269226785",
@@ -6626,7 +6626,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 32,
     "ClothesCrafted": 1,
-    "TimePlayed": 181,
+    "TimePlayed": 186,
     "LastSeen": 1765168671
   },
   {
@@ -8122,7 +8122,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 0,
-    "TimePlayed": 93,
+    "TimePlayed": 98,
     "LastSeen": 1765176943
   },
   {
@@ -8224,7 +8224,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 9,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1765175926
   },
   {
@@ -8428,7 +8428,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 6,
+    "TimePlayed": 11,
     "LastSeen": 1765179640
   },
   {
@@ -8462,7 +8462,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 19,
     "ClothesCrafted": 19,
-    "TimePlayed": 265,
+    "TimePlayed": 270,
     "LastSeen": 1765160730
   },
   {
@@ -8741,7 +8741,7 @@
     "SteamID": "76561199051757526",
     "DisplayName": "gotur1206",
     "PlayersKilled": 0,
-    "Deaths": 27,
+    "Deaths": 28,
     "Headshots": 11,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -8749,9 +8749,9 @@
     "BladeKills": 0,
     "RevolverKills": 0,
     "ShotgunKills": 0,
-    "RifleKills": 2,
+    "RifleKills": 3,
     "AnimalKills": 32,
-    "NPCKills": 35,
+    "NPCKills": 37,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 31,
@@ -8768,7 +8768,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 26,
     "ClothesCrafted": 8,
-    "TimePlayed": 65,
+    "TimePlayed": 0,
     "LastSeen": 1765175108
   },
   {
@@ -8945,7 +8945,7 @@
     "SteamID": "76561198082125206",
     "DisplayName": "Newbie 99",
     "PlayersKilled": 0,
-    "Deaths": 3,
+    "Deaths": 4,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -8972,7 +8972,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 17,
+    "TimePlayed": 0,
     "LastSeen": 1765181150
   },
   {
@@ -19036,7 +19036,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
     "ClothesCrafted": 16,
-    "TimePlayed": 18,
+    "TimePlayed": 23,
     "LastSeen": 1765178994
   },
   {
@@ -19852,7 +19852,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 4,
-    "TimePlayed": 24,
+    "TimePlayed": 29,
     "LastSeen": 1765181430
   },
   {
@@ -20437,8 +20437,8 @@
     "SteamID": "76561198317416621",
     "DisplayName": "오일리그경유도둑82세곽춘자",
     "PlayersKilled": 0,
-    "Deaths": 6,
-    "Headshots": 7,
+    "Deaths": 7,
+    "Headshots": 8,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -20447,7 +20447,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 0,
-    "NPCKills": 15,
+    "NPCKills": 17,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
@@ -20464,7 +20464,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 57,
+    "TimePlayed": 0,
     "LastSeen": 1765173054
   },
   {
@@ -20498,7 +20498,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 47,
+    "TimePlayed": 52,
     "LastSeen": 1765175991
   },
   {
@@ -20532,7 +20532,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 39,
+    "TimePlayed": 44,
     "LastSeen": 1765179819
   },
   {
