@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T20:15:16.6852000Z",
+  "lastUpdated": "2025-12-08T20:20:16.7150990Z",
   "teams": [
     {
       "id": "4",
@@ -449,8 +449,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 2,
-        "totalDeaths": 5,
-        "teamKDR": 0.4
+        "totalDeaths": 7,
+        "teamKDR": 0.29
       },
       "members": [
         {
@@ -458,7 +458,7 @@
           "name": "나쵸",
           "role": "member",
           "kills": 2,
-          "deaths": 2,
+          "deaths": 3,
           "joinedAt": "2025-12-08"
         },
         {
@@ -474,7 +474,7 @@
           "name": "레제",
           "role": "member",
           "kills": 0,
-          "deaths": 2,
+          "deaths": 3,
           "joinedAt": "2025-12-08"
         }
       ],
