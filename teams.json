@@ -1,21 +1,57 @@
 {
-  "lastUpdated": "2025-12-08T17:50:00Z",
-  "serverName": "Softopia",
+  "lastUpdated": "2025-12-08T09:02:55.0100780Z",
   "teams": [
     {
-      "id": "1",
-      "name": "mini",
-      "tag": "[mini]",
+      "id": "5",
+      "name": "Team 5",
+      "tag": "[T5]",
       "createdAt": "2025-12-08",
-      "color": "#24FFFF",
+      "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 0,
+        "totalKills": 1,
         "totalDeaths": 0,
-        "teamKDR": 0.0
+        "teamKDR": 1.0
       },
-      "members": [],
-      "recentKills": []
+      "members": [
+        {
+          "steamId": "76561199285603857",
+          "name": "거북이",
+          "role": "leader",
+          "kills": 1,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561199272472986",
+          "name": "Silvia",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198407401203",
+          "name": "살인",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199285603857",
+          "killerName": "거북이",
+          "victimSteamId": "76561199865396283",
+          "victimName": "Lupi",
+          "victimTeam": "Team 3",
+          "weapon": "Hunting Bow",
+          "distance": 16,
+          "headshot": true,
+          "timestamp": "2025-12-08T08:59:05.9391300Z"
+        }
+      ]
     },
     {
       "id": "3",
@@ -26,8 +62,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 1,
-        "totalDeaths": 2,
-        "teamKDR": 0.5
+        "totalDeaths": 3,
+        "teamKDR": 0.33
       },
       "members": [
         {
@@ -35,7 +71,7 @@
           "name": "Lupi",
           "role": "leader",
           "kills": 1,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-08"
         },
         {
@@ -57,41 +93,9 @@
           "weapon": "Rock",
           "distance": 0,
           "headshot": false,
-          "timestamp": "2025-12-08T08:40:52Z"
+          "timestamp": "2025-12-08T08:40:52.4376990Z"
         }
       ]
-    },
-    {
-      "id": "5",
-      "name": "Team 5",
-      "tag": "[T5]",
-      "createdAt": "2025-12-08",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 0,
-        "totalDeaths": 0,
-        "teamKDR": 0.0
-      },
-      "members": [
-        {
-          "steamId": "76561199272472986",
-          "name": "Silvia",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198407401203",
-          "name": "살인",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": []
     }
   ]
 }
