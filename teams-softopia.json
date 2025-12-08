@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T09:45:12.6251540Z",
+  "lastUpdated": "2025-12-08T09:50:12.6719440Z",
   "teams": [
     {
       "id": "5",
@@ -80,6 +80,14 @@
           "role": "member",
           "kills": 0,
           "deaths": 2,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198431469582",
+          "name": "진뚱",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
           "joinedAt": "2025-12-08"
         }
       ],
