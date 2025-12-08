@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2025-12-08T10:00:12.7277290Z",
+  "lastUpdated": "2025-12-08T10:05:12.7511270Z",
   "teams": [
+    {
+      "id": "2",
+      "name": "Team 2",
+      "tag": "[T2]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 0,
+        "teamKDR": 1.0
+      },
+      "members": [
+        {
+          "steamId": "76561198220382860",
+          "name": "Bombardiro Crocodilo",
+          "role": "leader",
+          "kills": 1,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561199723192098",
+          "name": "propaganda",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561198220382860",
+          "killerName": "Bombardiro Crocodilo",
+          "victimSteamId": "76561199365874726",
+          "victimName": "SKY_yun",
+          "victimTeam": "Team 3",
+          "weapon": "Hunting Bow",
+          "distance": 3,
+          "headshot": false,
+          "timestamp": "2025-12-08T09:36:17.1720870Z"
+        }
+      ]
+    },
     {
       "id": "4",
       "name": "Team 4",
