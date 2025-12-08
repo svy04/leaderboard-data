@@ -18,7 +18,7 @@
     "APCKills": 0,
     "PVPKillDistance": 25,
     "PVEKillDistance": 19,
-    "StructuresBuilt": 36,
+    "StructuresBuilt": 37,
     "StructuresRepaired": 0,
     "PlantsGathered": 58,
     "WoodGathered": 13862,
@@ -30,7 +30,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 9,
-    "TimePlayed": 166,
+    "TimePlayed": 171,
     "LastSeen": 1765183364
   },
   {
@@ -64,7 +64,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 22,
+    "TimePlayed": 27,
     "LastSeen": 1765183415
   },
   {
@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 5,
-    "TimePlayed": 22,
+    "TimePlayed": 27,
     "LastSeen": 1765182952
   },
   {
@@ -114,12 +114,12 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 0,
-    "AnimalKills": 0,
+    "AnimalKills": 1,
     "NPCKills": 0,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 125,
-    "PVEKillDistance": 0,
+    "PVEKillDistance": 8,
     "StructuresBuilt": 12,
     "StructuresRepaired": 0,
     "PlantsGathered": 50,
@@ -132,7 +132,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 7,
-    "TimePlayed": 17,
+    "TimePlayed": 22,
     "LastSeen": 1765188301
   },
   {
@@ -234,7 +234,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 8,
-    "TimePlayed": 168,
+    "TimePlayed": 173,
     "LastSeen": 1765183201
   },
   {
@@ -744,7 +744,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 17,
+    "TimePlayed": 22,
     "LastSeen": 1765188377
   },
   {
@@ -768,7 +768,7 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 27,
     "StructuresRepaired": 0,
-    "PlantsGathered": 31,
+    "PlantsGathered": 33,
     "WoodGathered": 4253,
     "RocksGathered": 7724,
     "SulfurOreGathered": 1600,
@@ -778,14 +778,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 3,
-    "TimePlayed": 74,
+    "TimePlayed": 79,
     "LastSeen": 1765188846
   },
   {
     "SteamID": "76561198359198696",
     "DisplayName": "Haserong",
     "PlayersKilled": 0,
-    "Deaths": 3,
+    "Deaths": 5,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -800,7 +800,7 @@
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 0,
-    "StructuresBuilt": 77,
+    "StructuresBuilt": 78,
     "StructuresRepaired": 0,
     "PlantsGathered": 44,
     "WoodGathered": 513,
@@ -812,14 +812,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 6,
+    "TimePlayed": 3,
     "LastSeen": 1765189686
   },
   {
     "SteamID": "76561198361831915",
     "DisplayName": "Hasegi",
     "PlayersKilled": 0,
-    "Deaths": 1,
+    "Deaths": 2,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -846,7 +846,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 51,
+    "TimePlayed": 3,
     "LastSeen": 1765190186
   }
 ]
