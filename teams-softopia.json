@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T15:30:14.8367610Z",
+  "lastUpdated": "2025-12-08T15:35:14.8788150Z",
   "teams": [
     {
       "id": "4",
@@ -430,6 +430,58 @@
       ]
     },
     {
+      "id": "11",
+      "name": "Team 11",
+      "tag": "[T11]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 5,
+        "teamKDR": 0.2
+      },
+      "members": [
+        {
+          "steamId": "76561198109763445",
+          "name": "Parbella",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 3,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198444677919",
+          "name": "ctysun020304",
+          "role": "member",
+          "kills": 1,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198858841356",
+          "name": "코쿠시보",
+          "role": "member",
+          "kills": 0,
+          "deaths": 2,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561198444677919",
+          "killerName": "ctysun020304",
+          "victimSteamId": "76561198109763445",
+          "victimName": "Parbella",
+          "victimTeam": "Team 11",
+          "weapon": "Salvaged Sword",
+          "distance": 0,
+          "headshot": false,
+          "timestamp": "2025-12-08T15:32:44.3539540Z"
+        }
+      ]
+    },
+    {
       "id": "3",
       "name": "Team 3",
       "tag": "[T3]",
@@ -529,46 +581,6 @@
         {
           "steamId": "76561198362366687",
           "name": "코코마쵸블",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": []
-    },
-    {
-      "id": "11",
-      "name": "Team 11",
-      "tag": "[T11]",
-      "createdAt": "2025-12-08",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 0,
-        "totalDeaths": 4,
-        "teamKDR": 0.0
-      },
-      "members": [
-        {
-          "steamId": "76561198109763445",
-          "name": "Parbella",
-          "role": "leader",
-          "kills": 0,
-          "deaths": 2,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198858841356",
-          "name": "코쿠시보",
-          "role": "member",
-          "kills": 0,
-          "deaths": 2,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198444677919",
-          "name": "ctysun020304",
           "role": "member",
           "kills": 0,
           "deaths": 0,
