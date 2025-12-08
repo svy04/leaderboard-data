@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2025-12-08T09:55:12.6846510Z",
+  "lastUpdated": "2025-12-08T10:00:12.7277290Z",
   "teams": [
+    {
+      "id": "4",
+      "name": "Team 4",
+      "tag": "[T4]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 0,
+        "teamKDR": 1.0
+      },
+      "members": [
+        {
+          "steamId": "76561199840341677",
+          "name": "Q",
+          "role": "leader",
+          "kills": 1,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198004480294",
+          "name": "yes24",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561198049433674",
+          "victimName": "miko",
+          "victimTeam": "Team 7",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 0,
+          "headshot": false,
+          "timestamp": "2025-12-08T09:59:29.7324490Z"
+        }
+      ]
+    },
     {
       "id": "5",
       "name": "Team 5",
@@ -98,38 +142,6 @@
       ]
     },
     {
-      "id": "4",
-      "name": "Team 4",
-      "tag": "[T4]",
-      "createdAt": "2025-12-08",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 0,
-        "totalDeaths": 0,
-        "teamKDR": 0.0
-      },
-      "members": [
-        {
-          "steamId": "76561199840341677",
-          "name": "Q",
-          "role": "leader",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198004480294",
-          "name": "yes24",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": []
-    },
-    {
       "id": "7",
       "name": "Team 7",
       "tag": "[T7]",
@@ -138,7 +150,7 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 0,
+        "totalDeaths": 1,
         "teamKDR": 0.0
       },
       "members": [
@@ -153,6 +165,38 @@
         {
           "steamId": "76561198049433674",
           "name": "miko",
+          "role": "member",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": []
+    },
+    {
+      "id": "8",
+      "name": "Team 8",
+      "tag": "[T8]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561198098822640",
+          "name": "영이",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198362366687",
+          "name": "코코마쵸블",
           "role": "member",
           "kills": 0,
           "deaths": 0,
