@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T11:00:13.0994010Z",
+  "lastUpdated": "2025-12-08T11:05:13.1634870Z",
   "teams": [
     {
       "id": "4",
@@ -86,16 +86,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 1,
+        "totalKills": 3,
         "totalDeaths": 0,
-        "teamKDR": 1.0
+        "teamKDR": 3.0
       },
       "members": [
         {
           "steamId": "76561198220382860",
           "name": "Bombardiro Crocodilo",
           "role": "leader",
-          "kills": 1,
+          "kills": 2,
           "deaths": 0,
           "joinedAt": "2025-12-08"
         },
@@ -103,12 +103,34 @@
           "steamId": "76561199723192098",
           "name": "propaganda",
           "role": "member",
-          "kills": 0,
+          "kills": 1,
           "deaths": 0,
           "joinedAt": "2025-12-08"
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198220382860",
+          "killerName": "Bombardiro Crocodilo",
+          "victimSteamId": "76561198324946154",
+          "victimName": "Usona",
+          "victimTeam": "Team 9",
+          "weapon": "Thompson",
+          "distance": 8,
+          "headshot": false,
+          "timestamp": "2025-12-08T11:04:48.2331050Z"
+        },
+        {
+          "killerSteamId": "76561199723192098",
+          "killerName": "propaganda",
+          "victimSteamId": "76561198359198696",
+          "victimName": "Haserong",
+          "victimTeam": "Team 9",
+          "weapon": "Custom SMG",
+          "distance": 8,
+          "headshot": false,
+          "timestamp": "2025-12-08T11:04:47.7028360Z"
+        },
         {
           "killerSteamId": "76561198220382860",
           "killerName": "Bombardiro Crocodilo",
@@ -227,10 +249,18 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 0,
+        "totalDeaths": 2,
         "teamKDR": 0.0
       },
       "members": [
+        {
+          "steamId": "76561198324946154",
+          "name": "Usona",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-08"
+        },
         {
           "steamId": "76561199382747364",
           "name": "악당처단세일러문",
@@ -244,7 +274,7 @@
           "name": "Haserong",
           "role": "member",
           "kills": 0,
-          "deaths": 0,
+          "deaths": 1,
           "joinedAt": "2025-12-08"
         },
         {
