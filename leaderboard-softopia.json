@@ -18,7 +18,7 @@
     "APCKills": 0,
     "PVPKillDistance": 25,
     "PVEKillDistance": 52,
-    "StructuresBuilt": 50,
+    "StructuresBuilt": 65,
     "StructuresRepaired": 0,
     "PlantsGathered": 58,
     "WoodGathered": 17837,
@@ -30,7 +30,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 9,
-    "TimePlayed": 35,
+    "TimePlayed": 40,
     "LastSeen": 1765183364
   },
   {
@@ -106,7 +106,7 @@
     "DisplayName": "Usona",
     "PlayersKilled": 1,
     "Deaths": 4,
-    "Headshots": 4,
+    "Headshots": 7,
     "KDR": 0.25,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -115,7 +115,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 1,
-    "NPCKills": 5,
+    "NPCKills": 14,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 125,
@@ -132,7 +132,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 8,
-    "TimePlayed": 40,
+    "TimePlayed": 45,
     "LastSeen": 1765188301
   },
   {
@@ -234,7 +234,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 10,
-    "TimePlayed": 223,
+    "TimePlayed": 228,
     "LastSeen": 1765183201
   },
   {
@@ -718,7 +718,7 @@
     "DisplayName": "악당처단세일러문",
     "PlayersKilled": 0,
     "Deaths": 2,
-    "Headshots": 1,
+    "Headshots": 2,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -727,7 +727,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 0,
-    "NPCKills": 2,
+    "NPCKills": 3,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
@@ -744,7 +744,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 40,
+    "TimePlayed": 45,
     "LastSeen": 1765188377
   },
   {
@@ -778,15 +778,15 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 4,
-    "TimePlayed": 16,
+    "TimePlayed": 21,
     "LastSeen": 1765188846
   },
   {
     "SteamID": "76561198359198696",
     "DisplayName": "Haserong",
     "PlayersKilled": 0,
-    "Deaths": 6,
-    "Headshots": 4,
+    "Deaths": 7,
+    "Headshots": 7,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -795,7 +795,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 1,
-    "NPCKills": 4,
+    "NPCKills": 7,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
@@ -812,7 +812,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 40,
+    "TimePlayed": 1,
     "LastSeen": 1765189686
   },
   {
@@ -982,7 +982,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 2,
+    "TimePlayed": 7,
     "LastSeen": 1765196507
   },
   {
@@ -1016,7 +1016,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 2,
+    "TimePlayed": 7,
     "LastSeen": 1765196514
   }
 ]
