@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T08:52:54.9437820Z",
+  "lastUpdated": "2025-12-08T08:54:10.2794920Z",
   "teams": [
     {
       "id": "3",
@@ -44,6 +44,38 @@
           "timestamp": "2025-12-08T08:40:52.4376990Z"
         }
       ]
+    },
+    {
+      "id": "5",
+      "name": "Team 5",
+      "tag": "[T5]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561199272472986",
+          "name": "Silvia",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198407401203",
+          "name": "살인",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": []
     }
   ]
 }
