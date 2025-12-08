@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T13:55:14.2488930Z",
+  "lastUpdated": "2025-12-08T14:00:14.2622920Z",
   "teams": [
     {
       "id": "4",
@@ -323,6 +323,58 @@
       ]
     },
     {
+      "id": "12",
+      "name": "Team 12",
+      "tag": "[T12]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 3,
+        "teamKDR": 0.33
+      },
+      "members": [
+        {
+          "steamId": "76561199492962538",
+          "name": "나쵸",
+          "role": "member",
+          "kills": 1,
+          "deaths": 1,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561199148676867",
+          "name": "Ray",
+          "role": "member",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198371903544",
+          "name": "레제",
+          "role": "member",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199492962538",
+          "killerName": "나쵸",
+          "victimSteamId": "76561199865396283",
+          "victimName": "Lupi",
+          "victimTeam": "Team 3",
+          "weapon": "Bone Knife",
+          "distance": 0,
+          "headshot": true,
+          "timestamp": "2025-12-08T14:00:12.6761070Z"
+        }
+      ]
+    },
+    {
       "id": "3",
       "name": "Team 3",
       "tag": "[T3]",
@@ -331,8 +383,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 1,
-        "totalDeaths": 4,
-        "teamKDR": 0.25
+        "totalDeaths": 5,
+        "teamKDR": 0.2
       },
       "members": [
         {
@@ -340,7 +392,7 @@
           "name": "Lupi",
           "role": "leader",
           "kills": 1,
-          "deaths": 2,
+          "deaths": 3,
           "joinedAt": "2025-12-08"
         },
         {
@@ -465,46 +517,6 @@
           "role": "member",
           "kills": 0,
           "deaths": 0,
-          "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": []
-    },
-    {
-      "id": "12",
-      "name": "Team 12",
-      "tag": "[T12]",
-      "createdAt": "2025-12-08",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 0,
-        "totalDeaths": 3,
-        "teamKDR": 0.0
-      },
-      "members": [
-        {
-          "steamId": "76561199148676867",
-          "name": "Ray",
-          "role": "member",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561199492962538",
-          "name": "나쵸",
-          "role": "member",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198371903544",
-          "name": "레제",
-          "role": "member",
-          "kills": 0,
-          "deaths": 1,
           "joinedAt": "2025-12-08"
         }
       ],
