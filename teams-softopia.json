@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T10:45:13.0063230Z",
+  "lastUpdated": "2025-12-08T10:50:13.0367300Z",
   "teams": [
     {
       "id": "4",
@@ -9,9 +9,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 2,
+        "totalKills": 3,
         "totalDeaths": 0,
-        "teamKDR": 2.0
+        "teamKDR": 3.0
       },
       "members": [
         {
@@ -26,12 +26,23 @@
           "steamId": "76561198004480294",
           "name": "yes24",
           "role": "member",
-          "kills": 0,
+          "kills": 1,
           "deaths": 0,
           "joinedAt": "2025-12-08"
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198004480294",
+          "killerName": "yes24",
+          "victimSteamId": "76561198098822640",
+          "victimName": "영이",
+          "victimTeam": "Team 8",
+          "weapon": "Crossbow",
+          "distance": 3,
+          "headshot": true,
+          "timestamp": "2025-12-08T10:47:18.1220670Z"
+        },
         {
           "killerSteamId": "76561199840341677",
           "killerName": "Q",
@@ -277,7 +288,7 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 0,
+        "totalDeaths": 1,
         "teamKDR": 0.0
       },
       "members": [
@@ -286,7 +297,7 @@
           "name": "영이",
           "role": "member",
           "kills": 0,
-          "deaths": 0,
+          "deaths": 1,
           "joinedAt": "2025-12-08"
         },
         {
