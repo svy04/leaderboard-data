@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T14:35:14.5026570Z",
+  "lastUpdated": "2025-12-08T14:40:14.5139690Z",
   "teams": [
     {
       "id": "4",
@@ -134,9 +134,9 @@
       ]
     },
     {
-      "id": "2",
-      "name": "ppap",
-      "tag": "[ppap]",
+      "id": "9",
+      "name": "Team 9",
+      "tag": "[T9]",
       "createdAt": "2025-12-08",
       "color": "#888888",
       "motto": "No motto set",
@@ -147,11 +147,93 @@
       },
       "members": [
         {
+          "steamId": "76561198324946154",
+          "name": "Usona",
+          "role": "leader",
+          "kills": 1,
+          "deaths": 1,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198359198696",
+          "name": "Haserong",
+          "role": "member",
+          "kills": 1,
+          "deaths": 1,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198361831915",
+          "name": "Hasegi",
+          "role": "member",
+          "kills": 1,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561199382747364",
+          "name": "악당처단세일러문",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561198359198696",
+          "killerName": "Haserong",
+          "victimSteamId": "76561198220382860",
+          "victimName": "Bombardiro Crocodilo",
+          "victimTeam": "ppap",
+          "weapon": "explosive.satchel.deployed",
+          "distance": 5,
+          "headshot": false,
+          "timestamp": "2025-12-08T14:39:20.7129660Z"
+        },
+        {
+          "killerSteamId": "76561198361831915",
+          "killerName": "Hasegi",
+          "victimSteamId": "76561199723192098",
+          "victimName": "propaganda",
+          "victimTeam": "Team 2",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 8,
+          "headshot": false,
+          "timestamp": "2025-12-08T11:06:33.3848420Z"
+        },
+        {
+          "killerSteamId": "76561198324946154",
+          "killerName": "Usona",
+          "victimSteamId": "76561198220382860",
+          "victimName": "Bombardiro Crocodilo",
+          "victimTeam": "Team 2",
+          "weapon": "Thompson",
+          "distance": 125,
+          "headshot": true,
+          "timestamp": "2025-12-08T11:06:19.5239450Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "ppap",
+      "tag": "[ppap]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 3,
+        "totalDeaths": 3,
+        "teamKDR": 1.0
+      },
+      "members": [
+        {
           "steamId": "76561198220382860",
           "name": "Bombardiro Crocodilo",
           "role": "leader",
           "kills": 2,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-08"
         },
         {
@@ -196,77 +278,6 @@
           "distance": 3,
           "headshot": false,
           "timestamp": "2025-12-08T09:36:17.1720870Z"
-        }
-      ]
-    },
-    {
-      "id": "9",
-      "name": "Team 9",
-      "tag": "[T9]",
-      "createdAt": "2025-12-08",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 2,
-        "totalDeaths": 2,
-        "teamKDR": 1.0
-      },
-      "members": [
-        {
-          "steamId": "76561198324946154",
-          "name": "Usona",
-          "role": "leader",
-          "kills": 1,
-          "deaths": 1,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198361831915",
-          "name": "Hasegi",
-          "role": "member",
-          "kills": 1,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561199382747364",
-          "name": "악당처단세일러문",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198359198696",
-          "name": "Haserong",
-          "role": "member",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561198361831915",
-          "killerName": "Hasegi",
-          "victimSteamId": "76561199723192098",
-          "victimName": "propaganda",
-          "victimTeam": "Team 2",
-          "weapon": "Semi-Automatic Rifle",
-          "distance": 8,
-          "headshot": false,
-          "timestamp": "2025-12-08T11:06:33.3848420Z"
-        },
-        {
-          "killerSteamId": "76561198324946154",
-          "killerName": "Usona",
-          "victimSteamId": "76561198220382860",
-          "victimName": "Bombardiro Crocodilo",
-          "victimTeam": "Team 2",
-          "weapon": "Thompson",
-          "distance": 125,
-          "headshot": true,
-          "timestamp": "2025-12-08T11:06:19.5239450Z"
         }
       ]
     },
@@ -502,7 +513,7 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 3,
+        "totalDeaths": 4,
         "teamKDR": 0.0
       },
       "members": [
@@ -511,7 +522,7 @@
           "name": "Parbella",
           "role": "leader",
           "kills": 0,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-08"
         },
         {
