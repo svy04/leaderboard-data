@@ -30,7 +30,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 9,
-    "TimePlayed": 176,
+    "TimePlayed": 181,
     "LastSeen": 1765183364
   },
   {
@@ -64,7 +64,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 32,
+    "TimePlayed": 37,
     "LastSeen": 1765183415
   },
   {
@@ -98,16 +98,16 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 5,
-    "TimePlayed": 32,
+    "TimePlayed": 37,
     "LastSeen": 1765182952
   },
   {
     "SteamID": "76561198324946154",
     "DisplayName": "Usona",
     "PlayersKilled": 1,
-    "Deaths": 3,
-    "Headshots": 1,
-    "KDR": 0.33,
+    "Deaths": 4,
+    "Headshots": 4,
+    "KDR": 0.25,
     "ArrowKills": 0,
     "MeleeKills": 0,
     "BladeKills": 0,
@@ -115,11 +115,11 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 1,
-    "NPCKills": 0,
+    "NPCKills": 3,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 125,
-    "PVEKillDistance": 8,
+    "PVEKillDistance": 34,
     "StructuresBuilt": 12,
     "StructuresRepaired": 0,
     "PlantsGathered": 50,
@@ -132,7 +132,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 7,
-    "TimePlayed": 27,
+    "TimePlayed": 0,
     "LastSeen": 1765188301
   },
   {
@@ -234,7 +234,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 8,
-    "TimePlayed": 178,
+    "TimePlayed": 183,
     "LastSeen": 1765183201
   },
   {
@@ -718,7 +718,7 @@
     "DisplayName": "악당처단세일러문",
     "PlayersKilled": 0,
     "Deaths": 1,
-    "Headshots": 0,
+    "Headshots": 1,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -727,11 +727,11 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 0,
-    "NPCKills": 0,
+    "NPCKills": 2,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
-    "PVEKillDistance": 0,
+    "PVEKillDistance": 32,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 4,
@@ -744,7 +744,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 27,
+    "TimePlayed": 32,
     "LastSeen": 1765188377
   },
   {
@@ -778,14 +778,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 3,
-    "TimePlayed": 84,
+    "TimePlayed": 89,
     "LastSeen": 1765188846
   },
   {
     "SteamID": "76561198359198696",
     "DisplayName": "Haserong",
     "PlayersKilled": 0,
-    "Deaths": 5,
+    "Deaths": 6,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -812,7 +812,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 8,
+    "TimePlayed": 0,
     "LastSeen": 1765189686
   },
   {
@@ -829,11 +829,11 @@
     "ShotgunKills": 0,
     "RifleKills": 1,
     "AnimalKills": 1,
-    "NPCKills": 0,
+    "NPCKills": 1,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 8,
-    "PVEKillDistance": 15,
+    "PVEKillDistance": 22,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 66,
@@ -846,7 +846,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1765190186
   }
 ]
