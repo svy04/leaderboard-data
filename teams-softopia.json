@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T13:35:14.1038590Z",
+  "lastUpdated": "2025-12-08T13:40:14.1330370Z",
   "teams": [
     {
       "id": "4",
@@ -9,16 +9,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 7,
+        "totalKills": 8,
         "totalDeaths": 0,
-        "teamKDR": 7.0
+        "teamKDR": 8.0
       },
       "members": [
         {
           "steamId": "76561199840341677",
           "name": "Q",
           "role": "leader",
-          "kills": 2,
+          "kills": 3,
           "deaths": 0,
           "joinedAt": "2025-12-08"
         },
@@ -32,6 +32,17 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561198371903544",
+          "victimName": "레제",
+          "victimTeam": "Team 12",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 67,
+          "headshot": false,
+          "timestamp": "2025-12-08T13:39:19.6914530Z"
+        },
         {
           "killerSteamId": "76561198004480294",
           "killerName": "yes24",
@@ -457,7 +468,7 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 0,
+        "totalDeaths": 1,
         "teamKDR": 0.0
       },
       "members": [
@@ -482,7 +493,7 @@
           "name": "레제",
           "role": "member",
           "kills": 0,
-          "deaths": 0,
+          "deaths": 1,
           "joinedAt": "2025-12-08"
         }
       ],
