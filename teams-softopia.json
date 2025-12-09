@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-09T10:20:22.1263240Z",
+  "lastUpdated": "2025-12-09T10:25:22.1530040Z",
   "teams": [
     {
       "id": "4",
@@ -174,9 +174,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 3,
+        "totalKills": 5,
         "totalDeaths": 2,
-        "teamKDR": 1.5
+        "teamKDR": 2.5
       },
       "members": [
         {
@@ -186,6 +186,14 @@
           "kills": 1,
           "deaths": 1,
           "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198136589812",
+          "name": "Life",
+          "role": "member",
+          "kills": 2,
+          "deaths": 0,
+          "joinedAt": "2025-12-09"
         },
         {
           "steamId": "76561198359198696",
@@ -210,17 +218,31 @@
           "kills": 0,
           "deaths": 0,
           "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198136589812",
-          "name": "Life",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-09"
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561198097924882",
+          "victimName": "GOLD",
+          "victimTeam": "Team 12",
+          "weapon": "Assault Rifle",
+          "distance": 1,
+          "headshot": false,
+          "timestamp": "2025-12-09T10:23:54.4097830Z"
+        },
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561198371903544",
+          "victimName": "레제",
+          "victimTeam": "Team 12",
+          "weapon": "explosive.satchel.deployed",
+          "distance": 7,
+          "headshot": false,
+          "timestamp": "2025-12-09T10:23:04.3707490Z"
+        },
         {
           "killerSteamId": "76561198359198696",
           "killerName": "Haserong",
@@ -457,8 +479,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 2,
-        "totalDeaths": 9,
-        "teamKDR": 0.22
+        "totalDeaths": 11,
+        "teamKDR": 0.18
       },
       "members": [
         {
@@ -466,7 +488,7 @@
           "name": "GOLD",
           "role": "leader",
           "kills": 0,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-09"
         },
         {
@@ -490,7 +512,7 @@
           "name": "레제",
           "role": "member",
           "kills": 0,
-          "deaths": 3,
+          "deaths": 4,
           "joinedAt": "2025-12-08"
         }
       ],
