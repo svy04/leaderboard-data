@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-09T13:25:23.3231980Z",
+  "lastUpdated": "2025-12-09T13:30:23.3499470Z",
   "teams": [
     {
       "id": "9",
@@ -9,9 +9,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 18,
+        "totalKills": 20,
         "totalDeaths": 5,
-        "teamKDR": 3.6
+        "teamKDR": 4.0
       },
       "members": [
         {
@@ -23,20 +23,20 @@
           "joinedAt": "2025-12-08"
         },
         {
+          "steamId": "76561198136589812",
+          "name": "Life",
+          "role": "member",
+          "kills": 8,
+          "deaths": 0,
+          "joinedAt": "2025-12-09"
+        },
+        {
           "steamId": "76561199840341677",
           "name": "Q",
           "role": "member",
           "kills": 6,
           "deaths": 0,
           "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198136589812",
-          "name": "Life",
-          "role": "member",
-          "kills": 6,
-          "deaths": 0,
-          "joinedAt": "2025-12-09"
         },
         {
           "steamId": "76561198359198696",
@@ -64,6 +64,28 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561199177666110",
+          "victimName": "Dispoiler",
+          "victimTeam": "Team 16",
+          "weapon": "Bolt Action Rifle",
+          "distance": 113,
+          "headshot": false,
+          "timestamp": "2025-12-09T13:28:24.6916210Z"
+        },
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561199166026601",
+          "victimName": "MeKaNNN",
+          "victimTeam": "Team 16",
+          "weapon": "rocket_hv_rpg",
+          "distance": 21,
+          "headshot": false,
+          "timestamp": "2025-12-09T13:27:31.0702140Z"
+        },
         {
           "killerSteamId": "76561198359198696",
           "killerName": "Haserong",
@@ -565,6 +587,38 @@
           "kills": 0,
           "deaths": 0,
           "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": []
+    },
+    {
+      "id": "16",
+      "name": "Team 16",
+      "tag": "[T16]",
+      "createdAt": "2025-12-09",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 2,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561199166026601",
+          "name": "MeKaNNN",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-09"
+        },
+        {
+          "steamId": "76561199177666110",
+          "name": "Dispoiler",
+          "role": "member",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-09"
         }
       ],
       "recentKills": []
