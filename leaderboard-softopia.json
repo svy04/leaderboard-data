@@ -812,7 +812,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 3,
-    "TimePlayed": 98,
+    "TimePlayed": 103,
     "LastSeen": 1765255218
   },
   {
@@ -982,7 +982,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 4,
-    "TimePlayed": 212,
+    "TimePlayed": 217,
     "LastSeen": 1765278269
   },
   {
@@ -990,10 +990,10 @@
     "DisplayName": "Parbella",
     "PlayersKilled": 0,
     "Deaths": 19,
-    "Headshots": 3,
+    "Headshots": 4,
     "KDR": 0.0,
     "ArrowKills": 0,
-    "MeleeKills": 0,
+    "MeleeKills": 1,
     "BladeKills": 0,
     "RevolverKills": 0,
     "ShotgunKills": 0,
@@ -1016,14 +1016,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 12,
     "ClothesCrafted": 40,
-    "TimePlayed": 9,
+    "TimePlayed": 14,
     "LastSeen": 1765275376
   },
   {
     "SteamID": "76561198858841356",
     "DisplayName": "코쿠시보",
     "PlayersKilled": 0,
-    "Deaths": 12,
+    "Deaths": 13,
     "Headshots": 3,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -1050,7 +1050,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 32,
+    "TimePlayed": 1,
     "LastSeen": 1765278950
   },
   {
@@ -1473,12 +1473,12 @@
     "BladeKills": 0,
     "RevolverKills": 0,
     "ShotgunKills": 0,
-    "RifleKills": 4,
+    "RifleKills": 5,
     "AnimalKills": 5,
     "NPCKills": 2,
     "HelicopterKills": 0,
     "APCKills": 0,
-    "PVPKillDistance": 77,
+    "PVPKillDistance": 113,
     "PVEKillDistance": 44,
     "StructuresBuilt": 2,
     "StructuresRepaired": 13,
@@ -1492,7 +1492,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 3,
-    "TimePlayed": 244,
+    "TimePlayed": 249,
     "LastSeen": 1765286802
   },
   {
@@ -1585,7 +1585,7 @@
     "StructuresBuilt": 27,
     "StructuresRepaired": 0,
     "PlantsGathered": 33,
-    "WoodGathered": 2045,
+    "WoodGathered": 2888,
     "RocksGathered": 4960,
     "SulfurOreGathered": 476,
     "MetalOreGathered": 2715,
@@ -1594,7 +1594,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 108,
+    "TimePlayed": 113,
     "LastSeen": 1765280382
   },
   {
@@ -1628,14 +1628,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 98,
+    "TimePlayed": 103,
     "LastSeen": 1765280974
   },
   {
     "SteamID": "76561199166026601",
     "DisplayName": "MeKaNNN",
     "PlayersKilled": 0,
-    "Deaths": 1,
+    "Deaths": 2,
     "Headshots": 5,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -1652,7 +1652,7 @@
     "PVEKillDistance": 23,
     "StructuresBuilt": 1,
     "StructuresRepaired": 0,
-    "PlantsGathered": 208,
+    "PlantsGathered": 214,
     "WoodGathered": 1050,
     "RocksGathered": 917,
     "SulfurOreGathered": 600,
@@ -1662,14 +1662,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
     "ClothesCrafted": 5,
-    "TimePlayed": 0,
+    "TimePlayed": 4,
     "LastSeen": 1765281358
   },
   {
     "SteamID": "76561199177666110",
     "DisplayName": "Dispoiler",
     "PlayersKilled": 0,
-    "Deaths": 1,
+    "Deaths": 3,
     "Headshots": 5,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -1696,7 +1696,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 6,
-    "TimePlayed": 57,
+    "TimePlayed": 1,
     "LastSeen": 1765281796
   }
 ]
