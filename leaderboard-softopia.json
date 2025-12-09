@@ -158,15 +158,15 @@
     "StructuresRepaired": 0,
     "PlantsGathered": 194,
     "WoodGathered": 11305,
-    "RocksGathered": 29404,
-    "SulfurOreGathered": 5582,
-    "MetalOreGathered": 13500,
+    "RocksGathered": 31654,
+    "SulfurOreGathered": 6582,
+    "MetalOreGathered": 17500,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 9,
-    "TimePlayed": 288,
+    "TimePlayed": 293,
     "LastSeen": 1765264262
   },
   {
@@ -768,8 +768,8 @@
     "PVEKillDistance": 57,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 134,
-    "WoodGathered": 9275,
+    "PlantsGathered": 148,
+    "WoodGathered": 10278,
     "RocksGathered": 25374,
     "SulfurOreGathered": 4618,
     "MetalOreGathered": 8000,
@@ -778,7 +778,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 1,
-    "TimePlayed": 167,
+    "TimePlayed": 172,
     "LastSeen": 1765258781
   },
   {
@@ -804,15 +804,15 @@
     "StructuresRepaired": 20,
     "PlantsGathered": 135,
     "WoodGathered": 8916,
-    "RocksGathered": 66942,
+    "RocksGathered": 69942,
     "SulfurOreGathered": 2200,
-    "MetalOreGathered": 10500,
+    "MetalOreGathered": 12500,
     "RocketsFired": 0,
     "ExplosivesThrown": 9,
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 3,
-    "TimePlayed": 60,
+    "TimePlayed": 65,
     "LastSeen": 1765255218
   },
   {
@@ -1152,7 +1152,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 2,
-    "TimePlayed": 76,
+    "TimePlayed": 77,
     "LastSeen": 1765274343
   },
   {
@@ -1474,7 +1474,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 0,
-    "AnimalKills": 0,
+    "AnimalKills": 4,
     "NPCKills": 2,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -1492,7 +1492,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 1,
-    "TimePlayed": 85,
+    "TimePlayed": 90,
     "LastSeen": 1765269747
   }
 ]
