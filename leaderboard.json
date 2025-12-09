@@ -1210,17 +1210,17 @@
     "PVEKillDistance": 36,
     "StructuresBuilt": 1137,
     "StructuresRepaired": 65,
-    "PlantsGathered": 442,
+    "PlantsGathered": 448,
     "WoodGathered": 22308,
     "RocksGathered": 56721,
-    "SulfurOreGathered": 6200,
-    "MetalOreGathered": 17000,
+    "SulfurOreGathered": 7200,
+    "MetalOreGathered": 18000,
     "RocketsFired": 0,
     "ExplosivesThrown": 2,
     "PlayersHealed": 0,
     "WeaponsCrafted": 35,
     "ClothesCrafted": 39,
-    "TimePlayed": 70,
+    "TimePlayed": 75,
     "LastSeen": 1765244045
   },
   {
@@ -2063,14 +2063,14 @@
     "PlantsGathered": 198,
     "WoodGathered": 38137,
     "RocksGathered": 26361,
-    "SulfurOreGathered": 8432,
+    "SulfurOreGathered": 9432,
     "MetalOreGathered": 19675,
     "RocketsFired": 0,
     "ExplosivesThrown": 4,
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 11,
-    "TimePlayed": 86,
+    "TimePlayed": 91,
     "LastSeen": 1765240222
   },
   {
@@ -3226,7 +3226,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 55,
     "ClothesCrafted": 6,
-    "TimePlayed": 418,
+    "TimePlayed": 423,
     "LastSeen": 1765112858
   },
   {
@@ -3566,7 +3566,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 5,
-    "TimePlayed": 34,
+    "TimePlayed": 39,
     "LastSeen": 1765215106
   },
   {
@@ -10422,7 +10422,7 @@
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 12,
-    "StructuresBuilt": 61,
+    "StructuresBuilt": 75,
     "StructuresRepaired": 0,
     "PlantsGathered": 138,
     "WoodGathered": 8946,
@@ -10434,7 +10434,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 1,
-    "TimePlayed": 56,
+    "TimePlayed": 61,
     "LastSeen": 1765241275
   },
   {
@@ -17173,7 +17173,7 @@
     "SteamID": "76561198251337628",
     "DisplayName": "명훈",
     "PlayersKilled": 0,
-    "Deaths": 60,
+    "Deaths": 61,
     "Headshots": 20,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -17200,7 +17200,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 8,
     "ClothesCrafted": 32,
-    "TimePlayed": 12,
+    "TimePlayed": 1,
     "LastSeen": 1765243423
   },
   {
@@ -19648,7 +19648,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 0,
-    "TimePlayed": 267,
+    "TimePlayed": 272,
     "LastSeen": 1765243090
   },
   {
@@ -21627,7 +21627,7 @@
     "SteamID": "76561198108978025",
     "DisplayName": "아바타",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -21654,7 +21654,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 10,
+    "TimePlayed": 0,
     "LastSeen": 1765244038
   }
 ]
