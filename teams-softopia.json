@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-09T11:05:22.4081590Z",
+  "lastUpdated": "2025-12-09T11:10:22.4565510Z",
   "teams": [
     {
       "id": "4",
@@ -174,9 +174,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 7,
+        "totalKills": 9,
         "totalDeaths": 4,
-        "teamKDR": 1.75
+        "teamKDR": 2.25
       },
       "members": [
         {
@@ -191,7 +191,7 @@
           "steamId": "76561198136589812",
           "name": "Life",
           "role": "member",
-          "kills": 2,
+          "kills": 4,
           "deaths": 0,
           "joinedAt": "2025-12-09"
         },
@@ -221,6 +221,28 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561198371903544",
+          "victimName": "레제",
+          "victimTeam": "Team 12",
+          "weapon": "Assault Rifle",
+          "distance": 13,
+          "headshot": true,
+          "timestamp": "2025-12-09T11:09:29.8367970Z"
+        },
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561198371903544",
+          "victimName": "레제",
+          "victimTeam": "Team 12",
+          "weapon": "Assault Rifle",
+          "distance": 9,
+          "headshot": true,
+          "timestamp": "2025-12-09T11:05:45.1476980Z"
+        },
         {
           "killerSteamId": "76561198324946154",
           "killerName": "Usona",
@@ -493,77 +515,6 @@
       ]
     },
     {
-      "id": "12",
-      "name": "Team 12",
-      "tag": "[T12]",
-      "createdAt": "2025-12-08",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 2,
-        "totalDeaths": 11,
-        "teamKDR": 0.18
-      },
-      "members": [
-        {
-          "steamId": "76561198097924882",
-          "name": "GOLD",
-          "role": "leader",
-          "kills": 0,
-          "deaths": 2,
-          "joinedAt": "2025-12-09"
-        },
-        {
-          "steamId": "76561199492962538",
-          "name": "나쵸",
-          "role": "member",
-          "kills": 2,
-          "deaths": 3,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561199148676867",
-          "name": "Ray",
-          "role": "member",
-          "kills": 0,
-          "deaths": 2,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198371903544",
-          "name": "레제",
-          "role": "member",
-          "kills": 0,
-          "deaths": 4,
-          "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561199492962538",
-          "killerName": "나쵸",
-          "victimSteamId": "76561199365874726",
-          "victimName": "SKY_yun",
-          "victimTeam": "Team 3",
-          "weapon": "Bone Knife",
-          "distance": 0,
-          "headshot": false,
-          "timestamp": "2025-12-08T14:00:16.8818320Z"
-        },
-        {
-          "killerSteamId": "76561199492962538",
-          "killerName": "나쵸",
-          "victimSteamId": "76561199865396283",
-          "victimName": "Lupi",
-          "victimTeam": "Team 3",
-          "weapon": "Bone Knife",
-          "distance": 0,
-          "headshot": true,
-          "timestamp": "2025-12-08T14:00:12.6761070Z"
-        }
-      ]
-    },
-    {
       "id": "3",
       "name": "Team 3",
       "tag": "[T3]",
@@ -604,6 +555,77 @@
           "distance": 0,
           "headshot": false,
           "timestamp": "2025-12-08T08:40:52.4376990Z"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Team 12",
+      "tag": "[T12]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 2,
+        "totalDeaths": 13,
+        "teamKDR": 0.15
+      },
+      "members": [
+        {
+          "steamId": "76561198097924882",
+          "name": "GOLD",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 2,
+          "joinedAt": "2025-12-09"
+        },
+        {
+          "steamId": "76561199492962538",
+          "name": "나쵸",
+          "role": "member",
+          "kills": 2,
+          "deaths": 3,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561199148676867",
+          "name": "Ray",
+          "role": "member",
+          "kills": 0,
+          "deaths": 2,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198371903544",
+          "name": "레제",
+          "role": "member",
+          "kills": 0,
+          "deaths": 6,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199492962538",
+          "killerName": "나쵸",
+          "victimSteamId": "76561199365874726",
+          "victimName": "SKY_yun",
+          "victimTeam": "Team 3",
+          "weapon": "Bone Knife",
+          "distance": 0,
+          "headshot": false,
+          "timestamp": "2025-12-08T14:00:16.8818320Z"
+        },
+        {
+          "killerSteamId": "76561199492962538",
+          "killerName": "나쵸",
+          "victimSteamId": "76561199865396283",
+          "victimName": "Lupi",
+          "victimTeam": "Team 3",
+          "weapon": "Bone Knife",
+          "distance": 0,
+          "headshot": true,
+          "timestamp": "2025-12-08T14:00:12.6761070Z"
         }
       ]
     },
