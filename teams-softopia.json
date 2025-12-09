@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-09T00:55:18.4854080Z",
+  "lastUpdated": "2025-12-09T01:00:18.5190590Z",
   "teams": [
     {
       "id": "4",
@@ -449,10 +449,18 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 2,
-        "totalDeaths": 7,
-        "teamKDR": 0.29
+        "totalDeaths": 9,
+        "teamKDR": 0.22
       },
       "members": [
+        {
+          "steamId": "76561198097924882",
+          "name": "GOLD",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-09"
+        },
         {
           "steamId": "76561199492962538",
           "name": "나쵸",
@@ -466,7 +474,7 @@
           "name": "Ray",
           "role": "member",
           "kills": 0,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-08"
         },
         {
