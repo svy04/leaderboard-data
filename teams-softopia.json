@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-09T13:30:23.3499470Z",
+  "lastUpdated": "2025-12-09T13:35:23.3800510Z",
   "teams": [
     {
       "id": "9",
@@ -346,16 +346,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 3,
-        "totalDeaths": 7,
-        "teamKDR": 0.43
+        "totalKills": 4,
+        "totalDeaths": 8,
+        "teamKDR": 0.5
       },
       "members": [
         {
           "steamId": "76561198109763445",
           "name": "Parbella",
           "role": "leader",
-          "kills": 2,
+          "kills": 3,
           "deaths": 3,
           "joinedAt": "2025-12-08"
         },
@@ -372,11 +372,22 @@
           "name": "코쿠시보",
           "role": "member",
           "kills": 0,
-          "deaths": 3,
+          "deaths": 4,
           "joinedAt": "2025-12-08"
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198109763445",
+          "killerName": "Parbella",
+          "victimSteamId": "76561198858841356",
+          "victimName": "코쿠시보",
+          "victimTeam": "Team 11",
+          "weapon": "Hatchet",
+          "distance": 0,
+          "headshot": true,
+          "timestamp": "2025-12-09T13:31:40.3269600Z"
+        },
         {
           "killerSteamId": "76561198109763445",
           "killerName": "Parbella",
