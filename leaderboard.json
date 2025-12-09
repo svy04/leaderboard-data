@@ -460,7 +460,7 @@
     "APCKills": 0,
     "PVPKillDistance": 58,
     "PVEKillDistance": 157,
-    "StructuresBuilt": 342,
+    "StructuresBuilt": 346,
     "StructuresRepaired": 212,
     "PlantsGathered": 293,
     "WoodGathered": 82680,
@@ -472,7 +472,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 91,
     "ClothesCrafted": 236,
-    "TimePlayed": 223,
+    "TimePlayed": 225,
     "LastSeen": 1765248993
   },
   {
@@ -1516,8 +1516,8 @@
     "PVEKillDistance": 5,
     "StructuresBuilt": 159,
     "StructuresRepaired": 200,
-    "PlantsGathered": 272,
-    "WoodGathered": 12989,
+    "PlantsGathered": 280,
+    "WoodGathered": 13399,
     "RocksGathered": 27594,
     "SulfurOreGathered": 4339,
     "MetalOreGathered": 9648,
@@ -1526,7 +1526,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 12,
     "ClothesCrafted": 18,
-    "TimePlayed": 220,
+    "TimePlayed": 225,
     "LastSeen": 1765260137
   },
   {
@@ -3226,7 +3226,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 55,
     "ClothesCrafted": 6,
-    "TimePlayed": 724,
+    "TimePlayed": 729,
     "LastSeen": 1765112858
   },
   {
@@ -3796,15 +3796,15 @@
     "StructuresRepaired": 0,
     "PlantsGathered": 198,
     "WoodGathered": 32008,
-    "RocksGathered": 50784,
-    "SulfurOreGathered": 7949,
-    "MetalOreGathered": 18893,
+    "RocksGathered": 61232,
+    "SulfurOreGathered": 8181,
+    "MetalOreGathered": 19893,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 53,
+    "TimePlayed": 58,
     "LastSeen": 1765261290
   },
   {
@@ -4628,7 +4628,7 @@
     "DisplayName": "진돗개",
     "PlayersKilled": 3,
     "Deaths": 11,
-    "Headshots": 9,
+    "Headshots": 12,
     "KDR": 0.27,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -4637,7 +4637,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 5,
-    "NPCKills": 13,
+    "NPCKills": 20,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 56,
@@ -4654,7 +4654,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 41,
     "ClothesCrafted": 5,
-    "TimePlayed": 68,
+    "TimePlayed": 73,
     "LastSeen": 1765258631
   },
   {
@@ -6014,7 +6014,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 1,
-    "TimePlayed": 75,
+    "TimePlayed": 80,
     "LastSeen": 1765253184
   },
   {
@@ -8326,7 +8326,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 9,
-    "TimePlayed": 46,
+    "TimePlayed": 47,
     "LastSeen": 1765263038
   },
   {
@@ -8734,7 +8734,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 19,
     "ClothesCrafted": 19,
-    "TimePlayed": 85,
+    "TimePlayed": 90,
     "LastSeen": 1765261225
   },
   {
@@ -9022,7 +9022,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 3,
-    "AnimalKills": 34,
+    "AnimalKills": 40,
     "NPCKills": 42,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -9031,7 +9031,7 @@
     "StructuresBuilt": 198,
     "StructuresRepaired": 36,
     "PlantsGathered": 126,
-    "WoodGathered": 25127,
+    "WoodGathered": 25502,
     "RocksGathered": 18750,
     "SulfurOreGathered": 11122,
     "MetalOreGathered": 22500,
@@ -9040,7 +9040,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 30,
     "ClothesCrafted": 8,
-    "TimePlayed": 67,
+    "TimePlayed": 72,
     "LastSeen": 1765259458
   },
   {
@@ -17174,7 +17174,7 @@
     "DisplayName": "명훈",
     "PlayersKilled": 0,
     "Deaths": 69,
-    "Headshots": 34,
+    "Headshots": 37,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -17183,7 +17183,7 @@
     "ShotgunKills": 1,
     "RifleKills": 0,
     "AnimalKills": 14,
-    "NPCKills": 60,
+    "NPCKills": 65,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 1,
@@ -17200,7 +17200,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 15,
     "ClothesCrafted": 48,
-    "TimePlayed": 12,
+    "TimePlayed": 17,
     "LastSeen": 1765243423
   },
   {
