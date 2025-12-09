@@ -295,14 +295,14 @@
     "PlantsGathered": 76,
     "WoodGathered": 2028,
     "RocksGathered": 3150,
-    "SulfurOreGathered": 1402,
-    "MetalOreGathered": 3000,
+    "SulfurOreGathered": 2402,
+    "MetalOreGathered": 5510,
     "RocketsFired": 74,
     "ExplosivesThrown": 62,
     "PlayersHealed": 0,
     "WeaponsCrafted": 61,
     "ClothesCrafted": 63,
-    "TimePlayed": 32,
+    "TimePlayed": 37,
     "LastSeen": 1765306795
   },
   {
@@ -1594,7 +1594,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 127,
     "ClothesCrafted": 45,
-    "TimePlayed": 23,
+    "TimePlayed": 28,
     "LastSeen": 1765112858
   },
   {
@@ -4219,8 +4219,8 @@
     "SteamID": "76561198313129935",
     "DisplayName": "Meatwad",
     "PlayersKilled": 3,
-    "Deaths": 25,
-    "Headshots": 44,
+    "Deaths": 26,
+    "Headshots": 46,
     "KDR": 0.12,
     "ArrowKills": 0,
     "MeleeKills": 1,
@@ -4229,7 +4229,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 20,
-    "NPCKills": 87,
+    "NPCKills": 90,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 6,
@@ -4246,7 +4246,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 7,
-    "TimePlayed": 139,
+    "TimePlayed": 4,
     "LastSeen": 1765301250
   },
   {
@@ -6279,14 +6279,14 @@
     "PlantsGathered": 39,
     "WoodGathered": 15274,
     "RocksGathered": 70500,
-    "SulfurOreGathered": 25498,
-    "MetalOreGathered": 84990,
+    "SulfurOreGathered": 26898,
+    "MetalOreGathered": 86490,
     "RocketsFired": 4,
     "ExplosivesThrown": 9,
     "PlayersHealed": 0,
     "WeaponsCrafted": 20,
     "ClothesCrafted": 4,
-    "TimePlayed": 160,
+    "TimePlayed": 165,
     "LastSeen": 1765271892
   },
   {
@@ -17547,7 +17547,7 @@
     "SteamID": "76561198251337628",
     "DisplayName": "명훈",
     "PlayersKilled": 0,
-    "Deaths": 95,
+    "Deaths": 97,
     "Headshots": 52,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -17574,7 +17574,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 33,
     "ClothesCrafted": 55,
-    "TimePlayed": 1,
+    "TimePlayed": 3,
     "LastSeen": 1765304675
   },
   {
@@ -22572,7 +22572,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 3,
-    "TimePlayed": 4,
+    "TimePlayed": 9,
     "LastSeen": 1765291025
   },
   {
