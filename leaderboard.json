@@ -284,7 +284,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 8,
-    "AnimalKills": 8,
+    "AnimalKills": 9,
     "NPCKills": 137,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -292,7 +292,7 @@
     "PVEKillDistance": 89,
     "StructuresBuilt": 1344,
     "StructuresRepaired": 128,
-    "PlantsGathered": 64,
+    "PlantsGathered": 76,
     "WoodGathered": 2028,
     "RocksGathered": 3150,
     "SulfurOreGathered": 1402,
@@ -302,7 +302,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 61,
     "ClothesCrafted": 63,
-    "TimePlayed": 40,
+    "TimePlayed": 45,
     "LastSeen": 1765302788
   },
   {
@@ -1594,7 +1594,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 127,
     "ClothesCrafted": 45,
-    "TimePlayed": 25,
+    "TimePlayed": 30,
     "LastSeen": 1765112858
   },
   {
@@ -3505,9 +3505,9 @@
     "SteamID": "76561199863007306",
     "DisplayName": "Bomin",
     "PlayersKilled": 4,
-    "Deaths": 6,
+    "Deaths": 7,
     "Headshots": 41,
-    "KDR": 0.67,
+    "KDR": 0.57,
     "ArrowKills": 0,
     "MeleeKills": 0,
     "BladeKills": 0,
@@ -3532,7 +3532,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 17,
     "ClothesCrafted": 4,
-    "TimePlayed": 49,
+    "TimePlayed": 1,
     "LastSeen": 1765302708
   },
   {
@@ -4246,7 +4246,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 7,
-    "TimePlayed": 73,
+    "TimePlayed": 78,
     "LastSeen": 1765301250
   },
   {
@@ -6086,6 +6086,40 @@
     "LastSeen": 1765109144
   },
   {
+    "SteamID": "76561198358946827",
+    "DisplayName": "고라파덕",
+    "PlayersKilled": 2,
+    "Deaths": 4,
+    "Headshots": 7,
+    "KDR": 0.5,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 4,
+    "NPCKills": 12,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 48,
+    "PVEKillDistance": 50,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 102,
+    "WoodGathered": 6837,
+    "RocksGathered": 9712,
+    "SulfurOreGathered": 3000,
+    "MetalOreGathered": 6500,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 2,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 2,
+    "ClothesCrafted": 9,
+    "TimePlayed": 82,
+    "LastSeen": 1765304004
+  },
+  {
     "SteamID": "76561198826442826",
     "DisplayName": "LaKo",
     "PlayersKilled": 2,
@@ -6252,7 +6286,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 20,
     "ClothesCrafted": 4,
-    "TimePlayed": 94,
+    "TimePlayed": 99,
     "LastSeen": 1765271892
   },
   {
@@ -8430,40 +8464,6 @@
     "ClothesCrafted": 5,
     "TimePlayed": 17,
     "LastSeen": 1765303865
-  },
-  {
-    "SteamID": "76561198358946827",
-    "DisplayName": "고라파덕",
-    "PlayersKilled": 1,
-    "Deaths": 4,
-    "Headshots": 6,
-    "KDR": 0.25,
-    "ArrowKills": 0,
-    "MeleeKills": 0,
-    "BladeKills": 0,
-    "RevolverKills": 0,
-    "ShotgunKills": 0,
-    "RifleKills": 0,
-    "AnimalKills": 4,
-    "NPCKills": 12,
-    "HelicopterKills": 0,
-    "APCKills": 0,
-    "PVPKillDistance": 48,
-    "PVEKillDistance": 50,
-    "StructuresBuilt": 0,
-    "StructuresRepaired": 0,
-    "PlantsGathered": 102,
-    "WoodGathered": 6837,
-    "RocksGathered": 9712,
-    "SulfurOreGathered": 2618,
-    "MetalOreGathered": 6500,
-    "RocketsFired": 0,
-    "ExplosivesThrown": 2,
-    "PlayersHealed": 0,
-    "WeaponsCrafted": 2,
-    "ClothesCrafted": 9,
-    "TimePlayed": 77,
-    "LastSeen": 1765304004
   },
   {
     "SteamID": "76561199875545913",
@@ -10774,7 +10774,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 24,
     "ClothesCrafted": 44,
-    "TimePlayed": 305,
+    "TimePlayed": 310,
     "LastSeen": 1765302020
   },
   {
@@ -17574,7 +17574,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 31,
     "ClothesCrafted": 55,
-    "TimePlayed": 27,
+    "TimePlayed": 32,
     "LastSeen": 1765304675
   },
   {
@@ -22572,7 +22572,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 3,
-    "TimePlayed": 47,
+    "TimePlayed": 52,
     "LastSeen": 1765291025
   },
   {
