@@ -1514,7 +1514,7 @@
     "APCKills": 0,
     "PVPKillDistance": 57,
     "PVEKillDistance": 5,
-    "StructuresBuilt": 172,
+    "StructuresBuilt": 178,
     "StructuresRepaired": 200,
     "PlantsGathered": 280,
     "WoodGathered": 13399,
@@ -1526,7 +1526,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 12,
     "ClothesCrafted": 18,
-    "TimePlayed": 265,
+    "TimePlayed": 270,
     "LastSeen": 1765260137
   },
   {
@@ -2788,6 +2788,40 @@
     "LastSeen": 1765029356
   },
   {
+    "SteamID": "76561198175157431",
+    "DisplayName": "시아",
+    "PlayersKilled": 5,
+    "Deaths": 32,
+    "Headshots": 9,
+    "KDR": 0.16,
+    "ArrowKills": 2,
+    "MeleeKills": 1,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 4,
+    "NPCKills": 3,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 34,
+    "PVEKillDistance": 29,
+    "StructuresBuilt": 112,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 156,
+    "WoodGathered": 10589,
+    "RocksGathered": 3784,
+    "SulfurOreGathered": 1000,
+    "MetalOreGathered": 2500,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 18,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 55,
+    "ClothesCrafted": 7,
+    "TimePlayed": 774,
+    "LastSeen": 1765112858
+  },
+  {
     "SteamID": "76561198360179856",
     "DisplayName": "Olivia",
     "PlayersKilled": 5,
@@ -3194,40 +3228,6 @@
     "ClothesCrafted": 6,
     "TimePlayed": 62,
     "LastSeen": 0
-  },
-  {
-    "SteamID": "76561198175157431",
-    "DisplayName": "시아",
-    "PlayersKilled": 4,
-    "Deaths": 32,
-    "Headshots": 8,
-    "KDR": 0.12,
-    "ArrowKills": 2,
-    "MeleeKills": 1,
-    "BladeKills": 0,
-    "RevolverKills": 0,
-    "ShotgunKills": 0,
-    "RifleKills": 0,
-    "AnimalKills": 4,
-    "NPCKills": 3,
-    "HelicopterKills": 0,
-    "APCKills": 0,
-    "PVPKillDistance": 34,
-    "PVEKillDistance": 29,
-    "StructuresBuilt": 112,
-    "StructuresRepaired": 0,
-    "PlantsGathered": 156,
-    "WoodGathered": 10589,
-    "RocksGathered": 3784,
-    "SulfurOreGathered": 1000,
-    "MetalOreGathered": 2500,
-    "RocketsFired": 0,
-    "ExplosivesThrown": 18,
-    "PlayersHealed": 0,
-    "WeaponsCrafted": 55,
-    "ClothesCrafted": 7,
-    "TimePlayed": 769,
-    "LastSeen": 1765112858
   },
   {
     "SteamID": "76561199817551053",
@@ -3794,7 +3794,7 @@
     "PVEKillDistance": 1,
     "StructuresBuilt": 189,
     "StructuresRepaired": 22,
-    "PlantsGathered": 198,
+    "PlantsGathered": 200,
     "WoodGathered": 32008,
     "RocksGathered": 61232,
     "SulfurOreGathered": 8181,
@@ -3804,7 +3804,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 98,
+    "TimePlayed": 103,
     "LastSeen": 1765261290
   },
   {
@@ -4654,7 +4654,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 41,
     "ClothesCrafted": 5,
-    "TimePlayed": 113,
+    "TimePlayed": 118,
     "LastSeen": 1765258631
   },
   {
@@ -5987,7 +5987,7 @@
     "SteamID": "76561198826442826",
     "DisplayName": "LaKo",
     "PlayersKilled": 2,
-    "Deaths": 25,
+    "Deaths": 26,
     "Headshots": 4,
     "KDR": 0.08,
     "ArrowKills": 0,
@@ -6014,7 +6014,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 1,
-    "TimePlayed": 120,
+    "TimePlayed": 1,
     "LastSeen": 1765253184
   },
   {
@@ -8734,7 +8734,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 19,
     "ClothesCrafted": 19,
-    "TimePlayed": 130,
+    "TimePlayed": 135,
     "LastSeen": 1765261225
   },
   {
@@ -9040,7 +9040,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 30,
     "ClothesCrafted": 8,
-    "TimePlayed": 112,
+    "TimePlayed": 117,
     "LastSeen": 1765259458
   },
   {
@@ -17173,7 +17173,7 @@
     "SteamID": "76561198251337628",
     "DisplayName": "명훈",
     "PlayersKilled": 0,
-    "Deaths": 70,
+    "Deaths": 71,
     "Headshots": 39,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -17190,7 +17190,7 @@
     "PVEKillDistance": 50,
     "StructuresBuilt": 124,
     "StructuresRepaired": 5,
-    "PlantsGathered": 120,
+    "PlantsGathered": 126,
     "WoodGathered": 34289,
     "RocksGathered": 38549,
     "SulfurOreGathered": 9418,
@@ -17200,7 +17200,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 16,
     "ClothesCrafted": 48,
-    "TimePlayed": 9,
+    "TimePlayed": 3,
     "LastSeen": 1765243423
   },
   {
@@ -17881,7 +17881,7 @@
     "WeaponsCrafted": 12,
     "ClothesCrafted": 5,
     "TimePlayed": 129,
-    "LastSeen": 1765210401
+    "LastSeen": 1765266199
   },
   {
     "SteamID": "76561198155944430",
@@ -20605,7 +20605,7 @@
   },
   {
     "SteamID": "76561198317416621",
-    "DisplayName": "오일리그경유도둑82세곽춘자",
+    "DisplayName": "길거리캠핑카도둑55세정의선",
     "PlayersKilled": 0,
     "Deaths": 7,
     "Headshots": 8,
@@ -20634,7 +20634,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 3,
+    "TimePlayed": 6,
     "LastSeen": 1765265846
   },
   {
