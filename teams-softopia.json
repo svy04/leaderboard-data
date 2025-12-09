@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-09T10:35:22.2119190Z",
+  "lastUpdated": "2025-12-09T10:40:22.2441890Z",
   "teams": [
     {
       "id": "4",
@@ -174,16 +174,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 6,
-        "totalDeaths": 3,
-        "teamKDR": 2.0
+        "totalKills": 7,
+        "totalDeaths": 4,
+        "teamKDR": 1.75
       },
       "members": [
         {
           "steamId": "76561198324946154",
           "name": "Usona",
           "role": "leader",
-          "kills": 2,
+          "kills": 3,
           "deaths": 1,
           "joinedAt": "2025-12-08"
         },
@@ -200,7 +200,7 @@
           "name": "Haserong",
           "role": "member",
           "kills": 1,
-          "deaths": 2,
+          "deaths": 3,
           "joinedAt": "2025-12-08"
         },
         {
@@ -221,6 +221,17 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198324946154",
+          "killerName": "Usona",
+          "victimSteamId": "76561198359198696",
+          "victimName": "Haserong",
+          "victimTeam": "Team 9",
+          "weapon": "Assault Rifle",
+          "distance": 2,
+          "headshot": true,
+          "timestamp": "2025-12-09T10:39:29.5436950Z"
+        },
         {
           "killerSteamId": "76561198324946154",
           "killerName": "Usona",
