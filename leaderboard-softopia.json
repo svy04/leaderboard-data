@@ -166,7 +166,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 9,
-    "TimePlayed": 35,
+    "TimePlayed": 40,
     "LastSeen": 1765264262
   },
   {
@@ -268,8 +268,8 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 12,
     "ClothesCrafted": 14,
-    "TimePlayed": 236,
-    "LastSeen": 1765241086
+    "TimePlayed": 238,
+    "LastSeen": 1765280151
   },
   {
     "SteamID": "76561199865396283",
@@ -778,7 +778,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 1,
-    "TimePlayed": 30,
+    "TimePlayed": 35,
     "LastSeen": 1765278897
   },
   {
@@ -800,7 +800,7 @@
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 87,
-    "StructuresBuilt": 1076,
+    "StructuresBuilt": 1089,
     "StructuresRepaired": 20,
     "PlantsGathered": 135,
     "WoodGathered": 8916,
@@ -812,7 +812,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 3,
-    "TimePlayed": 53,
+    "TimePlayed": 58,
     "LastSeen": 1765255218
   },
   {
@@ -982,7 +982,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 4,
-    "TimePlayed": 97,
+    "TimePlayed": 102,
     "LastSeen": 1765278269
   },
   {
@@ -1016,7 +1016,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 22,
-    "TimePlayed": 18,
+    "TimePlayed": 23,
     "LastSeen": 1765275376
   },
   {
@@ -1042,15 +1042,15 @@
     "StructuresRepaired": 0,
     "PlantsGathered": 34,
     "WoodGathered": 13261,
-    "RocksGathered": 12000,
-    "SulfurOreGathered": 2100,
-    "MetalOreGathered": 16250,
+    "RocksGathered": 12750,
+    "SulfurOreGathered": 2700,
+    "MetalOreGathered": 16750,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 17,
+    "TimePlayed": 22,
     "LastSeen": 1765278950
   },
   {
@@ -1492,7 +1492,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 3,
-    "TimePlayed": 170,
+    "TimePlayed": 175,
     "LastSeen": 1765269747
   },
   {
@@ -1533,7 +1533,7 @@
     "SteamID": "76561198887627591",
     "DisplayName": "컨스",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -1560,7 +1560,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 0,
     "LastSeen": 1765279648
   }
 ]
