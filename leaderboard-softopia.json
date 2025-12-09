@@ -64,7 +64,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 15,
     "ClothesCrafted": 8,
-    "TimePlayed": 5,
+    "TimePlayed": 10,
     "LastSeen": 1765273200
   },
   {
@@ -148,7 +148,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 0,
-    "AnimalKills": 3,
+    "AnimalKills": 4,
     "NPCKills": 57,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -158,15 +158,15 @@
     "StructuresRepaired": 0,
     "PlantsGathered": 180,
     "WoodGathered": 11305,
-    "RocksGathered": 14664,
-    "SulfurOreGathered": 3982,
-    "MetalOreGathered": 9000,
+    "RocksGathered": 27904,
+    "SulfurOreGathered": 5382,
+    "MetalOreGathered": 12000,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 9,
-    "TimePlayed": 268,
+    "TimePlayed": 273,
     "LastSeen": 1765264262
   },
   {
@@ -778,7 +778,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 1,
-    "TimePlayed": 147,
+    "TimePlayed": 152,
     "LastSeen": 1765258781
   },
   {
@@ -812,7 +812,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 3,
-    "TimePlayed": 40,
+    "TimePlayed": 45,
     "LastSeen": 1765255218
   },
   {
@@ -1140,10 +1140,10 @@
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 20,
-    "StructuresBuilt": 0,
+    "StructuresBuilt": 1,
     "StructuresRepaired": 0,
     "PlantsGathered": 25,
-    "WoodGathered": 11752,
+    "WoodGathered": 12099,
     "RocksGathered": 18669,
     "SulfurOreGathered": 2917,
     "MetalOreGathered": 10489,
@@ -1152,7 +1152,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 2,
-    "TimePlayed": 58,
+    "TimePlayed": 63,
     "LastSeen": 1765272452
   },
   {
@@ -1481,7 +1481,7 @@
     "PVPKillDistance": 0,
     "PVEKillDistance": 44,
     "StructuresBuilt": 0,
-    "StructuresRepaired": 0,
+    "StructuresRepaired": 7,
     "PlantsGathered": 6,
     "WoodGathered": 0,
     "RocksGathered": 0,
@@ -1492,7 +1492,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 1,
-    "TimePlayed": 65,
+    "TimePlayed": 70,
     "LastSeen": 1765269747
   }
 ]
