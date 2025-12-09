@@ -80,7 +80,7 @@
     "RevolverKills": 30,
     "ShotgunKills": 2,
     "RifleKills": 8,
-    "AnimalKills": 63,
+    "AnimalKills": 64,
     "NPCKills": 56,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -90,7 +90,7 @@
     "StructuresRepaired": 66,
     "PlantsGathered": 1277,
     "WoodGathered": 62289,
-    "RocksGathered": 135291,
+    "RocksGathered": 136791,
     "SulfurOreGathered": 47689,
     "MetalOreGathered": 109985,
     "RocketsFired": 6,
@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 159,
     "ClothesCrafted": 73,
-    "TimePlayed": 68,
+    "TimePlayed": 73,
     "LastSeen": 1765319745
   },
   {
@@ -1594,7 +1594,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 127,
     "ClothesCrafted": 45,
-    "TimePlayed": 132,
+    "TimePlayed": 137,
     "LastSeen": 1765112858
   },
   {
@@ -9082,7 +9082,7 @@
     "DisplayName": "cornchip",
     "PlayersKilled": 0,
     "Deaths": 47,
-    "Headshots": 128,
+    "Headshots": 143,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -9091,7 +9091,7 @@
     "ShotgunKills": 0,
     "RifleKills": 11,
     "AnimalKills": 8,
-    "NPCKills": 194,
+    "NPCKills": 215,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 173,
@@ -9108,7 +9108,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 23,
     "ClothesCrafted": 23,
-    "TimePlayed": 61,
+    "TimePlayed": 66,
     "LastSeen": 1765320170
   },
   {
@@ -15024,7 +15024,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 0,
+    "TimePlayed": 1,
     "LastSeen": 1765324078
   },
   {
@@ -17562,7 +17562,7 @@
     "APCKills": 0,
     "PVPKillDistance": 42,
     "PVEKillDistance": 87,
-    "StructuresBuilt": 653,
+    "StructuresBuilt": 663,
     "StructuresRepaired": 169,
     "PlantsGathered": 260,
     "WoodGathered": 45807,
@@ -17574,7 +17574,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 38,
     "ClothesCrafted": 55,
-    "TimePlayed": 22,
+    "TimePlayed": 27,
     "LastSeen": 1765304675
   },
   {
@@ -22572,7 +22572,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 3,
-    "TimePlayed": 2,
+    "TimePlayed": 7,
     "LastSeen": 1765315859
   },
   {
@@ -22844,7 +22844,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 6,
-    "TimePlayed": 66,
+    "TimePlayed": 71,
     "LastSeen": 1765319887
   }
 ]
