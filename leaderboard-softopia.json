@@ -79,7 +79,7 @@
     "BladeKills": 0,
     "RevolverKills": 0,
     "ShotgunKills": 0,
-    "RifleKills": 12,
+    "RifleKills": 13,
     "AnimalKills": 11,
     "NPCKills": 2,
     "HelicopterKills": 0,
@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 4,
-    "TimePlayed": 55,
+    "TimePlayed": 61,
     "LastSeen": 1765353250
   },
   {
@@ -188,7 +188,7 @@
     "APCKills": 0,
     "PVPKillDistance": 125,
     "PVEKillDistance": 106,
-    "StructuresBuilt": 105,
+    "StructuresBuilt": 106,
     "StructuresRepaired": 0,
     "PlantsGathered": 224,
     "WoodGathered": 11305,
@@ -200,7 +200,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 9,
-    "TimePlayed": 6,
+    "TimePlayed": 12,
     "LastSeen": 1765353854
   },
   {
@@ -233,8 +233,8 @@
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
-    "ClothesCrafted": 3,
-    "TimePlayed": 8,
+    "ClothesCrafted": 4,
+    "TimePlayed": 14,
     "LastSeen": 1765349272
   },
   {
@@ -880,7 +880,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 3,
-    "TimePlayed": 33,
+    "TimePlayed": 39,
     "LastSeen": 1765337171
   },
   {
@@ -1662,7 +1662,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 41,
     "ClothesCrafted": 8,
-    "TimePlayed": 61,
+    "TimePlayed": 67,
     "LastSeen": 1765350832
   },
   {
@@ -1694,9 +1694,9 @@
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 7,
+    "WeaponsCrafted": 8,
     "ClothesCrafted": 11,
-    "TimePlayed": 47,
+    "TimePlayed": 53,
     "LastSeen": 1765350850
   },
   {
@@ -1764,7 +1764,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 3,
-    "TimePlayed": 2,
+    "TimePlayed": 8,
     "LastSeen": 1765351707
   },
   {
@@ -1798,14 +1798,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 1,
+    "TimePlayed": 7,
     "LastSeen": 1765351752
   },
   {
     "SteamID": "76561198911584529",
     "DisplayName": "B2om",
     "PlayersKilled": 0,
-    "Deaths": 2,
+    "Deaths": 3,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -1832,7 +1832,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 0,
-    "TimePlayed": 65,
+    "TimePlayed": 5,
     "LastSeen": 1765351769
   },
   {
@@ -1857,7 +1857,7 @@
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 22,
-    "WoodGathered": 0,
+    "WoodGathered": 7000,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
     "MetalOreGathered": 0,
@@ -1866,7 +1866,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 29,
+    "TimePlayed": 35,
     "LastSeen": 1765356079
   }
 ]
