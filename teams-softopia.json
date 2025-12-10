@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T11:10:31.7139340Z",
+  "lastUpdated": "2025-12-10T11:15:31.7506110Z",
   "teams": [
     {
       "id": "9",
@@ -566,9 +566,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 4,
-        "totalDeaths": 8,
-        "teamKDR": 0.5
+        "totalKills": 6,
+        "totalDeaths": 9,
+        "teamKDR": 0.67
       },
       "members": [
         {
@@ -576,14 +576,14 @@
           "name": "Parbella",
           "role": "leader",
           "kills": 3,
-          "deaths": 3,
+          "deaths": 4,
           "joinedAt": "2025-12-08"
         },
         {
           "steamId": "76561198444677919",
           "name": "ctysun020304",
           "role": "member",
-          "kills": 1,
+          "kills": 3,
           "deaths": 1,
           "joinedAt": "2025-12-08"
         },
@@ -597,6 +597,28 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198444677919",
+          "killerName": "ctysun020304",
+          "victimSteamId": "76561199166026601",
+          "victimName": "MeKaNNN",
+          "victimTeam": "Team 16",
+          "weapon": "MP5A4",
+          "distance": 18,
+          "headshot": true,
+          "timestamp": "2025-12-10T11:15:03.7598670Z"
+        },
+        {
+          "killerSteamId": "76561198444677919",
+          "killerName": "ctysun020304",
+          "victimSteamId": "76561199104895709",
+          "victimName": "Yui",
+          "victimTeam": "Team 16",
+          "weapon": "MP5A4",
+          "distance": 30,
+          "headshot": false,
+          "timestamp": "2025-12-10T11:14:38.7379980Z"
+        },
         {
           "killerSteamId": "76561198109763445",
           "killerName": "Parbella",
@@ -651,17 +673,17 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 1,
-        "totalDeaths": 3,
-        "teamKDR": 0.33
+        "totalKills": 2,
+        "totalDeaths": 5,
+        "teamKDR": 0.4
       },
       "members": [
         {
           "steamId": "76561199166026601",
           "name": "MeKaNNN",
           "role": "leader",
-          "kills": 0,
-          "deaths": 2,
+          "kills": 1,
+          "deaths": 3,
           "joinedAt": "2025-12-09"
         },
         {
@@ -669,7 +691,7 @@
           "name": "Yui",
           "role": "member",
           "kills": 1,
-          "deaths": 0,
+          "deaths": 1,
           "joinedAt": "2025-12-10"
         },
         {
@@ -690,6 +712,17 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561199166026601",
+          "killerName": "MeKaNNN",
+          "victimSteamId": "76561198109763445",
+          "victimName": "Parbella",
+          "victimTeam": "Team 11",
+          "weapon": "LR-300 Assault Rifle",
+          "distance": 23,
+          "headshot": true,
+          "timestamp": "2025-12-10T11:14:58.8587940Z"
+        },
         {
           "killerSteamId": "76561199104895709",
           "killerName": "Yui",
