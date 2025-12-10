@@ -88,7 +88,7 @@
     "PVEKillDistance": 79,
     "StructuresBuilt": 103,
     "StructuresRepaired": 66,
-    "PlantsGathered": 1281,
+    "PlantsGathered": 1299,
     "WoodGathered": 62289,
     "RocksGathered": 136791,
     "SulfurOreGathered": 47689,
@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 159,
     "ClothesCrafted": 73,
-    "TimePlayed": 89,
+    "TimePlayed": 94,
     "LastSeen": 1765319745
   },
   {
@@ -1017,7 +1017,7 @@
     "WeaponsCrafted": 3,
     "ClothesCrafted": 2,
     "TimePlayed": 416,
-    "LastSeen": 1765273829
+    "LastSeen": 1765325658
   },
   {
     "SteamID": "76561198188002818",
@@ -1594,7 +1594,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 127,
     "ClothesCrafted": 45,
-    "TimePlayed": 153,
+    "TimePlayed": 158,
     "LastSeen": 1765112858
   },
   {
@@ -9108,7 +9108,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 23,
     "ClothesCrafted": 23,
-    "TimePlayed": 82,
+    "TimePlayed": 83,
     "LastSeen": 1765325350
   },
   {
@@ -14997,7 +14997,7 @@
     "SteamID": "76561199874681074",
     "DisplayName": "서 구",
     "PlayersKilled": 0,
-    "Deaths": 7,
+    "Deaths": 8,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -15024,7 +15024,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 2,
     "LastSeen": 1765324078
   },
   {
@@ -17547,7 +17547,7 @@
     "SteamID": "76561198251337628",
     "DisplayName": "명훈",
     "PlayersKilled": 0,
-    "Deaths": 103,
+    "Deaths": 104,
     "Headshots": 59,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -17574,7 +17574,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 38,
     "ClothesCrafted": 55,
-    "TimePlayed": 14,
+    "TimePlayed": 4,
     "LastSeen": 1765304675
   },
   {
@@ -22572,7 +22572,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 3,
-    "TimePlayed": 23,
+    "TimePlayed": 28,
     "LastSeen": 1765315859
   },
   {
@@ -22844,7 +22844,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 6,
-    "TimePlayed": 87,
+    "TimePlayed": 92,
     "LastSeen": 1765319887
   },
   {
@@ -22876,9 +22876,9 @@
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 0,
-    "ClothesCrafted": 0,
-    "TimePlayed": 5,
+    "WeaponsCrafted": 1,
+    "ClothesCrafted": 1,
+    "TimePlayed": 10,
     "LastSeen": 1765324804
   }
 ]
