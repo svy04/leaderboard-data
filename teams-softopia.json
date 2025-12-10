@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T10:00:31.2681460Z",
+  "lastUpdated": "2025-12-10T10:05:31.2923080Z",
   "teams": [
     {
       "id": "9",
@@ -622,6 +622,58 @@
       ]
     },
     {
+      "id": "17",
+      "name": "Team 17",
+      "tag": "[T17]",
+      "createdAt": "2025-12-10",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 7,
+        "teamKDR": 0.14
+      },
+      "members": [
+        {
+          "steamId": "76561198911584529",
+          "name": "B2om",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-10"
+        },
+        {
+          "steamId": "76561199477744492",
+          "name": "1004",
+          "role": "member",
+          "kills": 1,
+          "deaths": 3,
+          "joinedAt": "2025-12-10"
+        },
+        {
+          "steamId": "76561199435846044",
+          "name": "kimminje0815",
+          "role": "member",
+          "kills": 0,
+          "deaths": 3,
+          "joinedAt": "2025-12-10"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199477744492",
+          "killerName": "1004",
+          "victimSteamId": "76561199435846044",
+          "victimName": "kimminje0815",
+          "victimTeam": "Team 17",
+          "weapon": "Salvaged Cleaver",
+          "distance": 2,
+          "headshot": false,
+          "timestamp": "2025-12-10T10:05:14.0961250Z"
+        }
+      ]
+    },
+    {
       "id": "12",
       "name": "Team 12",
       "tag": "[T12]",
@@ -784,46 +836,6 @@
           "kills": 0,
           "deaths": 1,
           "joinedAt": "2025-12-09"
-        }
-      ],
-      "recentKills": []
-    },
-    {
-      "id": "17",
-      "name": "Team 17",
-      "tag": "[T17]",
-      "createdAt": "2025-12-10",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 0,
-        "totalDeaths": 6,
-        "teamKDR": 0.0
-      },
-      "members": [
-        {
-          "steamId": "76561198911584529",
-          "name": "B2om",
-          "role": "leader",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-10"
-        },
-        {
-          "steamId": "76561199477744492",
-          "name": "1004",
-          "role": "member",
-          "kills": 0,
-          "deaths": 3,
-          "joinedAt": "2025-12-10"
-        },
-        {
-          "steamId": "76561199435846044",
-          "name": "kimminje0815",
-          "role": "member",
-          "kills": 0,
-          "deaths": 2,
-          "joinedAt": "2025-12-10"
         }
       ],
       "recentKills": []
