@@ -132,7 +132,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 4,
-    "TimePlayed": 172,
+    "TimePlayed": 177,
     "LastSeen": 1765364353
   },
   {
@@ -1118,7 +1118,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 17,
     "ClothesCrafted": 41,
-    "TimePlayed": 87,
+    "TimePlayed": 92,
     "LastSeen": 1765364324
   },
   {
@@ -1261,7 +1261,7 @@
     "SteamID": "76561198097924882",
     "DisplayName": "GOLD",
     "PlayersKilled": 0,
-    "Deaths": 3,
+    "Deaths": 4,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -1288,7 +1288,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 14,
     "ClothesCrafted": 7,
-    "TimePlayed": 7,
+    "TimePlayed": 0,
     "LastSeen": 1765277193
   },
   {
@@ -1942,7 +1942,7 @@
     "DisplayName": "E모씨",
     "PlayersKilled": 0,
     "Deaths": 0,
-    "Headshots": 0,
+    "Headshots": 1,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -1951,16 +1951,16 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 0,
-    "NPCKills": 0,
+    "NPCKills": 1,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
-    "PVEKillDistance": 0,
+    "PVEKillDistance": 13,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 24,
+    "PlantsGathered": 34,
     "WoodGathered": 250,
-    "RocksGathered": 0,
+    "RocksGathered": 750,
     "SulfurOreGathered": 42,
     "MetalOreGathered": 0,
     "RocketsFired": 0,
@@ -1968,7 +1968,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 3,
-    "TimePlayed": 11,
+    "TimePlayed": 16,
     "LastSeen": 1765370125
   }
 ]
