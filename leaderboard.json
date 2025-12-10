@@ -268,7 +268,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 121,
     "ClothesCrafted": 74,
-    "TimePlayed": 6,
+    "TimePlayed": 11,
     "LastSeen": 1765343946
   },
   {
@@ -370,7 +370,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 100,
     "ClothesCrafted": 240,
-    "TimePlayed": 44,
+    "TimePlayed": 49,
     "LastSeen": 1765336370
   },
   {
@@ -506,7 +506,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 53,
     "ClothesCrafted": 48,
-    "TimePlayed": 71,
+    "TimePlayed": 76,
     "LastSeen": 1765346192
   },
   {
@@ -540,7 +540,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 129,
     "ClothesCrafted": 92,
-    "TimePlayed": 204,
+    "TimePlayed": 209,
     "LastSeen": 1765356678
   },
   {
@@ -1016,7 +1016,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 130,
     "ClothesCrafted": 45,
-    "TimePlayed": 32,
+    "TimePlayed": 37,
     "LastSeen": 1765112858
   },
   {
@@ -1220,7 +1220,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 39,
     "ClothesCrafted": 43,
-    "TimePlayed": 36,
+    "TimePlayed": 41,
     "LastSeen": 1765352881
   },
   {
@@ -8564,7 +8564,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 0,
-    "TimePlayed": 9,
+    "TimePlayed": 14,
     "LastSeen": 1765359089
   },
   {
@@ -9142,7 +9142,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 92,
+    "TimePlayed": 97,
     "LastSeen": 1765342152
   },
   {
@@ -9234,7 +9234,7 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 10,
+    "PlantsGathered": 11,
     "WoodGathered": 0,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
@@ -9244,7 +9244,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 2,
-    "TimePlayed": 0,
+    "TimePlayed": 5,
     "LastSeen": 1765357833
   },
   {
@@ -9312,7 +9312,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 437,
+    "TimePlayed": 442,
     "LastSeen": 1765334747
   },
   {
@@ -22300,7 +22300,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
     "ClothesCrafted": 4,
-    "TimePlayed": 5,
+    "TimePlayed": 10,
     "LastSeen": 1765358060
   },
   {
@@ -22944,9 +22944,9 @@
     "RocketsFired": 0,
     "ExplosivesThrown": 18,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 84,
+    "WeaponsCrafted": 85,
     "ClothesCrafted": 45,
-    "TimePlayed": 24,
+    "TimePlayed": 29,
     "LastSeen": 1765319887
   },
   {
@@ -22987,7 +22987,7 @@
     "SteamID": "76561198119434291",
     "DisplayName": "이동빈대전거주",
     "PlayersKilled": 0,
-    "Deaths": 14,
+    "Deaths": 15,
     "Headshots": 17,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -23014,7 +23014,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 4,
-    "TimePlayed": 24,
+    "TimePlayed": 2,
     "LastSeen": 1765327675
   },
   {
@@ -23150,14 +23150,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 157,
+    "TimePlayed": 162,
     "LastSeen": 1765344429
   },
   {
     "SteamID": "76561198125450768",
     "DisplayName": "DalCham",
     "PlayersKilled": 0,
-    "Deaths": 4,
+    "Deaths": 5,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -23191,6 +23191,40 @@
     "SteamID": "76561198353976731",
     "DisplayName": "hyeon",
     "PlayersKilled": 0,
+    "Deaths": 1,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 0,
+    "WoodGathered": 0,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 0,
+    "ClothesCrafted": 0,
+    "TimePlayed": 0,
+    "LastSeen": 1765358122
+  },
+  {
+    "SteamID": "76561199097946851",
+    "DisplayName": "플랏나인",
+    "PlayersKilled": 0,
     "Deaths": 0,
     "Headshots": 0,
     "KDR": 0.0,
@@ -23219,6 +23253,6 @@
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
     "TimePlayed": 1,
-    "LastSeen": 1765358122
+    "LastSeen": 1765359222
   }
 ]
