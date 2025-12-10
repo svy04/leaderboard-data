@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T09:15:30.9679110Z",
+  "lastUpdated": "2025-12-10T09:20:31.0188070Z",
   "teams": [
     {
       "id": "9",
@@ -9,16 +9,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 32,
+        "totalKills": 33,
         "totalDeaths": 9,
-        "teamKDR": 3.56
+        "teamKDR": 3.67
       },
       "members": [
         {
           "steamId": "76561198324946154",
           "name": "Usona",
           "role": "leader",
-          "kills": 5,
+          "kills": 6,
           "deaths": 2,
           "joinedAt": "2025-12-08"
         },
@@ -64,6 +64,17 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198324946154",
+          "killerName": "Usona",
+          "victimSteamId": "76561198980733793",
+          "victimName": "Banditfire",
+          "victimTeam": "Solo",
+          "weapon": "grenade.f1.deployed",
+          "distance": 29,
+          "headshot": false,
+          "timestamp": "2025-12-10T09:19:12.3707890Z"
+        },
         {
           "killerSteamId": "76561198136589812",
           "killerName": "Life",
