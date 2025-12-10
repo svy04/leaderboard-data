@@ -72,14 +72,14 @@
     "DisplayName": "Usona",
     "PlayersKilled": 2,
     "Deaths": 11,
-    "Headshots": 38,
+    "Headshots": 39,
     "KDR": 0.18,
     "ArrowKills": 0,
     "MeleeKills": 0,
     "BladeKills": 0,
     "RevolverKills": 0,
     "ShotgunKills": 0,
-    "RifleKills": 5,
+    "RifleKills": 6,
     "AnimalKills": 6,
     "NPCKills": 67,
     "HelicopterKills": 0,
@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 9,
-    "TimePlayed": 95,
+    "TimePlayed": 100,
     "LastSeen": 1765365169
   },
   {
@@ -132,7 +132,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 4,
-    "TimePlayed": 97,
+    "TimePlayed": 102,
     "LastSeen": 1765364353
   },
   {
@@ -301,8 +301,8 @@
     "ExplosivesThrown": 2,
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
-    "ClothesCrafted": 2,
-    "TimePlayed": 17,
+    "ClothesCrafted": 3,
+    "TimePlayed": 22,
     "LastSeen": 1765356079
   },
   {
@@ -914,14 +914,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 1,
-    "TimePlayed": 153,
+    "TimePlayed": 158,
     "LastSeen": 1765365368
   },
   {
     "SteamID": "76561198359198696",
     "DisplayName": "Haserong",
     "PlayersKilled": 0,
-    "Deaths": 32,
+    "Deaths": 33,
     "Headshots": 52,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -948,7 +948,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 3,
-    "TimePlayed": 43,
+    "TimePlayed": 5,
     "LastSeen": 1765365205
   },
   {
@@ -1116,9 +1116,9 @@
     "RocketsFired": 0,
     "ExplosivesThrown": 1,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 14,
+    "WeaponsCrafted": 17,
     "ClothesCrafted": 41,
-    "TimePlayed": 12,
+    "TimePlayed": 17,
     "LastSeen": 1765364324
   },
   {
@@ -1696,7 +1696,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 41,
     "ClothesCrafted": 8,
-    "TimePlayed": 17,
+    "TimePlayed": 22,
     "LastSeen": 1765350832
   },
   {
@@ -1916,7 +1916,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 0,
-    "AnimalKills": 0,
+    "AnimalKills": 1,
     "NPCKills": 8,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -1934,7 +1934,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 1,
-    "TimePlayed": 51,
+    "TimePlayed": 56,
     "LastSeen": 1765363232
   }
 ]
