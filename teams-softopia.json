@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T10:55:31.6165260Z",
+  "lastUpdated": "2025-12-10T11:00:31.6547580Z",
   "teams": [
     {
       "id": "9",
@@ -644,6 +644,66 @@
       ]
     },
     {
+      "id": "16",
+      "name": "Team 16",
+      "tag": "[T16]",
+      "createdAt": "2025-12-09",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 3,
+        "teamKDR": 0.33
+      },
+      "members": [
+        {
+          "steamId": "76561199166026601",
+          "name": "MeKaNNN",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 2,
+          "joinedAt": "2025-12-09"
+        },
+        {
+          "steamId": "76561199104895709",
+          "name": "Yui",
+          "role": "member",
+          "kills": 1,
+          "deaths": 0,
+          "joinedAt": "2025-12-10"
+        },
+        {
+          "steamId": "76561199177666110",
+          "name": "Dispoiler",
+          "role": "member",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-09"
+        },
+        {
+          "steamId": "76561199230010113",
+          "name": "Amo",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-10"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199104895709",
+          "killerName": "Yui",
+          "victimSteamId": "76561199166026601",
+          "victimName": "MeKaNNN",
+          "victimTeam": "Team 16",
+          "weapon": "Assault Rifle",
+          "distance": 1,
+          "headshot": true,
+          "timestamp": "2025-12-10T10:58:36.7468520Z"
+        }
+      ]
+    },
+    {
       "id": "3",
       "name": "Team 3",
       "tag": "[T3]",
@@ -870,54 +930,6 @@
           "kills": 0,
           "deaths": 0,
           "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": []
-    },
-    {
-      "id": "16",
-      "name": "Team 16",
-      "tag": "[T16]",
-      "createdAt": "2025-12-09",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 0,
-        "totalDeaths": 2,
-        "teamKDR": 0.0
-      },
-      "members": [
-        {
-          "steamId": "76561199166026601",
-          "name": "MeKaNNN",
-          "role": "leader",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-09"
-        },
-        {
-          "steamId": "76561199177666110",
-          "name": "Dispoiler",
-          "role": "member",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-09"
-        },
-        {
-          "steamId": "76561199104895709",
-          "name": "Yui",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-10"
-        },
-        {
-          "steamId": "76561199230010113",
-          "name": "Amo",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-10"
         }
       ],
       "recentKills": []
