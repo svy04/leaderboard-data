@@ -94,11 +94,11 @@
     "SulfurOreGathered": 2200,
     "MetalOreGathered": 6000,
     "RocketsFired": 17,
-    "ExplosivesThrown": 24,
+    "ExplosivesThrown": 26,
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 4,
-    "TimePlayed": 61,
+    "TimePlayed": 66,
     "LastSeen": 1765353250
   },
   {
@@ -188,7 +188,7 @@
     "APCKills": 0,
     "PVPKillDistance": 125,
     "PVEKillDistance": 106,
-    "StructuresBuilt": 106,
+    "StructuresBuilt": 107,
     "StructuresRepaired": 0,
     "PlantsGathered": 224,
     "WoodGathered": 11305,
@@ -196,20 +196,20 @@
     "SulfurOreGathered": 6782,
     "MetalOreGathered": 19000,
     "RocketsFired": 0,
-    "ExplosivesThrown": 1,
+    "ExplosivesThrown": 6,
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 9,
-    "TimePlayed": 12,
+    "TimePlayed": 17,
     "LastSeen": 1765353854
   },
   {
     "SteamID": "76561198980733793",
     "DisplayName": "Banditfire",
     "PlayersKilled": 1,
-    "Deaths": 5,
+    "Deaths": 6,
     "Headshots": 1,
-    "KDR": 0.2,
+    "KDR": 0.17,
     "ArrowKills": 0,
     "MeleeKills": 0,
     "BladeKills": 0,
@@ -230,11 +230,11 @@
     "SulfurOreGathered": 1600,
     "MetalOreGathered": 2500,
     "RocketsFired": 1,
-    "ExplosivesThrown": 0,
+    "ExplosivesThrown": 1,
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 4,
-    "TimePlayed": 14,
+    "TimePlayed": 3,
     "LastSeen": 1765349272
   },
   {
@@ -846,8 +846,8 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 1,
-    "TimePlayed": 77,
-    "LastSeen": 1765353896
+    "TimePlayed": 79,
+    "LastSeen": 1765358368
   },
   {
     "SteamID": "76561198359198696",
@@ -880,7 +880,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 3,
-    "TimePlayed": 39,
+    "TimePlayed": 44,
     "LastSeen": 1765337171
   },
   {
@@ -1662,7 +1662,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 41,
     "ClothesCrafted": 8,
-    "TimePlayed": 67,
+    "TimePlayed": 72,
     "LastSeen": 1765350832
   },
   {
@@ -1696,7 +1696,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 8,
     "ClothesCrafted": 11,
-    "TimePlayed": 53,
+    "TimePlayed": 58,
     "LastSeen": 1765350850
   },
   {
@@ -1764,7 +1764,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 3,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1765351707
   },
   {
@@ -1798,14 +1798,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 7,
+    "TimePlayed": 12,
     "LastSeen": 1765351752
   },
   {
     "SteamID": "76561198911584529",
     "DisplayName": "B2om",
     "PlayersKilled": 0,
-    "Deaths": 3,
+    "Deaths": 4,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -1822,7 +1822,7 @@
     "PVEKillDistance": 4,
     "StructuresBuilt": 75,
     "StructuresRepaired": 0,
-    "PlantsGathered": 77,
+    "PlantsGathered": 83,
     "WoodGathered": 1997,
     "RocksGathered": 4065,
     "SulfurOreGathered": 6,
@@ -1830,9 +1830,9 @@
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 6,
+    "WeaponsCrafted": 8,
     "ClothesCrafted": 0,
-    "TimePlayed": 5,
+    "TimePlayed": 4,
     "LastSeen": 1765351769
   },
   {
@@ -1866,7 +1866,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 35,
+    "TimePlayed": 40,
     "LastSeen": 1765356079
   }
 ]
