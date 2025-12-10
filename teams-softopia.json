@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T10:10:31.3244680Z",
+  "lastUpdated": "2025-12-10T10:15:31.3671650Z",
   "teams": [
     {
       "id": "9",
@@ -9,16 +9,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 34,
+        "totalKills": 40,
         "totalDeaths": 10,
-        "teamKDR": 3.4
+        "teamKDR": 4.0
       },
       "members": [
         {
           "steamId": "76561198324946154",
           "name": "Usona",
           "role": "leader",
-          "kills": 7,
+          "kills": 8,
           "deaths": 2,
           "joinedAt": "2025-12-08"
         },
@@ -42,8 +42,16 @@
           "steamId": "76561198359198696",
           "name": "Haserong",
           "role": "member",
-          "kills": 2,
+          "kills": 6,
           "deaths": 6,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561199382747364",
+          "name": "악당처단세일러문",
+          "role": "member",
+          "kills": 1,
+          "deaths": 0,
           "joinedAt": "2025-12-08"
         },
         {
@@ -53,17 +61,75 @@
           "kills": 1,
           "deaths": 0,
           "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561199382747364",
-          "name": "악당처단세일러문",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561199382747364",
+          "killerName": "악당처단세일러문",
+          "victimSteamId": "76561199435846044",
+          "victimName": "kimminje0815",
+          "victimTeam": "Team 17",
+          "weapon": "Salvaged Cleaver",
+          "distance": 0,
+          "headshot": false,
+          "timestamp": "2025-12-10T10:15:08.8865410Z"
+        },
+        {
+          "killerSteamId": "76561198324946154",
+          "killerName": "Usona",
+          "victimSteamId": "76561199435846044",
+          "victimName": "kimminje0815",
+          "victimTeam": "Team 17",
+          "weapon": "L96 Rifle",
+          "distance": 93,
+          "headshot": true,
+          "timestamp": "2025-12-10T10:13:29.0521320Z"
+        },
+        {
+          "killerSteamId": "76561198359198696",
+          "killerName": "Haserong",
+          "victimSteamId": "76561198911584529",
+          "victimName": "B2om",
+          "victimTeam": "Team 17",
+          "weapon": "Assault Rifle",
+          "distance": 2,
+          "headshot": true,
+          "timestamp": "2025-12-10T10:11:48.9333200Z"
+        },
+        {
+          "killerSteamId": "76561198359198696",
+          "killerName": "Haserong",
+          "victimSteamId": "76561198911584529",
+          "victimName": "B2om",
+          "victimTeam": "Team 17",
+          "weapon": "Assault Rifle",
+          "distance": 3,
+          "headshot": true,
+          "timestamp": "2025-12-10T10:10:52.6270280Z"
+        },
+        {
+          "killerSteamId": "76561198359198696",
+          "killerName": "Haserong",
+          "victimSteamId": "76561199477744492",
+          "victimName": "1004",
+          "victimTeam": "Team 17",
+          "weapon": "Assault Rifle",
+          "distance": 2,
+          "headshot": true,
+          "timestamp": "2025-12-10T10:10:36.0687100Z"
+        },
+        {
+          "killerSteamId": "76561198359198696",
+          "killerName": "Haserong",
+          "victimSteamId": "76561198911584529",
+          "victimName": "B2om",
+          "victimTeam": "Team 17",
+          "weapon": "Assault Rifle",
+          "distance": 2,
+          "headshot": true,
+          "timestamp": "2025-12-10T10:10:33.9720760Z"
+        },
         {
           "killerSteamId": "76561198324946154",
           "killerName": "Usona",
@@ -622,58 +688,6 @@
       ]
     },
     {
-      "id": "17",
-      "name": "Team 17",
-      "tag": "[T17]",
-      "createdAt": "2025-12-10",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 1,
-        "totalDeaths": 7,
-        "teamKDR": 0.14
-      },
-      "members": [
-        {
-          "steamId": "76561198911584529",
-          "name": "B2om",
-          "role": "leader",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-10"
-        },
-        {
-          "steamId": "76561199477744492",
-          "name": "1004",
-          "role": "member",
-          "kills": 1,
-          "deaths": 3,
-          "joinedAt": "2025-12-10"
-        },
-        {
-          "steamId": "76561199435846044",
-          "name": "kimminje0815",
-          "role": "member",
-          "kills": 0,
-          "deaths": 3,
-          "joinedAt": "2025-12-10"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561199477744492",
-          "killerName": "1004",
-          "victimSteamId": "76561199435846044",
-          "victimName": "kimminje0815",
-          "victimTeam": "Team 17",
-          "weapon": "Salvaged Cleaver",
-          "distance": 2,
-          "headshot": false,
-          "timestamp": "2025-12-10T10:05:14.0961250Z"
-        }
-      ]
-    },
-    {
       "id": "12",
       "name": "Team 12",
       "tag": "[T12]",
@@ -741,6 +755,58 @@
           "distance": 0,
           "headshot": true,
           "timestamp": "2025-12-08T14:00:12.6761070Z"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Team 17",
+      "tag": "[T17]",
+      "createdAt": "2025-12-10",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 13,
+        "teamKDR": 0.08
+      },
+      "members": [
+        {
+          "steamId": "76561198911584529",
+          "name": "B2om",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 4,
+          "joinedAt": "2025-12-10"
+        },
+        {
+          "steamId": "76561199477744492",
+          "name": "1004",
+          "role": "member",
+          "kills": 1,
+          "deaths": 4,
+          "joinedAt": "2025-12-10"
+        },
+        {
+          "steamId": "76561199435846044",
+          "name": "kimminje0815",
+          "role": "member",
+          "kills": 0,
+          "deaths": 5,
+          "joinedAt": "2025-12-10"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199477744492",
+          "killerName": "1004",
+          "victimSteamId": "76561199435846044",
+          "victimName": "kimminje0815",
+          "victimTeam": "Team 17",
+          "weapon": "Salvaged Cleaver",
+          "distance": 2,
+          "headshot": false,
+          "timestamp": "2025-12-10T10:05:14.0961250Z"
         }
       ]
     },
@@ -836,6 +902,14 @@
           "kills": 0,
           "deaths": 1,
           "joinedAt": "2025-12-09"
+        },
+        {
+          "steamId": "76561199104895709",
+          "name": "Yui",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-10"
         }
       ],
       "recentKills": []
