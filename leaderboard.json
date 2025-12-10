@@ -88,7 +88,7 @@
     "PVEKillDistance": 150,
     "StructuresBuilt": 104,
     "StructuresRepaired": 71,
-    "PlantsGathered": 1433,
+    "PlantsGathered": 1453,
     "WoodGathered": 62289,
     "RocksGathered": 138291,
     "SulfurOreGathered": 47689,
@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 159,
     "ClothesCrafted": 78,
-    "TimePlayed": 5,
+    "TimePlayed": 10,
     "LastSeen": 1765353171
   },
   {
@@ -241,7 +241,7 @@
     "SteamID": "76561199836249440",
     "DisplayName": "Chino Paco",
     "PlayersKilled": 26,
-    "Deaths": 142,
+    "Deaths": 143,
     "Headshots": 80,
     "KDR": 0.18,
     "ArrowKills": 2,
@@ -259,16 +259,16 @@
     "StructuresBuilt": 403,
     "StructuresRepaired": 13,
     "PlantsGathered": 962,
-    "WoodGathered": 61192,
+    "WoodGathered": 61383,
     "RocksGathered": 31984,
     "SulfurOreGathered": 33725,
     "MetalOreGathered": 54434,
     "RocketsFired": 10,
     "ExplosivesThrown": 14,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 111,
+    "WeaponsCrafted": 116,
     "ClothesCrafted": 74,
-    "TimePlayed": 24,
+    "TimePlayed": 2,
     "LastSeen": 1765343946
   },
   {
@@ -358,7 +358,7 @@
     "APCKills": 0,
     "PVPKillDistance": 58,
     "PVEKillDistance": 255,
-    "StructuresBuilt": 352,
+    "StructuresBuilt": 355,
     "StructuresRepaired": 215,
     "PlantsGathered": 293,
     "WoodGathered": 82680,
@@ -370,7 +370,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 98,
     "ClothesCrafted": 238,
-    "TimePlayed": 6,
+    "TimePlayed": 11,
     "LastSeen": 1765336370
   },
   {
@@ -506,7 +506,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 53,
     "ClothesCrafted": 48,
-    "TimePlayed": 11,
+    "TimePlayed": 16,
     "LastSeen": 1765346192
   },
   {
@@ -989,7 +989,7 @@
     "SteamID": "76561198175157431",
     "DisplayName": "시아",
     "PlayersKilled": 14,
-    "Deaths": 58,
+    "Deaths": 59,
     "Headshots": 52,
     "KDR": 0.24,
     "ArrowKills": 2,
@@ -1012,11 +1012,11 @@
     "SulfurOreGathered": 5200,
     "MetalOreGathered": 15500,
     "RocketsFired": 48,
-    "ExplosivesThrown": 58,
+    "ExplosivesThrown": 62,
     "PlayersHealed": 0,
     "WeaponsCrafted": 130,
     "ClothesCrafted": 45,
-    "TimePlayed": 60,
+    "TimePlayed": 5,
     "LastSeen": 1765112858
   },
   {
@@ -1220,7 +1220,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 39,
     "ClothesCrafted": 43,
-    "TimePlayed": 28,
+    "TimePlayed": 33,
     "LastSeen": 1765352881
   },
   {
@@ -2248,21 +2248,21 @@
     "DisplayName": "삐뽀",
     "PlayersKilled": 6,
     "Deaths": 15,
-    "Headshots": 7,
+    "Headshots": 8,
     "KDR": 0.4,
     "ArrowKills": 0,
     "MeleeKills": 1,
     "BladeKills": 0,
     "RevolverKills": 0,
     "ShotgunKills": 0,
-    "RifleKills": 0,
+    "RifleKills": 1,
     "AnimalKills": 1,
     "NPCKills": 7,
     "HelicopterKills": 0,
     "APCKills": 0,
-    "PVPKillDistance": 40,
+    "PVPKillDistance": 66,
     "PVEKillDistance": 71,
-    "StructuresBuilt": 191,
+    "StructuresBuilt": 192,
     "StructuresRepaired": 10,
     "PlantsGathered": 259,
     "WoodGathered": 9802,
@@ -2274,7 +2274,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 1,
-    "TimePlayed": 9,
+    "TimePlayed": 14,
     "LastSeen": 1765340184
   },
   {
@@ -2882,11 +2882,11 @@
     "SulfurOreGathered": 6595,
     "MetalOreGathered": 6516,
     "RocketsFired": 0,
-    "ExplosivesThrown": 2,
+    "ExplosivesThrown": 3,
     "PlayersHealed": 0,
     "WeaponsCrafted": 22,
     "ClothesCrafted": 15,
-    "TimePlayed": 64,
+    "TimePlayed": 69,
     "LastSeen": 1765350189
   },
   {
@@ -9142,7 +9142,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 32,
+    "TimePlayed": 37,
     "LastSeen": 1765342152
   },
   {
@@ -9157,7 +9157,7 @@
     "BladeKills": 0,
     "RevolverKills": 0,
     "ShotgunKills": 0,
-    "RifleKills": 5,
+    "RifleKills": 6,
     "AnimalKills": 0,
     "NPCKills": 2,
     "HelicopterKills": 0,
@@ -9176,7 +9176,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 0,
-    "TimePlayed": 61,
+    "TimePlayed": 66,
     "LastSeen": 1765340257
   },
   {
@@ -9244,7 +9244,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 377,
+    "TimePlayed": 382,
     "LastSeen": 1765334747
   },
   {
@@ -22878,7 +22878,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 77,
     "ClothesCrafted": 44,
-    "TimePlayed": 87,
+    "TimePlayed": 92,
     "LastSeen": 1765319887
   },
   {
@@ -22920,7 +22920,7 @@
     "DisplayName": "이동빈대전거주",
     "PlayersKilled": 0,
     "Deaths": 11,
-    "Headshots": 13,
+    "Headshots": 14,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -22929,7 +22929,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 6,
-    "NPCKills": 20,
+    "NPCKills": 21,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 2,
@@ -22946,7 +22946,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 4,
-    "TimePlayed": 37,
+    "TimePlayed": 42,
     "LastSeen": 1765327675
   },
   {
@@ -23082,7 +23082,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 97,
+    "TimePlayed": 102,
     "LastSeen": 1765344429
   },
   {
@@ -23116,7 +23116,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1765347827
   },
   {
