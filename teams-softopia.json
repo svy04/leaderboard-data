@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T08:30:30.6857800Z",
+  "lastUpdated": "2025-12-10T08:35:30.7187990Z",
   "teams": [
     {
       "id": "9",
@@ -9,9 +9,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 20,
+        "totalKills": 22,
         "totalDeaths": 7,
-        "teamKDR": 2.86
+        "teamKDR": 3.14
       },
       "members": [
         {
@@ -26,7 +26,7 @@
           "steamId": "76561198136589812",
           "name": "Life",
           "role": "member",
-          "kills": 8,
+          "kills": 10,
           "deaths": 2,
           "joinedAt": "2025-12-09"
         },
@@ -64,6 +64,28 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561199435846044",
+          "victimName": "kimminje0815",
+          "victimTeam": "Team 17",
+          "weapon": "SKS",
+          "distance": 43,
+          "headshot": false,
+          "timestamp": "2025-12-10T08:33:46.2988100Z"
+        },
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561199477744492",
+          "victimName": "1004",
+          "victimTeam": "Team 17",
+          "weapon": "SKS",
+          "distance": 88,
+          "headshot": true,
+          "timestamp": "2025-12-10T08:33:42.1788560Z"
+        },
         {
           "killerSteamId": "76561198136589812",
           "killerName": "Life",
@@ -643,7 +665,7 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 0,
+        "totalDeaths": 2,
         "teamKDR": 0.0
       },
       "members": [
@@ -652,7 +674,7 @@
           "name": "1004",
           "role": "member",
           "kills": 0,
-          "deaths": 0,
+          "deaths": 1,
           "joinedAt": "2025-12-10"
         },
         {
@@ -660,7 +682,7 @@
           "name": "kimminje0815",
           "role": "member",
           "kills": 0,
-          "deaths": 0,
+          "deaths": 1,
           "joinedAt": "2025-12-10"
         }
       ],
