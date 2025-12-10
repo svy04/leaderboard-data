@@ -88,7 +88,7 @@
     "PVEKillDistance": 106,
     "StructuresBuilt": 111,
     "StructuresRepaired": 0,
-    "PlantsGathered": 225,
+    "PlantsGathered": 227,
     "WoodGathered": 11305,
     "RocksGathered": 33904,
     "SulfurOreGathered": 6782,
@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 9,
-    "TimePlayed": 85,
+    "TimePlayed": 90,
     "LastSeen": 1765365169
   },
   {
@@ -132,7 +132,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 4,
-    "TimePlayed": 87,
+    "TimePlayed": 92,
     "LastSeen": 1765364353
   },
   {
@@ -302,7 +302,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 7,
+    "TimePlayed": 12,
     "LastSeen": 1765356079
   },
   {
@@ -914,7 +914,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 1,
-    "TimePlayed": 143,
+    "TimePlayed": 148,
     "LastSeen": 1765365368
   },
   {
@@ -948,7 +948,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 3,
-    "TimePlayed": 33,
+    "TimePlayed": 38,
     "LastSeen": 1765365205
   },
   {
@@ -1118,7 +1118,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 14,
     "ClothesCrafted": 40,
-    "TimePlayed": 2,
+    "TimePlayed": 7,
     "LastSeen": 1765364324
   },
   {
@@ -1696,7 +1696,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 41,
     "ClothesCrafted": 8,
-    "TimePlayed": 7,
+    "TimePlayed": 12,
     "LastSeen": 1765350832
   },
   {
@@ -1908,7 +1908,7 @@
     "DisplayName": "Amo",
     "PlayersKilled": 0,
     "Deaths": 0,
-    "Headshots": 1,
+    "Headshots": 3,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -1917,11 +1917,11 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 0,
-    "NPCKills": 1,
+    "NPCKills": 6,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
-    "PVEKillDistance": 48,
+    "PVEKillDistance": 51,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 12,
@@ -1934,7 +1934,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 1,
-    "TimePlayed": 41,
+    "TimePlayed": 46,
     "LastSeen": 1765363232
   }
 ]
