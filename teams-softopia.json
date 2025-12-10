@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T09:05:30.9152460Z",
+  "lastUpdated": "2025-12-10T09:10:30.9429700Z",
   "teams": [
     {
       "id": "9",
@@ -9,9 +9,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 28,
+        "totalKills": 31,
         "totalDeaths": 9,
-        "teamKDR": 3.11
+        "teamKDR": 3.44
       },
       "members": [
         {
@@ -26,7 +26,7 @@
           "steamId": "76561198136589812",
           "name": "Life",
           "role": "member",
-          "kills": 14,
+          "kills": 17,
           "deaths": 2,
           "joinedAt": "2025-12-09"
         },
@@ -64,6 +64,39 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561199477744492",
+          "victimName": "1004",
+          "victimTeam": "Team 17",
+          "weapon": "Assault Rifle",
+          "distance": 1,
+          "headshot": true,
+          "timestamp": "2025-12-10T09:10:06.3666940Z"
+        },
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561199477744492",
+          "victimName": "1004",
+          "victimTeam": "Team 17",
+          "weapon": "Assault Rifle",
+          "distance": 7,
+          "headshot": true,
+          "timestamp": "2025-12-10T09:09:48.1155040Z"
+        },
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561199435846044",
+          "victimName": "kimminje0815",
+          "victimTeam": "Team 17",
+          "weapon": "Assault Rifle",
+          "distance": 42,
+          "headshot": true,
+          "timestamp": "2025-12-10T09:09:09.1378000Z"
+        },
         {
           "killerSteamId": "76561198136589812",
           "killerName": "Life",
@@ -731,7 +764,7 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 2,
+        "totalDeaths": 5,
         "teamKDR": 0.0
       },
       "members": [
@@ -740,7 +773,7 @@
           "name": "1004",
           "role": "member",
           "kills": 0,
-          "deaths": 1,
+          "deaths": 3,
           "joinedAt": "2025-12-10"
         },
         {
@@ -748,7 +781,7 @@
           "name": "kimminje0815",
           "role": "member",
           "kills": 0,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-10"
         }
       ],
