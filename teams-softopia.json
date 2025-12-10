@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T08:05:30.5250730Z",
+  "lastUpdated": "2025-12-10T08:10:30.5502180Z",
   "teams": [
     {
       "id": "9",
@@ -10,8 +10,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 20,
-        "totalDeaths": 5,
-        "teamKDR": 4.0
+        "totalDeaths": 6,
+        "teamKDR": 3.33
       },
       "members": [
         {
@@ -27,7 +27,7 @@
           "name": "Life",
           "role": "member",
           "kills": 8,
-          "deaths": 0,
+          "deaths": 1,
           "joinedAt": "2025-12-09"
         },
         {
