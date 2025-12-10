@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T11:30:31.8503400Z",
+  "lastUpdated": "2025-12-10T11:35:31.8763820Z",
   "teams": [
     {
       "id": "9",
@@ -9,16 +9,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 40,
-        "totalDeaths": 10,
-        "teamKDR": 4.0
+        "totalKills": 41,
+        "totalDeaths": 11,
+        "teamKDR": 3.73
       },
       "members": [
         {
           "steamId": "76561198324946154",
           "name": "Usona",
           "role": "leader",
-          "kills": 8,
+          "kills": 9,
           "deaths": 2,
           "joinedAt": "2025-12-08"
         },
@@ -43,7 +43,7 @@
           "name": "Haserong",
           "role": "member",
           "kills": 6,
-          "deaths": 6,
+          "deaths": 7,
           "joinedAt": "2025-12-08"
         },
         {
@@ -64,6 +64,17 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198324946154",
+          "killerName": "Usona",
+          "victimSteamId": "76561198359198696",
+          "victimName": "Haserong",
+          "victimTeam": "Team 9",
+          "weapon": "Assault Rifle",
+          "distance": 1,
+          "headshot": true,
+          "timestamp": "2025-12-10T11:32:06.4203840Z"
+        },
         {
           "killerSteamId": "76561199382747364",
           "killerName": "악당처단세일러문",
