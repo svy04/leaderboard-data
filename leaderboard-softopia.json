@@ -880,7 +880,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 3,
-    "TimePlayed": 23,
+    "TimePlayed": 25,
     "LastSeen": 1765337171
   },
   {
@@ -1662,7 +1662,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 41,
     "ClothesCrafted": 8,
-    "TimePlayed": 132,
+    "TimePlayed": 137,
     "LastSeen": 1765350832
   },
   {
@@ -1840,7 +1840,7 @@
     "DisplayName": "Yui",
     "PlayersKilled": 0,
     "Deaths": 0,
-    "Headshots": 0,
+    "Headshots": 4,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -1849,11 +1849,11 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 0,
-    "NPCKills": 0,
+    "NPCKills": 4,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
-    "PVEKillDistance": 0,
+    "PVEKillDistance": 44,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 22,
@@ -1866,7 +1866,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 100,
+    "TimePlayed": 105,
     "LastSeen": 1765356079
   },
   {
