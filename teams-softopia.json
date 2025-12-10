@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T07:45:30.3878500Z",
+  "lastUpdated": "2025-12-10T07:50:30.4366320Z",
   "teams": [
     {
       "id": "9",
@@ -630,6 +630,38 @@
           "kills": 0,
           "deaths": 1,
           "joinedAt": "2025-12-09"
+        }
+      ],
+      "recentKills": []
+    },
+    {
+      "id": "17",
+      "name": "Team 17",
+      "tag": "[T17]",
+      "createdAt": "2025-12-10",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561199477744492",
+          "name": "1004",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-10"
+        },
+        {
+          "steamId": "76561199435846044",
+          "name": "kimminje0815",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-10"
         }
       ],
       "recentKills": []
