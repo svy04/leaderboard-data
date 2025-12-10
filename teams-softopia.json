@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T11:35:31.8763820Z",
+  "lastUpdated": "2025-12-10T11:40:31.9203430Z",
   "teams": [
     {
       "id": "9",
@@ -570,6 +570,99 @@
       ]
     },
     {
+      "id": "16",
+      "name": "Team 16",
+      "tag": "[T16]",
+      "createdAt": "2025-12-09",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 4,
+        "totalDeaths": 6,
+        "teamKDR": 0.67
+      },
+      "members": [
+        {
+          "steamId": "76561199166026601",
+          "name": "MeKaNNN",
+          "role": "leader",
+          "kills": 1,
+          "deaths": 3,
+          "joinedAt": "2025-12-09"
+        },
+        {
+          "steamId": "76561199104895709",
+          "name": "Yui",
+          "role": "member",
+          "kills": 3,
+          "deaths": 1,
+          "joinedAt": "2025-12-10"
+        },
+        {
+          "steamId": "76561199177666110",
+          "name": "Dispoiler",
+          "role": "member",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-09"
+        },
+        {
+          "steamId": "76561199230010113",
+          "name": "Amo",
+          "role": "member",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-10"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199104895709",
+          "killerName": "Yui",
+          "victimSteamId": "76561199230010113",
+          "victimName": "Amo",
+          "victimTeam": "Team 16",
+          "weapon": "Assault Rifle",
+          "distance": 4,
+          "headshot": true,
+          "timestamp": "2025-12-10T11:39:30.7664390Z"
+        },
+        {
+          "killerSteamId": "76561199104895709",
+          "killerName": "Yui",
+          "victimSteamId": "76561198109763445",
+          "victimName": "Parbella",
+          "victimTeam": "Team 11",
+          "weapon": "Semi-Automatic Pistol",
+          "distance": 25,
+          "headshot": true,
+          "timestamp": "2025-12-10T11:19:58.0019380Z"
+        },
+        {
+          "killerSteamId": "76561199166026601",
+          "killerName": "MeKaNNN",
+          "victimSteamId": "76561198109763445",
+          "victimName": "Parbella",
+          "victimTeam": "Team 11",
+          "weapon": "LR-300 Assault Rifle",
+          "distance": 23,
+          "headshot": true,
+          "timestamp": "2025-12-10T11:14:58.8587940Z"
+        },
+        {
+          "killerSteamId": "76561199104895709",
+          "killerName": "Yui",
+          "victimSteamId": "76561199166026601",
+          "victimName": "MeKaNNN",
+          "victimTeam": "Team 16",
+          "weapon": "Assault Rifle",
+          "distance": 1,
+          "headshot": true,
+          "timestamp": "2025-12-10T10:58:36.7468520Z"
+        }
+      ]
+    },
+    {
       "id": "11",
       "name": "Team 11",
       "tag": "[T11]",
@@ -673,88 +766,6 @@
           "distance": 0,
           "headshot": false,
           "timestamp": "2025-12-08T15:32:44.3539540Z"
-        }
-      ]
-    },
-    {
-      "id": "16",
-      "name": "Team 16",
-      "tag": "[T16]",
-      "createdAt": "2025-12-09",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 3,
-        "totalDeaths": 5,
-        "teamKDR": 0.6
-      },
-      "members": [
-        {
-          "steamId": "76561199166026601",
-          "name": "MeKaNNN",
-          "role": "leader",
-          "kills": 1,
-          "deaths": 3,
-          "joinedAt": "2025-12-09"
-        },
-        {
-          "steamId": "76561199104895709",
-          "name": "Yui",
-          "role": "member",
-          "kills": 2,
-          "deaths": 1,
-          "joinedAt": "2025-12-10"
-        },
-        {
-          "steamId": "76561199177666110",
-          "name": "Dispoiler",
-          "role": "member",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-09"
-        },
-        {
-          "steamId": "76561199230010113",
-          "name": "Amo",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-10"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561199104895709",
-          "killerName": "Yui",
-          "victimSteamId": "76561198109763445",
-          "victimName": "Parbella",
-          "victimTeam": "Team 11",
-          "weapon": "Semi-Automatic Pistol",
-          "distance": 25,
-          "headshot": true,
-          "timestamp": "2025-12-10T11:19:58.0019380Z"
-        },
-        {
-          "killerSteamId": "76561199166026601",
-          "killerName": "MeKaNNN",
-          "victimSteamId": "76561198109763445",
-          "victimName": "Parbella",
-          "victimTeam": "Team 11",
-          "weapon": "LR-300 Assault Rifle",
-          "distance": 23,
-          "headshot": true,
-          "timestamp": "2025-12-10T11:14:58.8587940Z"
-        },
-        {
-          "killerSteamId": "76561199104895709",
-          "killerName": "Yui",
-          "victimSteamId": "76561199166026601",
-          "victimName": "MeKaNNN",
-          "victimTeam": "Team 16",
-          "weapon": "Assault Rifle",
-          "distance": 1,
-          "headshot": true,
-          "timestamp": "2025-12-10T10:58:36.7468520Z"
         }
       ]
     },
