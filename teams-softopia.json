@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T09:00:30.8828670Z",
+  "lastUpdated": "2025-12-10T09:05:30.9152460Z",
   "teams": [
     {
       "id": "9",
@@ -9,9 +9,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 25,
+        "totalKills": 28,
         "totalDeaths": 9,
-        "teamKDR": 2.78
+        "teamKDR": 3.11
       },
       "members": [
         {
@@ -26,7 +26,7 @@
           "steamId": "76561198136589812",
           "name": "Life",
           "role": "member",
-          "kills": 11,
+          "kills": 14,
           "deaths": 2,
           "joinedAt": "2025-12-09"
         },
@@ -64,6 +64,39 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561198980733793",
+          "victimName": "Banditfire",
+          "victimTeam": "Solo",
+          "weapon": "Bolt Action Rifle",
+          "distance": 200,
+          "headshot": false,
+          "timestamp": "2025-12-10T09:02:34.5620950Z"
+        },
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561198980733793",
+          "victimName": "Banditfire",
+          "victimTeam": "Solo",
+          "weapon": "Assault Rifle",
+          "distance": 11,
+          "headshot": true,
+          "timestamp": "2025-12-10T09:01:25.2167460Z"
+        },
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561198980733793",
+          "victimName": "Banditfire",
+          "victimTeam": "Solo",
+          "weapon": "Assault Rifle",
+          "distance": 58,
+          "headshot": true,
+          "timestamp": "2025-12-10T09:00:48.5128470Z"
+        },
         {
           "killerSteamId": "76561198136589812",
           "killerName": "Life",
