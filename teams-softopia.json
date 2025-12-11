@@ -1,6 +1,171 @@
 {
-  "lastUpdated": "2025-12-10T14:10:32.8714950Z",
+  "lastUpdated": "2025-12-11T07:26:38.9645230Z",
   "teams": [
+    {
+      "id": "4",
+      "name": "Team 4",
+      "tag": "[T4]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 12,
+        "totalDeaths": 0,
+        "teamKDR": 12.0
+      },
+      "members": [
+        {
+          "steamId": "76561199840341677",
+          "name": "Q",
+          "role": "leader",
+          "kills": 6,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198004480294",
+          "name": "yes24",
+          "role": "member",
+          "kills": 6,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561198004480294",
+          "killerName": "yes24",
+          "victimSteamId": "76561198846939725",
+          "victimName": "Void",
+          "victimTeam": "Solo",
+          "weapon": "MP5A4",
+          "distance": 7,
+          "headshot": false,
+          "timestamp": "2025-12-08T14:56:22.0910130Z"
+        },
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561199492962538",
+          "victimName": "나쵸",
+          "victimTeam": "Team 12",
+          "weapon": "LR-300 Assault Rifle",
+          "distance": 4,
+          "headshot": false,
+          "timestamp": "2025-12-08T14:55:50.6706800Z"
+        },
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561198371903544",
+          "victimName": "레제",
+          "victimTeam": "Team 12",
+          "weapon": "LR-300 Assault Rifle",
+          "distance": 3,
+          "headshot": false,
+          "timestamp": "2025-12-08T14:55:42.6379990Z"
+        },
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561199492962538",
+          "victimName": "나쵸",
+          "victimTeam": "Team 12",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 34,
+          "headshot": true,
+          "timestamp": "2025-12-08T13:44:50.9540020Z"
+        },
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561198371903544",
+          "victimName": "레제",
+          "victimTeam": "Team 12",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 67,
+          "headshot": false,
+          "timestamp": "2025-12-08T13:39:19.6914530Z"
+        },
+        {
+          "killerSteamId": "76561198004480294",
+          "killerName": "yes24",
+          "victimSteamId": "76561198858841356",
+          "victimName": "코쿠시보",
+          "victimTeam": "Team 11",
+          "weapon": "MP5A4",
+          "distance": 15,
+          "headshot": true,
+          "timestamp": "2025-12-08T12:50:43.8000400Z"
+        },
+        {
+          "killerSteamId": "76561198004480294",
+          "killerName": "yes24",
+          "victimSteamId": "76561198109763445",
+          "victimName": "Parbella",
+          "victimTeam": "Team 11",
+          "weapon": "MP5A4",
+          "distance": 14,
+          "headshot": false,
+          "timestamp": "2025-12-08T12:50:43.4822170Z"
+        },
+        {
+          "killerSteamId": "76561198004480294",
+          "killerName": "yes24",
+          "victimSteamId": "76561198098822640",
+          "victimName": "영이",
+          "victimTeam": "Team 8",
+          "weapon": "Crossbow",
+          "distance": 25,
+          "headshot": false,
+          "timestamp": "2025-12-08T11:07:49.1077120Z"
+        },
+        {
+          "killerSteamId": "76561198004480294",
+          "killerName": "yes24",
+          "victimSteamId": "76561198098822640",
+          "victimName": "영이",
+          "victimTeam": "Team 8",
+          "weapon": "Revolver",
+          "distance": 11,
+          "headshot": false,
+          "timestamp": "2025-12-08T10:58:15.3549750Z"
+        },
+        {
+          "killerSteamId": "76561198004480294",
+          "killerName": "yes24",
+          "victimSteamId": "76561198098822640",
+          "victimName": "영이",
+          "victimTeam": "Team 8",
+          "weapon": "Crossbow",
+          "distance": 3,
+          "headshot": true,
+          "timestamp": "2025-12-08T10:47:18.1220670Z"
+        },
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561199701867902",
+          "victimName": "qwer",
+          "victimTeam": "Solo",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 8,
+          "headshot": false,
+          "timestamp": "2025-12-08T10:12:34.3644790Z"
+        },
+        {
+          "killerSteamId": "76561199840341677",
+          "killerName": "Q",
+          "victimSteamId": "76561198049433674",
+          "victimName": "miko",
+          "victimTeam": "Team 7",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 0,
+          "headshot": false,
+          "timestamp": "2025-12-08T09:59:29.7324490Z"
+        }
+      ]
+    },
     {
       "id": "9",
       "name": "Team 9",
@@ -9,9 +174,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 41,
+        "totalKills": 35,
         "totalDeaths": 11,
-        "teamKDR": 3.73
+        "teamKDR": 3.18
       },
       "members": [
         {
@@ -29,14 +194,6 @@
           "kills": 18,
           "deaths": 2,
           "joinedAt": "2025-12-09"
-        },
-        {
-          "steamId": "76561199840341677",
-          "name": "Q",
-          "role": "member",
-          "kills": 6,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
         },
         {
           "steamId": "76561198359198696",
@@ -453,8 +610,8 @@
     },
     {
       "id": "2",
-      "name": "ppap",
-      "tag": "[ppap]",
+      "name": "Team 2",
+      "tag": "[T2]",
       "createdAt": "2025-12-08",
       "color": "#888888",
       "motto": "No motto set",
@@ -981,6 +1138,14 @@
         "teamKDR": 0.0
       },
       "members": [
+        {
+          "steamId": "76561198431469582",
+          "name": "진뚱",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
         {
           "steamId": "76561198098822640",
           "name": "영이",
