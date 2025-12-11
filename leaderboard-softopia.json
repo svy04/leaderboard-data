@@ -121,7 +121,7 @@
     "PVPKillDistance": 30,
     "PVEKillDistance": 71,
     "StructuresBuilt": 0,
-    "StructuresRepaired": 0,
+    "StructuresRepaired": 1,
     "PlantsGathered": 73,
     "WoodGathered": 5331,
     "RocksGathered": 0,
@@ -132,7 +132,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 4,
-    "TimePlayed": 2,
+    "TimePlayed": 7,
     "LastSeen": 1765445951
   },
   {
@@ -1114,11 +1114,11 @@
     "SulfurOreGathered": 1200,
     "MetalOreGathered": 1000,
     "RocketsFired": 0,
-    "ExplosivesThrown": 7,
+    "ExplosivesThrown": 8,
     "PlayersHealed": 0,
     "WeaponsCrafted": 19,
     "ClothesCrafted": 50,
-    "TimePlayed": 31,
+    "TimePlayed": 36,
     "LastSeen": 1765446906
   },
   {
