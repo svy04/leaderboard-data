@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-11T11:51:40.6455730Z",
+  "lastUpdated": "2025-12-11T11:56:40.6748540Z",
   "teams": [
     {
       "id": "4",
@@ -609,6 +609,50 @@
       ]
     },
     {
+      "id": "18",
+      "name": "Team 18",
+      "tag": "[T18]",
+      "createdAt": "2025-12-11",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 7,
+        "totalDeaths": 6,
+        "teamKDR": 1.17
+      },
+      "members": [
+        {
+          "steamId": "76561198109763445",
+          "name": "Parbella",
+          "role": "leader",
+          "kills": 4,
+          "deaths": 5,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198444677919",
+          "name": "ctysun020304",
+          "role": "member",
+          "kills": 3,
+          "deaths": 1,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561198109763445",
+          "killerName": "Parbella",
+          "victimSteamId": "76561198858841356",
+          "victimName": "코쿠시보",
+          "victimTeam": "Solo",
+          "weapon": "explosive.satchel.deployed",
+          "distance": 7,
+          "headshot": false,
+          "timestamp": "2025-12-11T11:56:26.0972230Z"
+        }
+      ]
+    },
+    {
       "id": "2",
       "name": "Team 2",
       "tag": "[T2]",
@@ -816,105 +860,6 @@
           "distance": 1,
           "headshot": true,
           "timestamp": "2025-12-10T10:58:36.7468520Z"
-        }
-      ]
-    },
-    {
-      "id": "11",
-      "name": "Team 11",
-      "tag": "[T11]",
-      "createdAt": "2025-12-08",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 3,
-        "totalDeaths": 9,
-        "teamKDR": 0.33
-      },
-      "members": [
-        {
-          "steamId": "76561198109763445",
-          "name": "Parbella",
-          "role": "leader",
-          "kills": 3,
-          "deaths": 5,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198858841356",
-          "name": "코쿠시보",
-          "role": "member",
-          "kills": 0,
-          "deaths": 4,
-          "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561198444677919",
-          "killerName": "ctysun020304",
-          "victimSteamId": "76561199166026601",
-          "victimName": "MeKaNNN",
-          "victimTeam": "Team 16",
-          "weapon": "MP5A4",
-          "distance": 18,
-          "headshot": true,
-          "timestamp": "2025-12-10T11:15:03.7598670Z"
-        },
-        {
-          "killerSteamId": "76561198444677919",
-          "killerName": "ctysun020304",
-          "victimSteamId": "76561199104895709",
-          "victimName": "Yui",
-          "victimTeam": "Team 16",
-          "weapon": "MP5A4",
-          "distance": 30,
-          "headshot": false,
-          "timestamp": "2025-12-10T11:14:38.7379980Z"
-        },
-        {
-          "killerSteamId": "76561198109763445",
-          "killerName": "Parbella",
-          "victimSteamId": "76561198858841356",
-          "victimName": "코쿠시보",
-          "victimTeam": "Team 11",
-          "weapon": "Hatchet",
-          "distance": 0,
-          "headshot": true,
-          "timestamp": "2025-12-09T13:31:40.3269600Z"
-        },
-        {
-          "killerSteamId": "76561198109763445",
-          "killerName": "Parbella",
-          "victimSteamId": "76561198858841356",
-          "victimName": "코쿠시보",
-          "victimTeam": "Team 11",
-          "weapon": "Blow Pipe",
-          "distance": 1,
-          "headshot": true,
-          "timestamp": "2025-12-08T17:44:03.9133030Z"
-        },
-        {
-          "killerSteamId": "76561198109763445",
-          "killerName": "Parbella",
-          "victimSteamId": "76561198444677919",
-          "victimName": "ctysun020304",
-          "victimTeam": "Team 11",
-          "weapon": "Blow Pipe",
-          "distance": 1,
-          "headshot": false,
-          "timestamp": "2025-12-08T17:40:23.3089390Z"
-        },
-        {
-          "killerSteamId": "76561198444677919",
-          "killerName": "ctysun020304",
-          "victimSteamId": "76561198109763445",
-          "victimName": "Parbella",
-          "victimTeam": "Team 11",
-          "weapon": "Salvaged Sword",
-          "distance": 0,
-          "headshot": false,
-          "timestamp": "2025-12-08T15:32:44.3539540Z"
         }
       ]
     },
