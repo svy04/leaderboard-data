@@ -88,7 +88,7 @@
     "PVEKillDistance": 150,
     "StructuresBuilt": 322,
     "StructuresRepaired": 71,
-    "PlantsGathered": 1693,
+    "PlantsGathered": 1701,
     "WoodGathered": 66314,
     "RocksGathered": 138291,
     "SulfurOreGathered": 47689,
@@ -96,9 +96,9 @@
     "RocketsFired": 34,
     "ExplosivesThrown": 113,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 170,
+    "WeaponsCrafted": 171,
     "ClothesCrafted": 78,
-    "TimePlayed": 58,
+    "TimePlayed": 63,
     "LastSeen": 1765410463
   },
   {
@@ -574,7 +574,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 136,
     "ClothesCrafted": 46,
-    "TimePlayed": 574,
+    "TimePlayed": 579,
     "LastSeen": 1765404304
   },
   {
@@ -1016,7 +1016,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 7,
-    "TimePlayed": 9,
+    "TimePlayed": 14,
     "LastSeen": 1765447969
   },
   {
@@ -23412,9 +23412,9 @@
     "PVEKillDistance": 39,
     "StructuresBuilt": 29,
     "StructuresRepaired": 0,
-    "PlantsGathered": 222,
-    "WoodGathered": 5714,
-    "RocksGathered": 60750,
+    "PlantsGathered": 226,
+    "WoodGathered": 5964,
+    "RocksGathered": 61875,
     "SulfurOreGathered": 5800,
     "MetalOreGathered": 10997,
     "RocketsFired": 0,
@@ -23422,14 +23422,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 0,
-    "TimePlayed": 0,
+    "TimePlayed": 5,
     "LastSeen": 1765451017
   },
   {
     "SteamID": "76561198389186031",
     "DisplayName": "BoKyung",
     "PlayersKilled": 0,
-    "Deaths": 16,
+    "Deaths": 17,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -23456,7 +23456,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 2,
-    "TimePlayed": 5,
+    "TimePlayed": 1,
     "LastSeen": 1765449278
   },
   {
@@ -23480,17 +23480,17 @@
     "PVEKillDistance": 3,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 29,
-    "WoodGathered": 9310,
-    "RocksGathered": 7864,
-    "SulfurOreGathered": 1996,
-    "MetalOreGathered": 3084,
+    "PlantsGathered": 33,
+    "WoodGathered": 10806,
+    "RocksGathered": 9169,
+    "SulfurOreGathered": 2154,
+    "MetalOreGathered": 4859,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 0,
-    "TimePlayed": 5,
+    "TimePlayed": 10,
     "LastSeen": 1765449412
   },
   {
@@ -24629,11 +24629,11 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 1,
-    "NPCKills": 0,
+    "NPCKills": 1,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
-    "PVEKillDistance": 2,
+    "PVEKillDistance": 49,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 22,
@@ -24646,7 +24646,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 57,
+    "TimePlayed": 62,
     "LastSeen": 1765447555
   },
   {
@@ -24670,7 +24670,7 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 18,
+    "PlantsGathered": 20,
     "WoodGathered": 0,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
@@ -24680,14 +24680,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 20,
+    "TimePlayed": 25,
     "LastSeen": 1765449686
   },
   {
     "SteamID": "76561199136990006",
     "DisplayName": "치킨치킨",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -24714,7 +24714,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 0,
     "LastSeen": 1765450349
   }
 ]
