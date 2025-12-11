@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 162,
     "ClothesCrafted": 78,
-    "TimePlayed": 17,
+    "TimePlayed": 22,
     "LastSeen": 1765410463
   },
   {
@@ -547,7 +547,7 @@
     "SteamID": "76561198175157431",
     "DisplayName": "시아",
     "PlayersKilled": 20,
-    "Deaths": 103,
+    "Deaths": 104,
     "Headshots": 60,
     "KDR": 0.19,
     "ArrowKills": 2,
@@ -574,7 +574,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 136,
     "ClothesCrafted": 46,
-    "TimePlayed": 100,
+    "TimePlayed": 3,
     "LastSeen": 1765404304
   },
   {
@@ -4568,7 +4568,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 0,
-    "AnimalKills": 8,
+    "AnimalKills": 9,
     "NPCKills": 1,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -4576,7 +4576,7 @@
     "PVEKillDistance": 20,
     "StructuresBuilt": 550,
     "StructuresRepaired": 19,
-    "PlantsGathered": 718,
+    "PlantsGathered": 720,
     "WoodGathered": 29191,
     "RocksGathered": 35799,
     "SulfurOreGathered": 4600,
@@ -4586,7 +4586,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 5,
-    "TimePlayed": 32,
+    "TimePlayed": 37,
     "LastSeen": 1765409631
   },
   {
@@ -6524,7 +6524,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 92,
     "ClothesCrafted": 58,
-    "TimePlayed": 240,
+    "TimePlayed": 245,
     "LastSeen": 1765409946
   },
   {
@@ -15287,7 +15287,7 @@
     "StructuresBuilt": 60,
     "StructuresRepaired": 0,
     "PlantsGathered": 112,
-    "WoodGathered": 9603,
+    "WoodGathered": 9691,
     "RocksGathered": 13205,
     "SulfurOreGathered": 2400,
     "MetalOreGathered": 6250,
@@ -15296,7 +15296,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 2,
-    "TimePlayed": 89,
+    "TimePlayed": 92,
     "LastSeen": 1765411682
   },
   {
@@ -17819,7 +17819,7 @@
     "SteamID": "76561198251337628",
     "DisplayName": "명훈",
     "PlayersKilled": 0,
-    "Deaths": 127,
+    "Deaths": 128,
     "Headshots": 62,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -17841,12 +17841,12 @@
     "RocksGathered": 40049,
     "SulfurOreGathered": 21818,
     "MetalOreGathered": 37350,
-    "RocketsFired": 63,
+    "RocketsFired": 64,
     "ExplosivesThrown": 25,
     "PlayersHealed": 0,
     "WeaponsCrafted": 44,
     "ClothesCrafted": 55,
-    "TimePlayed": 0,
+    "TimePlayed": 1,
     "LastSeen": 1765404004
   },
   {
@@ -23150,7 +23150,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 0,
+    "TimePlayed": 4,
     "LastSeen": 1765411610
   },
   {
@@ -24206,5 +24206,39 @@
     "ClothesCrafted": 0,
     "TimePlayed": 0,
     "LastSeen": 1765390971
+  },
+  {
+    "SteamID": "76561198309225371",
+    "DisplayName": "온리[U]너",
+    "PlayersKilled": 0,
+    "Deaths": 0,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 0,
+    "WoodGathered": 0,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 1,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 0,
+    "ClothesCrafted": 0,
+    "TimePlayed": 3,
+    "LastSeen": 1765411602
   }
 ]
