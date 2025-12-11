@@ -88,7 +88,7 @@
     "PVEKillDistance": 150,
     "StructuresBuilt": 322,
     "StructuresRepaired": 71,
-    "PlantsGathered": 1651,
+    "PlantsGathered": 1653,
     "WoodGathered": 66314,
     "RocksGathered": 138291,
     "SulfurOreGathered": 47689,
@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 170,
     "ClothesCrafted": 78,
-    "TimePlayed": 114,
+    "TimePlayed": 119,
     "LastSeen": 1765410463
   },
   {
@@ -574,7 +574,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 136,
     "ClothesCrafted": 46,
-    "TimePlayed": 449,
+    "TimePlayed": 454,
     "LastSeen": 1765404304
   },
   {
@@ -8769,7 +8769,7 @@
     "WeaponsCrafted": 7,
     "ClothesCrafted": 0,
     "TimePlayed": 60,
-    "LastSeen": 1765379688
+    "LastSeen": 1765443916
   },
   {
     "SteamID": "76561198963176025",
@@ -21831,7 +21831,7 @@
     "SteamID": "76561199211409046",
     "DisplayName": "주브르",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 1,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -21858,7 +21858,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 16,
+    "TimePlayed": 0,
     "LastSeen": 1765201407
   },
   {
@@ -24069,7 +24069,7 @@
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
     "TimePlayed": 3,
-    "LastSeen": 1765383503
+    "LastSeen": 1765443918
   },
   {
     "SteamID": "76561198430966539",
@@ -24374,7 +24374,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 3,
+    "TimePlayed": 8,
     "LastSeen": 1765433409
   },
   {
@@ -24408,7 +24408,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 115,
+    "TimePlayed": 120,
     "LastSeen": 1765433533
   },
   {
@@ -24568,8 +24568,8 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 0,
-    "WoodGathered": 103,
+    "PlantsGathered": 2,
+    "WoodGathered": 203,
     "RocksGathered": 0,
     "SulfurOreGathered": 90,
     "MetalOreGathered": 0,
@@ -24578,7 +24578,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 4,
+    "TimePlayed": 9,
     "LastSeen": 1765443261
   }
 ]
