@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-11T11:56:40.6748540Z",
+  "lastUpdated": "2025-12-11T12:01:40.7061720Z",
   "teams": [
     {
       "id": "4",
@@ -616,9 +616,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 7,
-        "totalDeaths": 6,
-        "teamKDR": 1.17
+        "totalKills": 8,
+        "totalDeaths": 7,
+        "teamKDR": 1.14
       },
       "members": [
         {
@@ -626,19 +626,30 @@
           "name": "Parbella",
           "role": "leader",
           "kills": 4,
-          "deaths": 5,
+          "deaths": 6,
           "joinedAt": "2025-12-08"
         },
         {
           "steamId": "76561198444677919",
           "name": "ctysun020304",
           "role": "member",
-          "kills": 3,
+          "kills": 4,
           "deaths": 1,
           "joinedAt": "2025-12-08"
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198444677919",
+          "killerName": "ctysun020304",
+          "victimSteamId": "76561198109763445",
+          "victimName": "Parbella",
+          "victimTeam": "Team 18",
+          "weapon": "grenade.f1.deployed",
+          "distance": 11,
+          "headshot": false,
+          "timestamp": "2025-12-11T11:57:26.6213900Z"
+        },
         {
           "killerSteamId": "76561198109763445",
           "killerName": "Parbella",
