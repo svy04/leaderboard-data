@@ -1016,7 +1016,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 7,
-    "TimePlayed": 127,
+    "TimePlayed": 132,
     "LastSeen": 1765467315
   },
   {
@@ -1322,7 +1322,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 47,
     "ClothesCrafted": 44,
-    "TimePlayed": 326,
+    "TimePlayed": 331,
     "LastSeen": 1765463634
   },
   {
@@ -8972,7 +8972,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 16,
     "ClothesCrafted": 1,
-    "TimePlayed": 123,
+    "TimePlayed": 128,
     "LastSeen": 1765463370
   },
   {
@@ -9074,7 +9074,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 216,
     "ClothesCrafted": 0,
-    "TimePlayed": 162,
+    "TimePlayed": 167,
     "LastSeen": 1765464364
   },
   {
@@ -9176,7 +9176,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 8,
     "ClothesCrafted": 16,
-    "TimePlayed": 6,
+    "TimePlayed": 11,
     "LastSeen": 1765463400
   },
   {
@@ -15432,7 +15432,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 16,
-    "TimePlayed": 15,
+    "TimePlayed": 20,
     "LastSeen": 1765459170
   },
   {
@@ -20532,7 +20532,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 113,
+    "TimePlayed": 118,
     "LastSeen": 1765467185
   },
   {
@@ -25122,7 +25122,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 108,
+    "TimePlayed": 113,
     "LastSeen": 1765464850
   },
   {
@@ -25258,7 +25258,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 8,
-    "TimePlayed": 131,
+    "TimePlayed": 136,
     "LastSeen": 1765463004
   },
   {
@@ -25292,14 +25292,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 4,
-    "TimePlayed": 130,
+    "TimePlayed": 135,
     "LastSeen": 1765463027
   },
   {
     "SteamID": "76561198763447597",
     "DisplayName": "OOOOO",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 5,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -25326,7 +25326,41 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 4,
-    "TimePlayed": 19,
+    "TimePlayed": 0,
     "LastSeen": 1765464654
+  },
+  {
+    "SteamID": "76561198423036386",
+    "DisplayName": "서사장",
+    "PlayersKilled": 0,
+    "Deaths": 0,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 0,
+    "WoodGathered": 0,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 0,
+    "ClothesCrafted": 0,
+    "TimePlayed": 3,
+    "LastSeen": 1765470972
   }
 ]
