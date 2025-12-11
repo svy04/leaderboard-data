@@ -6281,12 +6281,12 @@
     "RocksGathered": 12712,
     "SulfurOreGathered": 11486,
     "MetalOreGathered": 21500,
-    "RocketsFired": 11,
-    "ExplosivesThrown": 25,
+    "RocketsFired": 12,
+    "ExplosivesThrown": 30,
     "PlayersHealed": 0,
     "WeaponsCrafted": 20,
     "ClothesCrafted": 10,
-    "TimePlayed": 15,
+    "TimePlayed": 20,
     "LastSeen": 1765472334
   },
   {
@@ -25469,7 +25469,7 @@
     "SteamID": "76561198070316448",
     "DisplayName": "GunGong",
     "PlayersKilled": 0,
-    "Deaths": 1,
+    "Deaths": 2,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -25496,7 +25496,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 0,
     "LastSeen": 1765488456
   }
 ]
