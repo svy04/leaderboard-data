@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 170,
     "ClothesCrafted": 78,
-    "TimePlayed": 43,
+    "TimePlayed": 48,
     "LastSeen": 1765410463
   },
   {
@@ -574,7 +574,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 136,
     "ClothesCrafted": 46,
-    "TimePlayed": 559,
+    "TimePlayed": 564,
     "LastSeen": 1765404304
   },
   {
@@ -1016,7 +1016,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 7,
-    "TimePlayed": 321,
+    "TimePlayed": 326,
     "LastSeen": 1765447969
   },
   {
@@ -8750,7 +8750,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 9,
-    "AnimalKills": 4,
+    "AnimalKills": 6,
     "NPCKills": 1,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -8758,7 +8758,7 @@
     "PVEKillDistance": 13,
     "StructuresBuilt": 138,
     "StructuresRepaired": 0,
-    "PlantsGathered": 343,
+    "PlantsGathered": 345,
     "WoodGathered": 19807,
     "RocksGathered": 34500,
     "SulfurOreGathered": 5000,
@@ -8768,7 +8768,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 9,
     "ClothesCrafted": 0,
-    "TimePlayed": 51,
+    "TimePlayed": 56,
     "LastSeen": 1765445878
   },
   {
@@ -23447,7 +23447,7 @@
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 19,
-    "WoodGathered": 5252,
+    "WoodGathered": 5447,
     "RocksGathered": 2647,
     "SulfurOreGathered": 169,
     "MetalOreGathered": 1516,
@@ -23456,7 +23456,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 2,
-    "TimePlayed": 14,
+    "TimePlayed": 19,
     "LastSeen": 1765449278
   },
   {
@@ -23481,8 +23481,8 @@
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 27,
-    "WoodGathered": 8080,
-    "RocksGathered": 6158,
+    "WoodGathered": 8567,
+    "RocksGathered": 7114,
     "SulfurOreGathered": 1896,
     "MetalOreGathered": 3084,
     "RocketsFired": 0,
@@ -23490,7 +23490,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 0,
-    "TimePlayed": 11,
+    "TimePlayed": 16,
     "LastSeen": 1765449412
   },
   {
@@ -24636,7 +24636,7 @@
     "PVEKillDistance": 2,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 12,
+    "PlantsGathered": 18,
     "WoodGathered": 875,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
@@ -24646,7 +24646,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 42,
+    "TimePlayed": 47,
     "LastSeen": 1765447555
   },
   {
@@ -24670,7 +24670,7 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 2,
+    "PlantsGathered": 14,
     "WoodGathered": 0,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
@@ -24680,7 +24680,41 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 5,
+    "TimePlayed": 10,
     "LastSeen": 1765449686
+  },
+  {
+    "SteamID": "76561199136990006",
+    "DisplayName": "치킨치킨",
+    "PlayersKilled": 0,
+    "Deaths": 0,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 0,
+    "WoodGathered": 0,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 0,
+    "ClothesCrafted": 0,
+    "TimePlayed": 1,
+    "LastSeen": 1765450349
   }
 ]
