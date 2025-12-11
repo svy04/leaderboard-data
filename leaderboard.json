@@ -86,7 +86,7 @@
     "APCKills": 0,
     "PVPKillDistance": 62,
     "PVEKillDistance": 150,
-    "StructuresBuilt": 242,
+    "StructuresBuilt": 271,
     "StructuresRepaired": 71,
     "PlantsGathered": 1639,
     "WoodGathered": 66314,
@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 167,
     "ClothesCrafted": 78,
-    "TimePlayed": 79,
+    "TimePlayed": 84,
     "LastSeen": 1765410463
   },
   {
@@ -574,7 +574,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 136,
     "ClothesCrafted": 46,
-    "TimePlayed": 414,
+    "TimePlayed": 419,
     "LastSeen": 1765404304
   },
   {
@@ -9198,10 +9198,10 @@
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 1,
-    "StructuresBuilt": 0,
+    "StructuresBuilt": 10,
     "StructuresRepaired": 0,
     "PlantsGathered": 16,
-    "WoodGathered": 350,
+    "WoodGathered": 717,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
     "MetalOreGathered": 0,
@@ -9210,7 +9210,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 11,
+    "TimePlayed": 14,
     "LastSeen": 1765440125
   },
   {
@@ -24374,7 +24374,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 78,
+    "TimePlayed": 83,
     "LastSeen": 1765433409
   },
   {
@@ -24408,7 +24408,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 80,
+    "TimePlayed": 85,
     "LastSeen": 1765433533
   },
   {
@@ -24449,7 +24449,7 @@
     "SteamID": "76561199791430651",
     "DisplayName": "jasons20090608",
     "PlayersKilled": 0,
-    "Deaths": 3,
+    "Deaths": 8,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
