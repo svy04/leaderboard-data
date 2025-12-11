@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-11T10:21:40.0728350Z",
+  "lastUpdated": "2025-12-11T10:26:40.1016200Z",
   "teams": [
     {
       "id": "4",
@@ -827,9 +827,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 6,
-        "totalDeaths": 10,
-        "teamKDR": 0.6
+        "totalKills": 3,
+        "totalDeaths": 9,
+        "teamKDR": 0.33
       },
       "members": [
         {
@@ -838,14 +838,6 @@
           "role": "leader",
           "kills": 3,
           "deaths": 5,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198444677919",
-          "name": "ctysun020304",
-          "role": "member",
-          "kills": 3,
-          "deaths": 1,
           "joinedAt": "2025-12-08"
         },
         {
