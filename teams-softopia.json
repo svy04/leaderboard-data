@@ -1,171 +1,6 @@
 {
-  "lastUpdated": "2025-12-12T01:51:46.0280390Z",
+  "lastUpdated": "2025-12-12T02:16:45.5571500Z",
   "teams": [
-    {
-      "id": "4",
-      "name": "Team 4",
-      "tag": "[T4]",
-      "createdAt": "2025-12-08",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 12,
-        "totalDeaths": 0,
-        "teamKDR": 12.0
-      },
-      "members": [
-        {
-          "steamId": "76561199840341677",
-          "name": "Q",
-          "role": "leader",
-          "kills": 6,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198004480294",
-          "name": "yes24",
-          "role": "member",
-          "kills": 6,
-          "deaths": 0,
-          "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561198004480294",
-          "killerName": "yes24",
-          "victimSteamId": "76561198846939725",
-          "victimName": "Void",
-          "victimTeam": "Solo",
-          "weapon": "MP5A4",
-          "distance": 7,
-          "headshot": false,
-          "timestamp": "2025-12-08T14:56:22.0910130Z"
-        },
-        {
-          "killerSteamId": "76561199840341677",
-          "killerName": "Q",
-          "victimSteamId": "76561199492962538",
-          "victimName": "나쵸",
-          "victimTeam": "Team 12",
-          "weapon": "LR-300 Assault Rifle",
-          "distance": 4,
-          "headshot": false,
-          "timestamp": "2025-12-08T14:55:50.6706800Z"
-        },
-        {
-          "killerSteamId": "76561199840341677",
-          "killerName": "Q",
-          "victimSteamId": "76561198371903544",
-          "victimName": "레제",
-          "victimTeam": "Team 12",
-          "weapon": "LR-300 Assault Rifle",
-          "distance": 3,
-          "headshot": false,
-          "timestamp": "2025-12-08T14:55:42.6379990Z"
-        },
-        {
-          "killerSteamId": "76561199840341677",
-          "killerName": "Q",
-          "victimSteamId": "76561199492962538",
-          "victimName": "나쵸",
-          "victimTeam": "Team 12",
-          "weapon": "Semi-Automatic Rifle",
-          "distance": 34,
-          "headshot": true,
-          "timestamp": "2025-12-08T13:44:50.9540020Z"
-        },
-        {
-          "killerSteamId": "76561199840341677",
-          "killerName": "Q",
-          "victimSteamId": "76561198371903544",
-          "victimName": "레제",
-          "victimTeam": "Team 12",
-          "weapon": "Semi-Automatic Rifle",
-          "distance": 67,
-          "headshot": false,
-          "timestamp": "2025-12-08T13:39:19.6914530Z"
-        },
-        {
-          "killerSteamId": "76561198004480294",
-          "killerName": "yes24",
-          "victimSteamId": "76561198858841356",
-          "victimName": "코쿠시보",
-          "victimTeam": "Team 11",
-          "weapon": "MP5A4",
-          "distance": 15,
-          "headshot": true,
-          "timestamp": "2025-12-08T12:50:43.8000400Z"
-        },
-        {
-          "killerSteamId": "76561198004480294",
-          "killerName": "yes24",
-          "victimSteamId": "76561198109763445",
-          "victimName": "Parbella",
-          "victimTeam": "Team 11",
-          "weapon": "MP5A4",
-          "distance": 14,
-          "headshot": false,
-          "timestamp": "2025-12-08T12:50:43.4822170Z"
-        },
-        {
-          "killerSteamId": "76561198004480294",
-          "killerName": "yes24",
-          "victimSteamId": "76561198098822640",
-          "victimName": "영이",
-          "victimTeam": "Team 8",
-          "weapon": "Crossbow",
-          "distance": 25,
-          "headshot": false,
-          "timestamp": "2025-12-08T11:07:49.1077120Z"
-        },
-        {
-          "killerSteamId": "76561198004480294",
-          "killerName": "yes24",
-          "victimSteamId": "76561198098822640",
-          "victimName": "영이",
-          "victimTeam": "Team 8",
-          "weapon": "Revolver",
-          "distance": 11,
-          "headshot": false,
-          "timestamp": "2025-12-08T10:58:15.3549750Z"
-        },
-        {
-          "killerSteamId": "76561198004480294",
-          "killerName": "yes24",
-          "victimSteamId": "76561198098822640",
-          "victimName": "영이",
-          "victimTeam": "Team 8",
-          "weapon": "Crossbow",
-          "distance": 3,
-          "headshot": true,
-          "timestamp": "2025-12-08T10:47:18.1220670Z"
-        },
-        {
-          "killerSteamId": "76561199840341677",
-          "killerName": "Q",
-          "victimSteamId": "76561199701867902",
-          "victimName": "qwer",
-          "victimTeam": "Solo",
-          "weapon": "Semi-Automatic Rifle",
-          "distance": 8,
-          "headshot": false,
-          "timestamp": "2025-12-08T10:12:34.3644790Z"
-        },
-        {
-          "killerSteamId": "76561199840341677",
-          "killerName": "Q",
-          "victimSteamId": "76561198049433674",
-          "victimName": "miko",
-          "victimTeam": "Team 7",
-          "weapon": "Semi-Automatic Rifle",
-          "distance": 0,
-          "headshot": false,
-          "timestamp": "2025-12-08T09:59:29.7324490Z"
-        }
-      ]
-    },
     {
       "id": "9",
       "name": "Team 9",
@@ -174,40 +9,32 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 35,
-        "totalDeaths": 11,
-        "teamKDR": 3.18
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
       },
       "members": [
         {
           "steamId": "76561198324946154",
           "name": "Usona",
           "role": "leader",
-          "kills": 9,
-          "deaths": 2,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198136589812",
-          "name": "Life",
-          "role": "member",
-          "kills": 18,
-          "deaths": 2,
-          "joinedAt": "2025-12-09"
-        },
-        {
-          "steamId": "76561198359198696",
-          "name": "Haserong",
-          "role": "member",
-          "kills": 6,
-          "deaths": 7,
+          "kills": 0,
+          "deaths": 0,
           "joinedAt": "2025-12-08"
         },
         {
           "steamId": "76561199382747364",
           "name": "악당처단세일러문",
           "role": "member",
-          "kills": 1,
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198359198696",
+          "name": "Haserong",
+          "role": "member",
+          "kills": 0,
           "deaths": 0,
           "joinedAt": "2025-12-08"
         },
@@ -215,453 +42,20 @@
           "steamId": "76561198361831915",
           "name": "Hasegi",
           "role": "member",
-          "kills": 1,
+          "kills": 0,
           "deaths": 0,
           "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561198324946154",
-          "killerName": "Usona",
-          "victimSteamId": "76561198359198696",
-          "victimName": "Haserong",
-          "victimTeam": "Team 9",
-          "weapon": "Assault Rifle",
-          "distance": 1,
-          "headshot": true,
-          "timestamp": "2025-12-10T11:32:06.4203840Z"
         },
         {
-          "killerSteamId": "76561199382747364",
-          "killerName": "악당처단세일러문",
-          "victimSteamId": "76561199435846044",
-          "victimName": "kimminje0815",
-          "victimTeam": "Team 17",
-          "weapon": "Salvaged Cleaver",
-          "distance": 0,
-          "headshot": false,
-          "timestamp": "2025-12-10T10:15:08.8865410Z"
-        },
-        {
-          "killerSteamId": "76561198324946154",
-          "killerName": "Usona",
-          "victimSteamId": "76561199435846044",
-          "victimName": "kimminje0815",
-          "victimTeam": "Team 17",
-          "weapon": "L96 Rifle",
-          "distance": 93,
-          "headshot": true,
-          "timestamp": "2025-12-10T10:13:29.0521320Z"
-        },
-        {
-          "killerSteamId": "76561198359198696",
-          "killerName": "Haserong",
-          "victimSteamId": "76561198911584529",
-          "victimName": "B2om",
-          "victimTeam": "Team 17",
-          "weapon": "Assault Rifle",
-          "distance": 2,
-          "headshot": true,
-          "timestamp": "2025-12-10T10:11:48.9333200Z"
-        },
-        {
-          "killerSteamId": "76561198359198696",
-          "killerName": "Haserong",
-          "victimSteamId": "76561198911584529",
-          "victimName": "B2om",
-          "victimTeam": "Team 17",
-          "weapon": "Assault Rifle",
-          "distance": 3,
-          "headshot": true,
-          "timestamp": "2025-12-10T10:10:52.6270280Z"
-        },
-        {
-          "killerSteamId": "76561198359198696",
-          "killerName": "Haserong",
-          "victimSteamId": "76561199477744492",
-          "victimName": "1004",
-          "victimTeam": "Team 17",
-          "weapon": "Assault Rifle",
-          "distance": 2,
-          "headshot": true,
-          "timestamp": "2025-12-10T10:10:36.0687100Z"
-        },
-        {
-          "killerSteamId": "76561198359198696",
-          "killerName": "Haserong",
-          "victimSteamId": "76561198911584529",
-          "victimName": "B2om",
-          "victimTeam": "Team 17",
-          "weapon": "Assault Rifle",
-          "distance": 2,
-          "headshot": true,
-          "timestamp": "2025-12-10T10:10:33.9720760Z"
-        },
-        {
-          "killerSteamId": "76561198324946154",
-          "killerName": "Usona",
-          "victimSteamId": "76561198359198696",
-          "victimName": "Haserong",
-          "victimTeam": "Team 9",
-          "weapon": "Assault Rifle",
-          "distance": 2,
-          "headshot": true,
-          "timestamp": "2025-12-10T09:59:03.4440940Z"
-        },
-        {
-          "killerSteamId": "76561198324946154",
-          "killerName": "Usona",
-          "victimSteamId": "76561198980733793",
-          "victimName": "Banditfire",
-          "victimTeam": "Solo",
-          "weapon": "grenade.f1.deployed",
-          "distance": 29,
-          "headshot": false,
-          "timestamp": "2025-12-10T09:19:12.3707890Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561198911584529",
-          "victimName": "B2om",
-          "victimTeam": "Team 17",
-          "weapon": "Assault Rifle",
-          "distance": 6,
-          "headshot": false,
-          "timestamp": "2025-12-10T09:12:08.4483780Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561199477744492",
-          "victimName": "1004",
-          "victimTeam": "Team 17",
-          "weapon": "Assault Rifle",
-          "distance": 1,
-          "headshot": true,
-          "timestamp": "2025-12-10T09:10:06.3666940Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561199477744492",
-          "victimName": "1004",
-          "victimTeam": "Team 17",
-          "weapon": "Assault Rifle",
-          "distance": 7,
-          "headshot": true,
-          "timestamp": "2025-12-10T09:09:48.1155040Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561199435846044",
-          "victimName": "kimminje0815",
-          "victimTeam": "Team 17",
-          "weapon": "Assault Rifle",
-          "distance": 42,
-          "headshot": true,
-          "timestamp": "2025-12-10T09:09:09.1378000Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561198980733793",
-          "victimName": "Banditfire",
-          "victimTeam": "Solo",
-          "weapon": "Bolt Action Rifle",
-          "distance": 200,
-          "headshot": false,
-          "timestamp": "2025-12-10T09:02:34.5620950Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561198980733793",
-          "victimName": "Banditfire",
-          "victimTeam": "Solo",
-          "weapon": "Assault Rifle",
-          "distance": 11,
-          "headshot": true,
-          "timestamp": "2025-12-10T09:01:25.2167460Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561198980733793",
-          "victimName": "Banditfire",
-          "victimTeam": "Solo",
-          "weapon": "Assault Rifle",
-          "distance": 58,
-          "headshot": true,
-          "timestamp": "2025-12-10T09:00:48.5128470Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561198980733793",
-          "victimName": "Banditfire",
-          "victimTeam": "Solo",
-          "weapon": "Assault Rifle",
-          "distance": 15,
-          "headshot": false,
-          "timestamp": "2025-12-10T08:53:30.6721930Z"
-        },
-        {
-          "killerSteamId": "76561198324946154",
-          "killerName": "Usona",
-          "victimSteamId": "76561198359198696",
-          "victimName": "Haserong",
-          "victimTeam": "Team 9",
-          "weapon": "Assault Rifle",
-          "distance": 5,
-          "headshot": true,
-          "timestamp": "2025-12-10T08:38:00.1004450Z"
-        },
-        {
-          "killerSteamId": "76561198324946154",
-          "killerName": "Usona",
-          "victimSteamId": "76561198359198696",
-          "victimName": "Haserong",
-          "victimTeam": "Team 9",
-          "weapon": "Assault Rifle",
-          "distance": 2,
-          "headshot": true,
-          "timestamp": "2025-12-10T08:37:17.9134090Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561199435846044",
-          "victimName": "kimminje0815",
-          "victimTeam": "Team 17",
-          "weapon": "SKS",
-          "distance": 43,
-          "headshot": false,
-          "timestamp": "2025-12-10T08:33:46.2988100Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561199477744492",
-          "victimName": "1004",
-          "victimTeam": "Team 17",
-          "weapon": "SKS",
-          "distance": 88,
-          "headshot": true,
-          "timestamp": "2025-12-10T08:33:42.1788560Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561199177666110",
-          "victimName": "Dispoiler",
-          "victimTeam": "Team 16",
-          "weapon": "Bolt Action Rifle",
-          "distance": 113,
-          "headshot": false,
-          "timestamp": "2025-12-09T13:28:24.6916210Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561199166026601",
-          "victimName": "MeKaNNN",
-          "victimTeam": "Team 16",
-          "weapon": "rocket_hv_rpg",
-          "distance": 21,
-          "headshot": false,
-          "timestamp": "2025-12-09T13:27:31.0702140Z"
-        },
-        {
-          "killerSteamId": "76561198359198696",
-          "killerName": "Haserong",
-          "victimSteamId": "76561198324946154",
-          "victimName": "Usona",
-          "victimTeam": "Team 9",
-          "weapon": "Assault Rifle",
-          "distance": 3,
-          "headshot": true,
-          "timestamp": "2025-12-09T12:17:18.5730400Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561198097924882",
-          "victimName": "GOLD",
-          "victimTeam": "Team 12",
-          "weapon": "Assault Rifle",
-          "distance": 1,
-          "headshot": false,
-          "timestamp": "2025-12-09T11:13:20.1109330Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561198371903544",
-          "victimName": "레제",
-          "victimTeam": "Team 12",
-          "weapon": "Assault Rifle",
-          "distance": 77,
-          "headshot": true,
-          "timestamp": "2025-12-09T11:11:13.6547170Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561198371903544",
-          "victimName": "레제",
-          "victimTeam": "Team 12",
-          "weapon": "Assault Rifle",
-          "distance": 13,
-          "headshot": true,
-          "timestamp": "2025-12-09T11:09:29.8367970Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561198371903544",
-          "victimName": "레제",
-          "victimTeam": "Team 12",
-          "weapon": "Assault Rifle",
-          "distance": 9,
-          "headshot": true,
-          "timestamp": "2025-12-09T11:05:45.1476980Z"
-        },
-        {
-          "killerSteamId": "76561198324946154",
-          "killerName": "Usona",
-          "victimSteamId": "76561198359198696",
-          "victimName": "Haserong",
-          "victimTeam": "Team 9",
-          "weapon": "Assault Rifle",
-          "distance": 2,
-          "headshot": true,
-          "timestamp": "2025-12-09T10:39:29.5436950Z"
-        },
-        {
-          "killerSteamId": "76561198324946154",
-          "killerName": "Usona",
-          "victimSteamId": "76561198359198696",
-          "victimName": "Haserong",
-          "victimTeam": "Team 9",
-          "weapon": "Assault Rifle",
-          "distance": 1,
-          "headshot": true,
-          "timestamp": "2025-12-09T10:28:48.2827880Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561198097924882",
-          "victimName": "GOLD",
-          "victimTeam": "Team 12",
-          "weapon": "Assault Rifle",
-          "distance": 1,
-          "headshot": false,
-          "timestamp": "2025-12-09T10:23:54.4097830Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561198371903544",
-          "victimName": "레제",
-          "victimTeam": "Team 12",
-          "weapon": "explosive.satchel.deployed",
-          "distance": 7,
-          "headshot": false,
-          "timestamp": "2025-12-09T10:23:04.3707490Z"
-        },
-        {
-          "killerSteamId": "76561198359198696",
-          "killerName": "Haserong",
-          "victimSteamId": "76561198220382860",
-          "victimName": "Bombardiro Crocodilo",
-          "victimTeam": "ppap",
-          "weapon": "explosive.satchel.deployed",
-          "distance": 5,
-          "headshot": false,
-          "timestamp": "2025-12-08T14:39:20.7129660Z"
-        },
-        {
-          "killerSteamId": "76561198361831915",
-          "killerName": "Hasegi",
-          "victimSteamId": "76561199723192098",
-          "victimName": "propaganda",
-          "victimTeam": "Team 2",
-          "weapon": "Semi-Automatic Rifle",
-          "distance": 8,
-          "headshot": false,
-          "timestamp": "2025-12-08T11:06:33.3848420Z"
-        },
-        {
-          "killerSteamId": "76561198324946154",
-          "killerName": "Usona",
-          "victimSteamId": "76561198220382860",
-          "victimName": "Bombardiro Crocodilo",
-          "victimTeam": "Team 2",
-          "weapon": "Thompson",
-          "distance": 125,
-          "headshot": true,
-          "timestamp": "2025-12-08T11:06:19.5239450Z"
-        }
-      ]
-    },
-    {
-      "id": "18",
-      "name": "Team 18",
-      "tag": "[T18]",
-      "createdAt": "2025-12-11",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 8,
-        "totalDeaths": 7,
-        "teamKDR": 1.14
-      },
-      "members": [
-        {
-          "steamId": "76561198109763445",
-          "name": "Parbella",
-          "role": "leader",
-          "kills": 4,
-          "deaths": 6,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198444677919",
-          "name": "ctysun020304",
+          "steamId": "76561198136589812",
+          "name": "Life",
           "role": "member",
-          "kills": 4,
-          "deaths": 1,
-          "joinedAt": "2025-12-08"
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-09"
         }
       ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561198444677919",
-          "killerName": "ctysun020304",
-          "victimSteamId": "76561198109763445",
-          "victimName": "Parbella",
-          "victimTeam": "Team 18",
-          "weapon": "grenade.f1.deployed",
-          "distance": 11,
-          "headshot": false,
-          "timestamp": "2025-12-11T11:57:26.6213900Z"
-        },
-        {
-          "killerSteamId": "76561198109763445",
-          "killerName": "Parbella",
-          "victimSteamId": "76561198858841356",
-          "victimName": "코쿠시보",
-          "victimTeam": "Solo",
-          "weapon": "explosive.satchel.deployed",
-          "distance": 7,
-          "headshot": false,
-          "timestamp": "2025-12-11T11:56:26.0972230Z"
-        }
-      ]
+      "recentKills": []
     },
     {
       "id": "2",
@@ -671,63 +65,93 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 3,
-        "totalDeaths": 3,
-        "teamKDR": 1.0
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
       },
       "members": [
         {
           "steamId": "76561198220382860",
           "name": "Bombardiro Crocodilo",
           "role": "leader",
-          "kills": 2,
-          "deaths": 2,
+          "kills": 0,
+          "deaths": 0,
           "joinedAt": "2025-12-08"
         },
         {
           "steamId": "76561199723192098",
           "name": "propaganda",
           "role": "member",
-          "kills": 1,
-          "deaths": 1,
+          "kills": 0,
+          "deaths": 0,
           "joinedAt": "2025-12-08"
         }
       ],
-      "recentKills": [
+      "recentKills": []
+    },
+    {
+      "id": "3",
+      "name": "Team 3",
+      "tag": "[T3]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
         {
-          "killerSteamId": "76561198220382860",
-          "killerName": "Bombardiro Crocodilo",
-          "victimSteamId": "76561198324946154",
-          "victimName": "Usona",
-          "victimTeam": "Team 9",
-          "weapon": "Thompson",
-          "distance": 8,
-          "headshot": false,
-          "timestamp": "2025-12-08T11:04:48.2331050Z"
+          "steamId": "76561199865396283",
+          "name": "Lupi",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
         },
         {
-          "killerSteamId": "76561199723192098",
-          "killerName": "propaganda",
-          "victimSteamId": "76561198359198696",
-          "victimName": "Haserong",
-          "victimTeam": "Team 9",
-          "weapon": "Custom SMG",
-          "distance": 8,
-          "headshot": false,
-          "timestamp": "2025-12-08T11:04:47.7028360Z"
-        },
-        {
-          "killerSteamId": "76561198220382860",
-          "killerName": "Bombardiro Crocodilo",
-          "victimSteamId": "76561199365874726",
-          "victimName": "SKY_yun",
-          "victimTeam": "Team 3",
-          "weapon": "Hunting Bow",
-          "distance": 3,
-          "headshot": false,
-          "timestamp": "2025-12-08T09:36:17.1720870Z"
+          "steamId": "76561199365874726",
+          "name": "SKY_yun",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
         }
-      ]
+      ],
+      "recentKills": []
+    },
+    {
+      "id": "4",
+      "name": "Team 4",
+      "tag": "[T4]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561199840341677",
+          "name": "Q",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198004480294",
+          "name": "yes24",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": []
     },
     {
       "id": "5",
@@ -737,16 +161,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 1,
+        "totalKills": 0,
         "totalDeaths": 0,
-        "teamKDR": 1.0
+        "teamKDR": 0.0
       },
       "members": [
         {
           "steamId": "76561199285603857",
           "name": "거북이",
           "role": "leader",
-          "kills": 1,
+          "kills": 0,
           "deaths": 0,
           "joinedAt": "2025-12-08"
         },
@@ -767,279 +191,7 @@
           "joinedAt": "2025-12-08"
         }
       ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561199285603857",
-          "killerName": "거북이",
-          "victimSteamId": "76561199865396283",
-          "victimName": "Lupi",
-          "victimTeam": "Team 3",
-          "weapon": "Hunting Bow",
-          "distance": 16,
-          "headshot": true,
-          "timestamp": "2025-12-08T08:59:05.9391300Z"
-        }
-      ]
-    },
-    {
-      "id": "16",
-      "name": "Team 16",
-      "tag": "[T16]",
-      "createdAt": "2025-12-09",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 4,
-        "totalDeaths": 6,
-        "teamKDR": 0.67
-      },
-      "members": [
-        {
-          "steamId": "76561199166026601",
-          "name": "MeKaNNN",
-          "role": "leader",
-          "kills": 1,
-          "deaths": 3,
-          "joinedAt": "2025-12-09"
-        },
-        {
-          "steamId": "76561199104895709",
-          "name": "Yui",
-          "role": "member",
-          "kills": 3,
-          "deaths": 1,
-          "joinedAt": "2025-12-10"
-        },
-        {
-          "steamId": "76561199177666110",
-          "name": "Dispoiler",
-          "role": "member",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-09"
-        },
-        {
-          "steamId": "76561199230010113",
-          "name": "Amo",
-          "role": "member",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-10"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561199104895709",
-          "killerName": "Yui",
-          "victimSteamId": "76561199230010113",
-          "victimName": "Amo",
-          "victimTeam": "Team 16",
-          "weapon": "Assault Rifle",
-          "distance": 4,
-          "headshot": true,
-          "timestamp": "2025-12-10T11:39:30.7664390Z"
-        },
-        {
-          "killerSteamId": "76561199104895709",
-          "killerName": "Yui",
-          "victimSteamId": "76561198109763445",
-          "victimName": "Parbella",
-          "victimTeam": "Team 11",
-          "weapon": "Semi-Automatic Pistol",
-          "distance": 25,
-          "headshot": true,
-          "timestamp": "2025-12-10T11:19:58.0019380Z"
-        },
-        {
-          "killerSteamId": "76561199166026601",
-          "killerName": "MeKaNNN",
-          "victimSteamId": "76561198109763445",
-          "victimName": "Parbella",
-          "victimTeam": "Team 11",
-          "weapon": "LR-300 Assault Rifle",
-          "distance": 23,
-          "headshot": true,
-          "timestamp": "2025-12-10T11:14:58.8587940Z"
-        },
-        {
-          "killerSteamId": "76561199104895709",
-          "killerName": "Yui",
-          "victimSteamId": "76561199166026601",
-          "victimName": "MeKaNNN",
-          "victimTeam": "Team 16",
-          "weapon": "Assault Rifle",
-          "distance": 1,
-          "headshot": true,
-          "timestamp": "2025-12-10T10:58:36.7468520Z"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "name": "Team 3",
-      "tag": "[T3]",
-      "createdAt": "2025-12-08",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 1,
-        "totalDeaths": 6,
-        "teamKDR": 0.17
-      },
-      "members": [
-        {
-          "steamId": "76561199865396283",
-          "name": "Lupi",
-          "role": "leader",
-          "kills": 1,
-          "deaths": 3,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561199365874726",
-          "name": "SKY_yun",
-          "role": "member",
-          "kills": 0,
-          "deaths": 3,
-          "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561199865396283",
-          "killerName": "Lupi",
-          "victimSteamId": "76561199365874726",
-          "victimName": "SKY_yun",
-          "victimTeam": "Solo",
-          "weapon": "Rock",
-          "distance": 0,
-          "headshot": false,
-          "timestamp": "2025-12-08T08:40:52.4376990Z"
-        }
-      ]
-    },
-    {
-      "id": "12",
-      "name": "Team 12",
-      "tag": "[T12]",
-      "createdAt": "2025-12-08",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 2,
-        "totalDeaths": 15,
-        "teamKDR": 0.13
-      },
-      "members": [
-        {
-          "steamId": "76561198097924882",
-          "name": "GOLD",
-          "role": "leader",
-          "kills": 0,
-          "deaths": 3,
-          "joinedAt": "2025-12-09"
-        },
-        {
-          "steamId": "76561199492962538",
-          "name": "나쵸",
-          "role": "member",
-          "kills": 2,
-          "deaths": 3,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561199148676867",
-          "name": "Ray",
-          "role": "member",
-          "kills": 0,
-          "deaths": 2,
-          "joinedAt": "2025-12-08"
-        },
-        {
-          "steamId": "76561198371903544",
-          "name": "레제",
-          "role": "member",
-          "kills": 0,
-          "deaths": 7,
-          "joinedAt": "2025-12-08"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561199492962538",
-          "killerName": "나쵸",
-          "victimSteamId": "76561199365874726",
-          "victimName": "SKY_yun",
-          "victimTeam": "Team 3",
-          "weapon": "Bone Knife",
-          "distance": 0,
-          "headshot": false,
-          "timestamp": "2025-12-08T14:00:16.8818320Z"
-        },
-        {
-          "killerSteamId": "76561199492962538",
-          "killerName": "나쵸",
-          "victimSteamId": "76561199865396283",
-          "victimName": "Lupi",
-          "victimTeam": "Team 3",
-          "weapon": "Bone Knife",
-          "distance": 0,
-          "headshot": true,
-          "timestamp": "2025-12-08T14:00:12.6761070Z"
-        }
-      ]
-    },
-    {
-      "id": "17",
-      "name": "Team 17",
-      "tag": "[T17]",
-      "createdAt": "2025-12-10",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 1,
-        "totalDeaths": 13,
-        "teamKDR": 0.08
-      },
-      "members": [
-        {
-          "steamId": "76561198911584529",
-          "name": "B2om",
-          "role": "leader",
-          "kills": 0,
-          "deaths": 4,
-          "joinedAt": "2025-12-10"
-        },
-        {
-          "steamId": "76561199477744492",
-          "name": "1004",
-          "role": "member",
-          "kills": 1,
-          "deaths": 4,
-          "joinedAt": "2025-12-10"
-        },
-        {
-          "steamId": "76561199435846044",
-          "name": "kimminje0815",
-          "role": "member",
-          "kills": 0,
-          "deaths": 5,
-          "joinedAt": "2025-12-10"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561199477744492",
-          "killerName": "1004",
-          "victimSteamId": "76561199435846044",
-          "victimName": "kimminje0815",
-          "victimTeam": "Team 17",
-          "weapon": "Salvaged Cleaver",
-          "distance": 2,
-          "headshot": false,
-          "timestamp": "2025-12-10T10:05:14.0961250Z"
-        }
-      ]
+      "recentKills": []
     },
     {
       "id": "7",
@@ -1050,7 +202,7 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 1,
+        "totalDeaths": 0,
         "teamKDR": 0.0
       },
       "members": [
@@ -1067,7 +219,7 @@
           "name": "miko",
           "role": "member",
           "kills": 0,
-          "deaths": 1,
+          "deaths": 0,
           "joinedAt": "2025-12-08"
         }
       ],
@@ -1082,7 +234,7 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 3,
+        "totalDeaths": 0,
         "teamKDR": 0.0
       },
       "members": [
@@ -1099,12 +251,180 @@
           "name": "영이",
           "role": "member",
           "kills": 0,
-          "deaths": 3,
+          "deaths": 0,
           "joinedAt": "2025-12-08"
         },
         {
           "steamId": "76561198362366687",
           "name": "코코마쵸블",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": []
+    },
+    {
+      "id": "12",
+      "name": "Team 12",
+      "tag": "[T12]",
+      "createdAt": "2025-12-08",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561198097924882",
+          "name": "GOLD",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-09"
+        },
+        {
+          "steamId": "76561199148676867",
+          "name": "Ray",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561199492962538",
+          "name": "나쵸",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198371903544",
+          "name": "레제",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        }
+      ],
+      "recentKills": []
+    },
+    {
+      "id": "16",
+      "name": "Team 16",
+      "tag": "[T16]",
+      "createdAt": "2025-12-09",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561199166026601",
+          "name": "MeKaNNN",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-09"
+        },
+        {
+          "steamId": "76561199177666110",
+          "name": "Dispoiler",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-09"
+        },
+        {
+          "steamId": "76561199104895709",
+          "name": "Yui",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-10"
+        },
+        {
+          "steamId": "76561199230010113",
+          "name": "Amo",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-10"
+        }
+      ],
+      "recentKills": []
+    },
+    {
+      "id": "17",
+      "name": "Team 17",
+      "tag": "[T17]",
+      "createdAt": "2025-12-10",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561198911584529",
+          "name": "B2om",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-10"
+        },
+        {
+          "steamId": "76561199477744492",
+          "name": "1004",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-10"
+        },
+        {
+          "steamId": "76561199435846044",
+          "name": "kimminje0815",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-10"
+        }
+      ],
+      "recentKills": []
+    },
+    {
+      "id": "18",
+      "name": "Team 18",
+      "tag": "[T18]",
+      "createdAt": "2025-12-11",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561198109763445",
+          "name": "Parbella",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-08"
+        },
+        {
+          "steamId": "76561198444677919",
+          "name": "ctysun020304",
           "role": "member",
           "kills": 0,
           "deaths": 0,
