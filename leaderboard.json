@@ -948,7 +948,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 57,
     "ClothesCrafted": 149,
-    "TimePlayed": 203,
+    "TimePlayed": 208,
     "LastSeen": 1765650928
   },
   {
@@ -1174,7 +1174,7 @@
     "APCKills": 0,
     "PVPKillDistance": 54,
     "PVEKillDistance": 37,
-    "StructuresBuilt": 982,
+    "StructuresBuilt": 1004,
     "StructuresRepaired": 17,
     "PlantsGathered": 186,
     "WoodGathered": 2237,
@@ -1186,7 +1186,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 17,
     "ClothesCrafted": 21,
-    "TimePlayed": 79,
+    "TimePlayed": 84,
     "LastSeen": 1765664322
   },
   {
@@ -2172,7 +2172,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 3,
-    "TimePlayed": 230,
+    "TimePlayed": 235,
     "LastSeen": 1765655895
   },
   {
@@ -3048,15 +3048,15 @@
     "StructuresRepaired": 0,
     "PlantsGathered": 60,
     "WoodGathered": 77411,
-    "RocksGathered": 56969,
-    "SulfurOreGathered": 6985,
-    "MetalOreGathered": 33231,
+    "RocksGathered": 57741,
+    "SulfurOreGathered": 7185,
+    "MetalOreGathered": 33731,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 24,
     "ClothesCrafted": 2,
-    "TimePlayed": 146,
+    "TimePlayed": 151,
     "LastSeen": 1765655929
   },
   {
@@ -4670,7 +4670,7 @@
     "RevolverKills": 2,
     "ShotgunKills": 0,
     "RifleKills": 19,
-    "AnimalKills": 18,
+    "AnimalKills": 20,
     "NPCKills": 27,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -4688,7 +4688,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 50,
     "ClothesCrafted": 35,
-    "TimePlayed": 89,
+    "TimePlayed": 94,
     "LastSeen": 1765655666
   },
   {
@@ -7680,7 +7680,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1267,
+    "TimePlayed": 1272,
     "LastSeen": 1765650915
   },
   {
@@ -10484,7 +10484,7 @@
     "RevolverKills": 7,
     "ShotgunKills": 0,
     "RifleKills": 19,
-    "AnimalKills": 6,
+    "AnimalKills": 7,
     "NPCKills": 37,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -10502,7 +10502,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 28,
     "ClothesCrafted": 31,
-    "TimePlayed": 233,
+    "TimePlayed": 238,
     "LastSeen": 1765655880
   },
   {
@@ -19587,7 +19587,7 @@
     "SteamID": "76561198201267074",
     "DisplayName": "별나래",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -19614,7 +19614,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 3,
     "LastSeen": 1765664773
   }
 ]
