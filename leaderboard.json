@@ -922,7 +922,7 @@
     "DisplayName": "456",
     "PlayersKilled": 13,
     "Deaths": 50,
-    "Headshots": 161,
+    "Headshots": 166,
     "KDR": 0.26,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -931,7 +931,7 @@
     "ShotgunKills": 0,
     "RifleKills": 42,
     "AnimalKills": 17,
-    "NPCKills": 152,
+    "NPCKills": 157,
     "HelicopterKills": 1,
     "APCKills": 3,
     "PVPKillDistance": 182,
@@ -944,11 +944,11 @@
     "SulfurOreGathered": 34800,
     "MetalOreGathered": 78500,
     "RocketsFired": 45,
-    "ExplosivesThrown": 21,
+    "ExplosivesThrown": 22,
     "PlayersHealed": 0,
     "WeaponsCrafted": 61,
     "ClothesCrafted": 149,
-    "TimePlayed": 13,
+    "TimePlayed": 18,
     "LastSeen": 1765650928
   },
   {
@@ -1186,7 +1186,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 17,
     "ClothesCrafted": 21,
-    "TimePlayed": 99,
+    "TimePlayed": 104,
     "LastSeen": 1765664322
   },
   {
@@ -2164,15 +2164,15 @@
     "StructuresRepaired": 0,
     "PlantsGathered": 662,
     "WoodGathered": 9774,
-    "RocksGathered": 38870,
+    "RocksGathered": 39620,
     "SulfurOreGathered": 7519,
-    "MetalOreGathered": 23115,
+    "MetalOreGathered": 23615,
     "RocketsFired": 0,
     "ExplosivesThrown": 5,
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 3,
-    "TimePlayed": 250,
+    "TimePlayed": 255,
     "LastSeen": 1765655895
   },
   {
@@ -3054,9 +3054,9 @@
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 24,
+    "WeaponsCrafted": 30,
     "ClothesCrafted": 2,
-    "TimePlayed": 166,
+    "TimePlayed": 171,
     "LastSeen": 1765655929
   },
   {
@@ -4681,14 +4681,14 @@
     "PlantsGathered": 39,
     "WoodGathered": 30119,
     "RocksGathered": 27481,
-    "SulfurOreGathered": 7678,
-    "MetalOreGathered": 16469,
+    "SulfurOreGathered": 7878,
+    "MetalOreGathered": 16969,
     "RocketsFired": 2,
     "ExplosivesThrown": 3,
     "PlayersHealed": 0,
     "WeaponsCrafted": 50,
     "ClothesCrafted": 35,
-    "TimePlayed": 109,
+    "TimePlayed": 114,
     "LastSeen": 1765655666
   },
   {
@@ -7680,7 +7680,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1287,
+    "TimePlayed": 1292,
     "LastSeen": 1765650915
   },
   {
@@ -10495,14 +10495,14 @@
     "PlantsGathered": 382,
     "WoodGathered": 14179,
     "RocksGathered": 20529,
-    "SulfurOreGathered": 3015,
-    "MetalOreGathered": 9214,
+    "SulfurOreGathered": 3215,
+    "MetalOreGathered": 11144,
     "RocketsFired": 2,
     "ExplosivesThrown": 1,
     "PlayersHealed": 0,
     "WeaponsCrafted": 28,
     "ClothesCrafted": 31,
-    "TimePlayed": 253,
+    "TimePlayed": 258,
     "LastSeen": 1765655880
   },
   {
@@ -18057,7 +18057,7 @@
     "SteamID": "76561199242780883",
     "DisplayName": "EHU | Yunhai",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -18084,7 +18084,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 0,
     "LastSeen": 1765630131
   },
   {
@@ -19587,7 +19587,7 @@
     "SteamID": "76561198201267074",
     "DisplayName": "별나래",
     "PlayersKilled": 0,
-    "Deaths": 1,
+    "Deaths": 2,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -19604,7 +19604,7 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 16,
+    "PlantsGathered": 20,
     "WoodGathered": 364,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
@@ -19614,7 +19614,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 18,
+    "TimePlayed": 4,
     "LastSeen": 1765664773
   }
 ]
