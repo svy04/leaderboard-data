@@ -173,9 +173,9 @@
     "SteamID": "76561198344882896",
     "DisplayName": "Pineapple",
     "PlayersKilled": 34,
-    "Deaths": 22,
-    "Headshots": 69,
-    "KDR": 1.55,
+    "Deaths": 23,
+    "Headshots": 74,
+    "KDR": 1.48,
     "ArrowKills": 1,
     "MeleeKills": 3,
     "BladeKills": 0,
@@ -183,14 +183,14 @@
     "ShotgunKills": 0,
     "RifleKills": 11,
     "AnimalKills": 11,
-    "NPCKills": 58,
+    "NPCKills": 64,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 107,
     "PVEKillDistance": 82,
     "StructuresBuilt": 302,
     "StructuresRepaired": 0,
-    "PlantsGathered": 182,
+    "PlantsGathered": 184,
     "WoodGathered": 1494,
     "RocksGathered": 22224,
     "SulfurOreGathered": 3948,
@@ -200,7 +200,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 11,
-    "TimePlayed": 21,
+    "TimePlayed": 3,
     "LastSeen": 1765754539
   },
   {
@@ -285,7 +285,7 @@
     "ShotgunKills": 0,
     "RifleKills": 3,
     "AnimalKills": 7,
-    "NPCKills": 132,
+    "NPCKills": 133,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 77,
@@ -302,7 +302,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 43,
     "ClothesCrafted": 61,
-    "TimePlayed": 382,
+    "TimePlayed": 387,
     "LastSeen": 1765732555
   },
   {
@@ -1050,7 +1050,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 187,
     "ClothesCrafted": 213,
-    "TimePlayed": 112,
+    "TimePlayed": 117,
     "LastSeen": 1765753460
   },
   {
@@ -1618,7 +1618,7 @@
     "PVEKillDistance": 11,
     "StructuresBuilt": 363,
     "StructuresRepaired": 2,
-    "PlantsGathered": 683,
+    "PlantsGathered": 684,
     "WoodGathered": 30207,
     "RocksGathered": 22875,
     "SulfurOreGathered": 600,
@@ -1628,7 +1628,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 76,
     "ClothesCrafted": 4,
-    "TimePlayed": 1,
+    "TimePlayed": 6,
     "LastSeen": 1765751079
   },
   {
@@ -1738,7 +1738,7 @@
     "DisplayName": "ESeongJun",
     "PlayersKilled": 9,
     "Deaths": 26,
-    "Headshots": 36,
+    "Headshots": 37,
     "KDR": 0.35,
     "ArrowKills": 0,
     "MeleeKills": 3,
@@ -1747,7 +1747,7 @@
     "ShotgunKills": 0,
     "RifleKills": 6,
     "AnimalKills": 4,
-    "NPCKills": 56,
+    "NPCKills": 59,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 69,
@@ -1764,7 +1764,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 114,
+    "TimePlayed": 119,
     "LastSeen": 1765731000
   },
   {
@@ -2070,7 +2070,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 100,
     "ClothesCrafted": 86,
-    "TimePlayed": 348,
+    "TimePlayed": 353,
     "LastSeen": 1765723099
   },
   {
@@ -2094,7 +2094,7 @@
     "PVEKillDistance": 100,
     "StructuresBuilt": 132,
     "StructuresRepaired": 9,
-    "PlantsGathered": 528,
+    "PlantsGathered": 530,
     "WoodGathered": 63593,
     "RocksGathered": 59733,
     "SulfurOreGathered": 13192,
@@ -2104,7 +2104,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 32,
     "ClothesCrafted": 10,
-    "TimePlayed": 479,
+    "TimePlayed": 484,
     "LastSeen": 1765742033
   },
   {
@@ -3804,7 +3804,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 413,
+    "TimePlayed": 418,
     "LastSeen": 1765727163
   },
   {
@@ -22162,9 +22162,9 @@
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 29,
+    "WeaponsCrafted": 53,
     "ClothesCrafted": 17,
-    "TimePlayed": 18,
+    "TimePlayed": 23,
     "LastSeen": 1765726918
   },
   {
@@ -22503,8 +22503,8 @@
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
-    "ClothesCrafted": 2,
-    "TimePlayed": 4,
+    "ClothesCrafted": 4,
+    "TimePlayed": 9,
     "LastSeen": 1765755644
   }
 ]
