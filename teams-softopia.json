@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T11:23:39.2608736Z",
+  "lastUpdated": "2025-12-15T11:28:39.2856698Z",
   "teams": [
     {
       "id": "2",
@@ -9,16 +9,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 18,
+        "totalKills": 19,
         "totalDeaths": 5,
-        "teamKDR": 3.6
+        "teamKDR": 3.8
       },
       "members": [
         {
           "steamId": "76561199285883820",
           "name": ":easter.goldegg:",
           "role": "leader",
-          "kills": 6,
+          "kills": 7,
           "deaths": 1,
           "joinedAt": "2025-12-15"
         },
@@ -48,6 +48,17 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561199285883820",
+          "killerName": ":easter.goldegg:",
+          "victimSteamId": "76561198178003451",
+          "victimName": "함무",
+          "victimTeam": "Team 9",
+          "weapon": "Thompson",
+          "distance": 2,
+          "headshot": true,
+          "timestamp": "2025-12-15T11:24:39.6161870Z"
+        },
         {
           "killerSteamId": "76561199112306404",
           "killerName": "뿡진",
