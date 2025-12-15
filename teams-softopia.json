@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T17:23:41.4765738Z",
+  "lastUpdated": "2025-12-15T17:28:41.5005458Z",
   "teams": [
     {
       "id": "12",
@@ -9,9 +9,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 5,
+        "totalKills": 6,
         "totalDeaths": 0,
-        "teamKDR": 5.0
+        "teamKDR": 6.0
       },
       "members": [
         {
@@ -26,12 +26,23 @@
           "steamId": "76561199082443094",
           "name": "DDR",
           "role": "member",
-          "kills": 3,
+          "kills": 4,
           "deaths": 0,
           "joinedAt": "2025-12-15"
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561199082443094",
+          "killerName": "DDR",
+          "victimSteamId": "76561198411980746",
+          "victimName": "민주",
+          "victimTeam": "Team 11",
+          "weapon": "Revolver",
+          "distance": 7,
+          "headshot": true,
+          "timestamp": "2025-12-15T17:25:41.7446057Z"
+        },
         {
           "killerSteamId": "76561198116776433",
           "killerName": "낄낄",
@@ -601,7 +612,7 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 5,
+        "totalDeaths": 6,
         "teamKDR": 0.0
       },
       "members": [
@@ -626,7 +637,7 @@
           "name": "민주",
           "role": "member",
           "kills": 0,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-15"
         }
       ],
