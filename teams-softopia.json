@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T08:58:38.2788872Z",
+  "lastUpdated": "2025-12-15T09:03:38.3637551Z",
   "teams": [
     {
       "id": "2",
@@ -25,6 +25,62 @@
         {
           "steamId": "76561198389200249",
           "name": "Benjamin",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561199112306404",
+          "name": "뿡진",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        }
+      ],
+      "recentKills": []
+    },
+    {
+      "id": "3",
+      "name": "Team 3",
+      "tag": "[T3]",
+      "createdAt": "2025-12-15",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561198359198696",
+          "name": "Maximus",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561198361831915",
+          "name": "ゆづき",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561199382747364",
+          "name": "악당처단세일러문",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561199382060247",
+          "name": "Violet",
           "role": "member",
           "kills": 0,
           "deaths": 0,
