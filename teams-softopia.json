@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T16:58:41.3523995Z",
+  "lastUpdated": "2025-12-15T17:03:41.4465425Z",
   "teams": [
     {
       "id": "2",
@@ -10,8 +10,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 19,
-        "totalDeaths": 5,
-        "teamKDR": 3.8
+        "totalDeaths": 7,
+        "teamKDR": 2.71
       },
       "members": [
         {
@@ -35,7 +35,7 @@
           "name": "Benjamin",
           "role": "member",
           "kills": 4,
-          "deaths": 0,
+          "deaths": 1,
           "joinedAt": "2025-12-15"
         },
         {
@@ -43,7 +43,7 @@
           "name": "tptptp",
           "role": "member",
           "kills": 0,
-          "deaths": 0,
+          "deaths": 1,
           "joinedAt": "2025-12-15"
         }
       ],
