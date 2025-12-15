@@ -329,14 +329,14 @@
     "PlantsGathered": 484,
     "WoodGathered": 96216,
     "RocksGathered": 151685,
-    "SulfurOreGathered": 35041,
-    "MetalOreGathered": 80793,
+    "SulfurOreGathered": 35641,
+    "MetalOreGathered": 83358,
     "RocketsFired": 41,
     "ExplosivesThrown": 44,
     "PlayersHealed": 0,
     "WeaponsCrafted": 60,
     "ClothesCrafted": 81,
-    "TimePlayed": 217,
+    "TimePlayed": 222,
     "LastSeen": 1765818278
   },
   {
@@ -352,7 +352,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 1,
     "RifleKills": 38,
-    "AnimalKills": 5,
+    "AnimalKills": 6,
     "NPCKills": 72,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -360,7 +360,7 @@
     "PVEKillDistance": 89,
     "StructuresBuilt": 16,
     "StructuresRepaired": 30,
-    "PlantsGathered": 201,
+    "PlantsGathered": 211,
     "WoodGathered": 20306,
     "RocksGathered": 28384,
     "SulfurOreGathered": 3972,
@@ -368,9 +368,9 @@
     "RocketsFired": 6,
     "ExplosivesThrown": 17,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 64,
+    "WeaponsCrafted": 65,
     "ClothesCrafted": 55,
-    "TimePlayed": 30,
+    "TimePlayed": 35,
     "LastSeen": 1765836145
   },
   {
@@ -2988,7 +2988,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 39,
     "ClothesCrafted": 2,
-    "TimePlayed": 35,
+    "TimePlayed": 40,
     "LastSeen": 1765836900
   },
   {
@@ -4745,7 +4745,7 @@
     "PVPKillDistance": 32,
     "PVEKillDistance": 198,
     "StructuresBuilt": 6,
-    "StructuresRepaired": 233,
+    "StructuresRepaired": 262,
     "PlantsGathered": 164,
     "WoodGathered": 41871,
     "RocksGathered": 67337,
@@ -4756,7 +4756,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 11,
-    "TimePlayed": 22,
+    "TimePlayed": 27,
     "LastSeen": 1765818697
   },
   {
@@ -22613,8 +22613,8 @@
     "SteamID": "76561198915250571",
     "DisplayName": "jazzfer_hizole11",
     "PlayersKilled": 0,
-    "Deaths": 9,
-    "Headshots": 9,
+    "Deaths": 11,
+    "Headshots": 11,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -22623,7 +22623,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 1,
-    "NPCKills": 20,
+    "NPCKills": 23,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
@@ -22640,7 +22640,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 11,
-    "TimePlayed": 65,
+    "TimePlayed": 2,
     "LastSeen": 1765835174
   },
   {
