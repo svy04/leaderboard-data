@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T17:03:41.4465425Z",
+  "lastUpdated": "2025-12-15T17:08:41.3839420Z",
   "teams": [
     {
       "id": "2",
@@ -10,8 +10,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 19,
-        "totalDeaths": 7,
-        "teamKDR": 2.71
+        "totalDeaths": 8,
+        "teamKDR": 2.38
       },
       "members": [
         {
@@ -27,7 +27,7 @@
           "name": "뿡진",
           "role": "member",
           "kills": 8,
-          "deaths": 4,
+          "deaths": 5,
           "joinedAt": "2025-12-15"
         },
         {
@@ -513,7 +513,7 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 2,
+        "totalDeaths": 3,
         "teamKDR": 0.0
       },
       "members": [
@@ -522,7 +522,7 @@
           "name": "최영진",
           "role": "leader",
           "kills": 0,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-15"
         },
         {
