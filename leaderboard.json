@@ -37,9 +37,9 @@
     "SteamID": "76561198410220790",
     "DisplayName": "Teemo",
     "PlayersKilled": 48,
-    "Deaths": 23,
+    "Deaths": 24,
     "Headshots": 92,
-    "KDR": 2.09,
+    "KDR": 2.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
     "BladeKills": 0,
@@ -48,7 +48,7 @@
     "RifleKills": 13,
     "AnimalKills": 11,
     "NPCKills": 75,
-    "HelicopterKills": 1,
+    "HelicopterKills": 2,
     "APCKills": 0,
     "PVPKillDistance": 115,
     "PVEKillDistance": 86,
@@ -64,7 +64,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 15,
     "ClothesCrafted": 21,
-    "TimePlayed": 22,
+    "TimePlayed": 1,
     "LastSeen": 1765767808
   },
   {
@@ -302,7 +302,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 59,
     "ClothesCrafted": 78,
-    "TimePlayed": 13,
+    "TimePlayed": 18,
     "LastSeen": 1765732555
   },
   {
@@ -608,7 +608,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 59,
     "ClothesCrafted": 19,
-    "TimePlayed": 47,
+    "TimePlayed": 49,
     "LastSeen": 1765768081
   },
   {
@@ -853,9 +853,9 @@
     "SteamID": "76561199410020385",
     "DisplayName": "Sagê",
     "PlayersKilled": 16,
-    "Deaths": 49,
+    "Deaths": 50,
     "Headshots": 26,
-    "KDR": 0.33,
+    "KDR": 0.32,
     "ArrowKills": 0,
     "MeleeKills": 1,
     "BladeKills": 0,
@@ -880,7 +880,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 11,
-    "TimePlayed": 1,
+    "TimePlayed": 4,
     "LastSeen": 1765767821
   },
   {
@@ -1050,7 +1050,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 187,
     "ClothesCrafted": 213,
-    "TimePlayed": 19,
+    "TimePlayed": 24,
     "LastSeen": 1765753460
   },
   {
@@ -1224,6 +1224,40 @@
     "LastSeen": 1765617446
   },
   {
+    "SteamID": "76561198036064585",
+    "DisplayName": "박태강",
+    "PlayersKilled": 13,
+    "Deaths": 25,
+    "Headshots": 30,
+    "KDR": 0.52,
+    "ArrowKills": 0,
+    "MeleeKills": 3,
+    "BladeKills": 1,
+    "RevolverKills": 1,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 3,
+    "NPCKills": 24,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 61,
+    "PVEKillDistance": 49,
+    "StructuresBuilt": 68,
+    "StructuresRepaired": 45,
+    "PlantsGathered": 410,
+    "WoodGathered": 4303,
+    "RocksGathered": 16410,
+    "SulfurOreGathered": 5000,
+    "MetalOreGathered": 6985,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 8,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 64,
+    "ClothesCrafted": 24,
+    "TimePlayed": 76,
+    "LastSeen": 1765759458
+  },
+  {
     "SteamID": "76561198121534985",
     "DisplayName": "sia",
     "PlayersKilled": 12,
@@ -1288,7 +1322,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 92,
     "ClothesCrafted": 27,
-    "TimePlayed": 42,
+    "TimePlayed": 47,
     "LastSeen": 1765764574
   },
   {
@@ -1392,40 +1426,6 @@
     "ClothesCrafted": 28,
     "TimePlayed": 148,
     "LastSeen": 1765675005
-  },
-  {
-    "SteamID": "76561198036064585",
-    "DisplayName": "박태강",
-    "PlayersKilled": 12,
-    "Deaths": 25,
-    "Headshots": 29,
-    "KDR": 0.48,
-    "ArrowKills": 0,
-    "MeleeKills": 3,
-    "BladeKills": 1,
-    "RevolverKills": 1,
-    "ShotgunKills": 0,
-    "RifleKills": 0,
-    "AnimalKills": 3,
-    "NPCKills": 24,
-    "HelicopterKills": 0,
-    "APCKills": 0,
-    "PVPKillDistance": 61,
-    "PVEKillDistance": 49,
-    "StructuresBuilt": 68,
-    "StructuresRepaired": 45,
-    "PlantsGathered": 410,
-    "WoodGathered": 4303,
-    "RocksGathered": 16410,
-    "SulfurOreGathered": 5000,
-    "MetalOreGathered": 6985,
-    "RocketsFired": 0,
-    "ExplosivesThrown": 8,
-    "PlayersHealed": 0,
-    "WeaponsCrafted": 64,
-    "ClothesCrafted": 24,
-    "TimePlayed": 71,
-    "LastSeen": 1765759458
   },
   {
     "SteamID": "76561198425749652",
@@ -1602,7 +1602,7 @@
     "DisplayName": "한윤슬",
     "PlayersKilled": 10,
     "Deaths": 71,
-    "Headshots": 14,
+    "Headshots": 15,
     "KDR": 0.14,
     "ArrowKills": 0,
     "MeleeKills": 1,
@@ -1611,7 +1611,7 @@
     "ShotgunKills": 0,
     "RifleKills": 2,
     "AnimalKills": 16,
-    "NPCKills": 22,
+    "NPCKills": 24,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 93,
@@ -1619,7 +1619,7 @@
     "StructuresBuilt": 144,
     "StructuresRepaired": 130,
     "PlantsGathered": 642,
-    "WoodGathered": 76637,
+    "WoodGathered": 76749,
     "RocksGathered": 72483,
     "SulfurOreGathered": 18392,
     "MetalOreGathered": 56760,
@@ -1628,7 +1628,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 35,
     "ClothesCrafted": 10,
-    "TimePlayed": 3,
+    "TimePlayed": 8,
     "LastSeen": 1765742033
   },
   {
@@ -1730,7 +1730,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 64,
     "ClothesCrafted": 47,
-    "TimePlayed": 7,
+    "TimePlayed": 12,
     "LastSeen": 1765765982
   },
   {
@@ -1772,14 +1772,14 @@
     "DisplayName": "ESeongJun",
     "PlayersKilled": 9,
     "Deaths": 30,
-    "Headshots": 42,
+    "Headshots": 43,
     "KDR": 0.3,
     "ArrowKills": 0,
     "MeleeKills": 3,
     "BladeKills": 0,
     "RevolverKills": 0,
     "ShotgunKills": 0,
-    "RifleKills": 6,
+    "RifleKills": 7,
     "AnimalKills": 4,
     "NPCKills": 70,
     "HelicopterKills": 0,
@@ -1788,7 +1788,7 @@
     "PVEKillDistance": 70,
     "StructuresBuilt": 0,
     "StructuresRepaired": 9,
-    "PlantsGathered": 95,
+    "PlantsGathered": 99,
     "WoodGathered": 19866,
     "RocksGathered": 25984,
     "SulfurOreGathered": 4600,
@@ -1798,7 +1798,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 9,
+    "TimePlayed": 14,
     "LastSeen": 1765731000
   },
   {
@@ -1934,8 +1934,8 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 24,
-    "TimePlayed": 33,
-    "LastSeen": 1765728537
+    "TimePlayed": 34,
+    "LastSeen": 1765768388
   },
   {
     "SteamID": "76561199701867902",
@@ -2104,7 +2104,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 100,
     "ClothesCrafted": 86,
-    "TimePlayed": 534,
+    "TimePlayed": 539,
     "LastSeen": 1765767886
   },
   {
@@ -3792,7 +3792,7 @@
     "APCKills": 0,
     "PVPKillDistance": 82,
     "PVEKillDistance": 12,
-    "StructuresBuilt": 897,
+    "StructuresBuilt": 901,
     "StructuresRepaired": 3,
     "PlantsGathered": 106,
     "WoodGathered": 18523,
@@ -3804,7 +3804,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 619,
+    "TimePlayed": 624,
     "LastSeen": 1765727163
   },
   {
@@ -4518,7 +4518,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 37,
     "ClothesCrafted": 14,
-    "TimePlayed": 363,
+    "TimePlayed": 368,
     "LastSeen": 1765761166
   },
   {
@@ -10298,7 +10298,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 14,
     "ClothesCrafted": 2,
-    "TimePlayed": 56,
+    "TimePlayed": 61,
     "LastSeen": 1765766556
   },
   {
@@ -22154,7 +22154,7 @@
     "PVEKillDistance": 36,
     "StructuresBuilt": 342,
     "StructuresRepaired": 4,
-    "PlantsGathered": 189,
+    "PlantsGathered": 191,
     "WoodGathered": 50478,
     "RocksGathered": 39497,
     "SulfurOreGathered": 8920,
@@ -22164,7 +22164,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 55,
     "ClothesCrafted": 18,
-    "TimePlayed": 3,
+    "TimePlayed": 8,
     "LastSeen": 1765726918
   },
   {
@@ -22477,7 +22477,7 @@
     "SteamID": "76561198915250571",
     "DisplayName": "jazzfer_hizole11",
     "PlayersKilled": 0,
-    "Deaths": 1,
+    "Deaths": 2,
     "Headshots": 2,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -22487,14 +22487,14 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 0,
-    "NPCKills": 2,
+    "NPCKills": 3,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 6,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 36,
+    "PlantsGathered": 38,
     "WoodGathered": 187,
     "RocksGathered": 750,
     "SulfurOreGathered": 200,
@@ -22504,7 +22504,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 10,
-    "TimePlayed": 62,
+    "TimePlayed": 2,
     "LastSeen": 1765766124
   }
 ]
