@@ -200,7 +200,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 11,
-    "TimePlayed": 23,
+    "TimePlayed": 28,
     "LastSeen": 1765754539
   },
   {
@@ -302,7 +302,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 43,
     "ClothesCrafted": 61,
-    "TimePlayed": 407,
+    "TimePlayed": 412,
     "LastSeen": 1765732555
   },
   {
@@ -1050,7 +1050,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 187,
     "ClothesCrafted": 213,
-    "TimePlayed": 137,
+    "TimePlayed": 142,
     "LastSeen": 1765753460
   },
   {
@@ -1669,9 +1669,9 @@
     "SteamID": "76561198021747506",
     "DisplayName": "Probe",
     "PlayersKilled": 9,
-    "Deaths": 50,
+    "Deaths": 52,
     "Headshots": 13,
-    "KDR": 0.18,
+    "KDR": 0.17,
     "ArrowKills": 4,
     "MeleeKills": 0,
     "BladeKills": 0,
@@ -1696,7 +1696,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 64,
     "ClothesCrafted": 47,
-    "TimePlayed": 1,
+    "TimePlayed": 0,
     "LastSeen": 1765757115
   },
   {
@@ -1764,7 +1764,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 139,
+    "TimePlayed": 144,
     "LastSeen": 1765731000
   },
   {
@@ -2070,7 +2070,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 100,
     "ClothesCrafted": 86,
-    "TimePlayed": 373,
+    "TimePlayed": 378,
     "LastSeen": 1765723099
   },
   {
@@ -2104,7 +2104,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 32,
     "ClothesCrafted": 10,
-    "TimePlayed": 504,
+    "TimePlayed": 509,
     "LastSeen": 1765742033
   },
   {
@@ -3804,7 +3804,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 438,
+    "TimePlayed": 443,
     "LastSeen": 1765727163
   },
   {
@@ -22160,11 +22160,11 @@
     "SulfurOreGathered": 6000,
     "MetalOreGathered": 11395,
     "RocketsFired": 0,
-    "ExplosivesThrown": 0,
+    "ExplosivesThrown": 10,
     "PlayersHealed": 0,
     "WeaponsCrafted": 54,
     "ClothesCrafted": 17,
-    "TimePlayed": 43,
+    "TimePlayed": 48,
     "LastSeen": 1765726918
   },
   {
@@ -22503,8 +22503,8 @@
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
-    "ClothesCrafted": 8,
-    "TimePlayed": 29,
+    "ClothesCrafted": 9,
+    "TimePlayed": 34,
     "LastSeen": 1765755644
   }
 ]
