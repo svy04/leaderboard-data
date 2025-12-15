@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T09:28:38.4817473Z",
+  "lastUpdated": "2025-12-15T09:33:38.5990016Z",
   "teams": [
     {
       "id": "1",
@@ -46,6 +46,58 @@
       ]
     },
     {
+      "id": "2",
+      "name": "Team 2",
+      "tag": "[T2]",
+      "createdAt": "2025-12-15",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 1,
+        "teamKDR": 1.0
+      },
+      "members": [
+        {
+          "steamId": "76561199285883820",
+          "name": ":easter.goldegg:",
+          "role": "leader",
+          "kills": 1,
+          "deaths": 1,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561198389200249",
+          "name": "Benjamin",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561199112306404",
+          "name": "뿡진",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199285883820",
+          "killerName": ":easter.goldegg:",
+          "victimSteamId": "76561198388046862",
+          "victimName": "?????",
+          "victimTeam": "Solo",
+          "weapon": "Stone Pickaxe",
+          "distance": 0,
+          "headshot": false,
+          "timestamp": "2025-12-15T09:28:54.3338901Z"
+        }
+      ]
+    },
+    {
       "id": "4",
       "name": "Team 4",
       "tag": "[T4]",
@@ -69,46 +121,6 @@
         {
           "steamId": "76561199872237478",
           "name": "핑구",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-15"
-        }
-      ],
-      "recentKills": []
-    },
-    {
-      "id": "2",
-      "name": "Team 2",
-      "tag": "[T2]",
-      "createdAt": "2025-12-15",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 0,
-        "totalDeaths": 1,
-        "teamKDR": 0.0
-      },
-      "members": [
-        {
-          "steamId": "76561199285883820",
-          "name": ":easter.goldegg:",
-          "role": "leader",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-15"
-        },
-        {
-          "steamId": "76561198389200249",
-          "name": "Benjamin",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-15"
-        },
-        {
-          "steamId": "76561199112306404",
-          "name": "뿡진",
           "role": "member",
           "kills": 0,
           "deaths": 0,
