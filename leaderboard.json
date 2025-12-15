@@ -54,7 +54,7 @@
     "PVEKillDistance": 86,
     "StructuresBuilt": 1344,
     "StructuresRepaired": 131,
-    "PlantsGathered": 699,
+    "PlantsGathered": 701,
     "WoodGathered": 68911,
     "RocksGathered": 37379,
     "SulfurOreGathered": 44421,
@@ -64,7 +64,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 15,
     "ClothesCrafted": 21,
-    "TimePlayed": 1,
+    "TimePlayed": 6,
     "LastSeen": 1765767808
   },
   {
@@ -276,15 +276,15 @@
     "DisplayName": "GGamGGamE",
     "PlayersKilled": 26,
     "Deaths": 52,
-    "Headshots": 109,
+    "Headshots": 110,
     "KDR": 0.5,
     "ArrowKills": 2,
     "MeleeKills": 3,
     "BladeKills": 0,
     "RevolverKills": 0,
     "ShotgunKills": 0,
-    "RifleKills": 4,
-    "AnimalKills": 7,
+    "RifleKills": 6,
+    "AnimalKills": 8,
     "NPCKills": 154,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -302,7 +302,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 59,
     "ClothesCrafted": 78,
-    "TimePlayed": 18,
+    "TimePlayed": 23,
     "LastSeen": 1765732555
   },
   {
@@ -853,9 +853,9 @@
     "SteamID": "76561199410020385",
     "DisplayName": "Sagê",
     "PlayersKilled": 16,
-    "Deaths": 50,
+    "Deaths": 51,
     "Headshots": 26,
-    "KDR": 0.32,
+    "KDR": 0.31,
     "ArrowKills": 0,
     "MeleeKills": 1,
     "BladeKills": 0,
@@ -880,7 +880,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 11,
-    "TimePlayed": 4,
+    "TimePlayed": 5,
     "LastSeen": 1765767821
   },
   {
@@ -1050,7 +1050,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 187,
     "ClothesCrafted": 213,
-    "TimePlayed": 24,
+    "TimePlayed": 29,
     "LastSeen": 1765753460
   },
   {
@@ -1228,7 +1228,7 @@
     "DisplayName": "박태강",
     "PlayersKilled": 13,
     "Deaths": 25,
-    "Headshots": 30,
+    "Headshots": 31,
     "KDR": 0.52,
     "ArrowKills": 0,
     "MeleeKills": 3,
@@ -1237,7 +1237,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 3,
-    "NPCKills": 24,
+    "NPCKills": 27,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 61,
@@ -1254,7 +1254,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 64,
     "ClothesCrafted": 24,
-    "TimePlayed": 76,
+    "TimePlayed": 81,
     "LastSeen": 1765759458
   },
   {
@@ -1322,7 +1322,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 92,
     "ClothesCrafted": 27,
-    "TimePlayed": 47,
+    "TimePlayed": 52,
     "LastSeen": 1765764574
   },
   {
@@ -1618,7 +1618,7 @@
     "PVEKillDistance": 100,
     "StructuresBuilt": 144,
     "StructuresRepaired": 130,
-    "PlantsGathered": 642,
+    "PlantsGathered": 646,
     "WoodGathered": 76749,
     "RocksGathered": 72483,
     "SulfurOreGathered": 18392,
@@ -1628,7 +1628,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 35,
     "ClothesCrafted": 10,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1765742033
   },
   {
@@ -1696,8 +1696,8 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 39,
     "ClothesCrafted": 16,
-    "TimePlayed": 3,
-    "LastSeen": 1765703067
+    "TimePlayed": 5,
+    "LastSeen": 1765768677
   },
   {
     "SteamID": "76561198021747506",
@@ -1730,7 +1730,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 64,
     "ClothesCrafted": 47,
-    "TimePlayed": 12,
+    "TimePlayed": 17,
     "LastSeen": 1765765982
   },
   {
@@ -1798,7 +1798,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 14,
+    "TimePlayed": 19,
     "LastSeen": 1765731000
   },
   {
@@ -2077,9 +2077,9 @@
     "SteamID": "76561199176826264",
     "DisplayName": "AK-MuMu",
     "PlayersKilled": 8,
-    "Deaths": 39,
+    "Deaths": 40,
     "Headshots": 28,
-    "KDR": 0.21,
+    "KDR": 0.2,
     "ArrowKills": 1,
     "MeleeKills": 1,
     "BladeKills": 0,
@@ -2104,7 +2104,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 100,
     "ClothesCrafted": 86,
-    "TimePlayed": 539,
+    "TimePlayed": 4,
     "LastSeen": 1765767886
   },
   {
@@ -3792,7 +3792,7 @@
     "APCKills": 0,
     "PVPKillDistance": 82,
     "PVEKillDistance": 12,
-    "StructuresBuilt": 901,
+    "StructuresBuilt": 910,
     "StructuresRepaired": 3,
     "PlantsGathered": 106,
     "WoodGathered": 18523,
@@ -3804,7 +3804,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 624,
+    "TimePlayed": 629,
     "LastSeen": 1765727163
   },
   {
@@ -4518,7 +4518,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 37,
     "ClothesCrafted": 14,
-    "TimePlayed": 368,
+    "TimePlayed": 373,
     "LastSeen": 1765761166
   },
   {
@@ -10271,7 +10271,7 @@
     "SteamID": "76561198786102303",
     "DisplayName": "波比",
     "PlayersKilled": 0,
-    "Deaths": 39,
+    "Deaths": 40,
     "Headshots": 4,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -10288,7 +10288,7 @@
     "PVEKillDistance": 27,
     "StructuresBuilt": 505,
     "StructuresRepaired": 98,
-    "PlantsGathered": 806,
+    "PlantsGathered": 808,
     "WoodGathered": 82624,
     "RocksGathered": 66220,
     "SulfurOreGathered": 7020,
@@ -10298,7 +10298,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 14,
     "ClothesCrafted": 2,
-    "TimePlayed": 61,
+    "TimePlayed": 0,
     "LastSeen": 1765766556
   },
   {
@@ -22164,7 +22164,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 55,
     "ClothesCrafted": 18,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1765726918
   },
   {
@@ -22494,7 +22494,7 @@
     "PVEKillDistance": 6,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 38,
+    "PlantsGathered": 40,
     "WoodGathered": 187,
     "RocksGathered": 750,
     "SulfurOreGathered": 200,
@@ -22504,7 +22504,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 10,
-    "TimePlayed": 2,
+    "TimePlayed": 7,
     "LastSeen": 1765766124
   }
 ]
