@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T16:33:41.1633346Z",
+  "lastUpdated": "2025-12-15T16:38:41.2058434Z",
   "teams": [
     {
       "id": "2",
@@ -513,10 +513,18 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 1,
+        "totalDeaths": 2,
         "teamKDR": 0.0
       },
       "members": [
+        {
+          "steamId": "76561198178053395",
+          "name": "최영진",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-15"
+        },
         {
           "steamId": "76561198452199029",
           "name": "ameng",
