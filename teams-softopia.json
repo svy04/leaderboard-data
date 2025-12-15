@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T09:33:38.5990016Z",
+  "lastUpdated": "2025-12-15T09:38:38.6453138Z",
   "teams": [
     {
       "id": "1",
@@ -169,6 +169,14 @@
         {
           "steamId": "76561199382060247",
           "name": "Violet",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561198136589812",
+          "name": "Life",
           "role": "member",
           "kills": 0,
           "deaths": 0,
