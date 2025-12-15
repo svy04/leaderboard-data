@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T10:13:38.8264170Z",
+  "lastUpdated": "2025-12-15T10:18:38.8536226Z",
   "teams": [
     {
       "id": "2",
@@ -9,16 +9,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 7,
-        "totalDeaths": 1,
-        "teamKDR": 7.0
+        "totalKills": 11,
+        "totalDeaths": 4,
+        "teamKDR": 2.75
       },
       "members": [
         {
           "steamId": "76561199285883820",
           "name": ":easter.goldegg:",
           "role": "leader",
-          "kills": 3,
+          "kills": 5,
           "deaths": 1,
           "joinedAt": "2025-12-15"
         },
@@ -26,20 +26,64 @@
           "steamId": "76561199112306404",
           "name": "뿡진",
           "role": "member",
-          "kills": 3,
-          "deaths": 0,
+          "kills": 4,
+          "deaths": 3,
           "joinedAt": "2025-12-15"
         },
         {
           "steamId": "76561198389200249",
           "name": "Benjamin",
           "role": "member",
-          "kills": 1,
+          "kills": 2,
           "deaths": 0,
           "joinedAt": "2025-12-15"
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561199112306404",
+          "killerName": "뿡진",
+          "victimSteamId": "76561198324946154",
+          "victimName": "Zun Rio Mang",
+          "victimTeam": "Team 3",
+          "weapon": "Bolt Action Rifle",
+          "distance": 103,
+          "headshot": true,
+          "timestamp": "2025-12-15T10:18:12.8578967Z"
+        },
+        {
+          "killerSteamId": "76561198389200249",
+          "killerName": "Benjamin",
+          "victimSteamId": "76561199374170543",
+          "victimName": "1",
+          "victimTeam": "mini",
+          "weapon": "Thompson",
+          "distance": 5,
+          "headshot": false,
+          "timestamp": "2025-12-15T10:15:19.0672227Z"
+        },
+        {
+          "killerSteamId": "76561199285883820",
+          "killerName": ":easter.goldegg:",
+          "victimSteamId": "76561199114462978",
+          "victimName": "JAKE",
+          "victimTeam": "mini",
+          "weapon": "Thompson",
+          "distance": 32,
+          "headshot": true,
+          "timestamp": "2025-12-15T10:14:47.9803891Z"
+        },
+        {
+          "killerSteamId": "76561199285883820",
+          "killerName": ":easter.goldegg:",
+          "victimSteamId": "76561199114462978",
+          "victimName": "JAKE",
+          "victimTeam": "mini",
+          "weapon": "Thompson",
+          "distance": 2,
+          "headshot": true,
+          "timestamp": "2025-12-15T10:13:39.4367299Z"
+        },
         {
           "killerSteamId": "76561199112306404",
           "killerName": "뿡진",
@@ -127,17 +171,17 @@
       "color": "#24FFFF",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 2,
-        "totalDeaths": 4,
-        "teamKDR": 0.5
+        "totalKills": 5,
+        "totalDeaths": 7,
+        "teamKDR": 0.71
       },
       "members": [
         {
           "steamId": "76561199374170543",
           "name": "1",
           "role": "leader",
-          "kills": 1,
-          "deaths": 2,
+          "kills": 4,
+          "deaths": 3,
           "joinedAt": "2025-12-15"
         },
         {
@@ -145,11 +189,44 @@
           "name": "JAKE",
           "role": "member",
           "kills": 1,
-          "deaths": 2,
+          "deaths": 4,
           "joinedAt": "2025-12-15"
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561199374170543",
+          "killerName": "1",
+          "victimSteamId": "76561199112306404",
+          "victimName": "뿡진",
+          "victimTeam": "Team 2",
+          "weapon": "40mm_grenade_he",
+          "distance": 13,
+          "headshot": false,
+          "timestamp": "2025-12-15T10:14:35.5384408Z"
+        },
+        {
+          "killerSteamId": "76561199374170543",
+          "killerName": "1",
+          "victimSteamId": "76561199112306404",
+          "victimName": "뿡진",
+          "victimTeam": "Team 2",
+          "weapon": "grenade.f1.deployed",
+          "distance": 4,
+          "headshot": false,
+          "timestamp": "2025-12-15T10:14:10.8957053Z"
+        },
+        {
+          "killerSteamId": "76561199374170543",
+          "killerName": "1",
+          "victimSteamId": "76561199112306404",
+          "victimName": "뿡진",
+          "victimTeam": "Team 2",
+          "weapon": "40mm_grenade_he",
+          "distance": 11,
+          "headshot": false,
+          "timestamp": "2025-12-15T10:13:49.3602603Z"
+        },
         {
           "killerSteamId": "76561199114462978",
           "killerName": "JAKE",
@@ -223,8 +300,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 1,
-        "totalDeaths": 4,
-        "teamKDR": 0.25
+        "totalDeaths": 5,
+        "teamKDR": 0.2
       },
       "members": [
         {
@@ -232,7 +309,7 @@
           "name": "Zun Rio Mang",
           "role": "leader",
           "kills": 0,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-15"
         },
         {
