@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T12:18:39.5854562Z",
+  "lastUpdated": "2025-12-15T12:23:39.6364980Z",
   "teams": [
     {
       "id": "2",
@@ -503,6 +503,38 @@
           "timestamp": "2025-12-15T10:06:13.3495303Z"
         }
       ]
+    },
+    {
+      "id": "11",
+      "name": "Team 11",
+      "tag": "[T11]",
+      "createdAt": "2025-12-15",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "teamKDR": 0.0
+      },
+      "members": [
+        {
+          "steamId": "76561198452199029",
+          "name": "ameng",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561198411980746",
+          "name": "민주",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        }
+      ],
+      "recentKills": []
     }
   ]
 }
