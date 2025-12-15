@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T15:08:40.6707318Z",
+  "lastUpdated": "2025-12-15T15:13:40.6822516Z",
   "teams": [
     {
       "id": "2",
@@ -404,8 +404,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 4,
-        "totalDeaths": 13,
-        "teamKDR": 0.31
+        "totalDeaths": 16,
+        "teamKDR": 0.25
       },
       "members": [
         {
@@ -413,7 +413,7 @@
           "name": "Zun Rio Mang",
           "role": "leader",
           "kills": 0,
-          "deaths": 3,
+          "deaths": 4,
           "joinedAt": "2025-12-15"
         },
         {
@@ -421,7 +421,7 @@
           "name": "Violet",
           "role": "member",
           "kills": 2,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-15"
         },
         {
@@ -429,7 +429,7 @@
           "name": "Maximus",
           "role": "member",
           "kills": 1,
-          "deaths": 4,
+          "deaths": 5,
           "joinedAt": "2025-12-15"
         },
         {
