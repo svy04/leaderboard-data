@@ -1,50 +1,6 @@
 {
-  "lastUpdated": "2025-12-15T10:03:38.7911412Z",
+  "lastUpdated": "2025-12-15T10:08:38.8187289Z",
   "teams": [
-    {
-      "id": "1",
-      "name": "mini",
-      "tag": "[mini]",
-      "createdAt": "2025-12-15",
-      "color": "#24FFFF",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 1,
-        "totalDeaths": 1,
-        "teamKDR": 1.0
-      },
-      "members": [
-        {
-          "steamId": "76561199374170543",
-          "name": "1",
-          "role": "leader",
-          "kills": 1,
-          "deaths": 0,
-          "joinedAt": "2025-12-15"
-        },
-        {
-          "steamId": "76561199114462978",
-          "name": "JAKE",
-          "role": "member",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-15"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561199374170543",
-          "killerName": "1",
-          "victimSteamId": "76561199090377497",
-          "victimName": "FiveTen",
-          "victimTeam": "Team 4",
-          "weapon": "Waterpipe Shotgun",
-          "distance": 2,
-          "headshot": true,
-          "timestamp": "2025-12-15T09:05:13.6261186Z"
-        }
-      ]
-    },
     {
       "id": "2",
       "name": "Team 2",
@@ -53,9 +9,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 1,
+        "totalKills": 3,
         "totalDeaths": 1,
-        "teamKDR": 1.0
+        "teamKDR": 3.0
       },
       "members": [
         {
@@ -70,7 +26,7 @@
           "steamId": "76561198389200249",
           "name": "Benjamin",
           "role": "member",
-          "kills": 0,
+          "kills": 1,
           "deaths": 0,
           "joinedAt": "2025-12-15"
         },
@@ -78,12 +34,34 @@
           "steamId": "76561199112306404",
           "name": "뿡진",
           "role": "member",
-          "kills": 0,
+          "kills": 1,
           "deaths": 0,
           "joinedAt": "2025-12-15"
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198389200249",
+          "killerName": "Benjamin",
+          "victimSteamId": "76561199374170543",
+          "victimName": "1",
+          "victimTeam": "mini",
+          "weapon": "Thompson",
+          "distance": 31,
+          "headshot": false,
+          "timestamp": "2025-12-15T10:08:27.3444739Z"
+        },
+        {
+          "killerSteamId": "76561199112306404",
+          "killerName": "뿡진",
+          "victimSteamId": "76561199374170543",
+          "victimName": "1",
+          "victimTeam": "mini",
+          "weapon": "M39 Rifle",
+          "distance": 13,
+          "headshot": false,
+          "timestamp": "2025-12-15T10:07:57.3210540Z"
+        },
         {
           "killerSteamId": "76561199285883820",
           "killerName": ":easter.goldegg:",
@@ -98,46 +76,6 @@
       ]
     },
     {
-      "id": "4",
-      "name": "Team 4",
-      "tag": "[T4]",
-      "createdAt": "2025-12-15",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 1,
-        "totalDeaths": 1,
-        "teamKDR": 1.0
-      },
-      "members": [
-        {
-          "steamId": "76561199090377497",
-          "name": "FiveTen",
-          "role": "leader",
-          "kills": 1,
-          "deaths": 1,
-          "joinedAt": "2025-12-15"
-        },
-        {
-          "steamId": "76561199872237478",
-          "name": "핑구",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-15"
-        },
-        {
-          "steamId": "76561199481397225",
-          "name": "뉴아",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-15"
-        }
-      ],
-      "recentKills": []
-    },
-    {
       "id": "3",
       "name": "Team 3",
       "tag": "[T3]",
@@ -145,11 +83,19 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 0,
+        "totalKills": 1,
         "totalDeaths": 0,
-        "teamKDR": 0.0
+        "teamKDR": 1.0
       },
       "members": [
+        {
+          "steamId": "76561198136589812",
+          "name": "Life",
+          "role": "member",
+          "kills": 1,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        },
         {
           "steamId": "76561198359198696",
           "name": "Maximus",
@@ -181,17 +127,105 @@
           "kills": 0,
           "deaths": 0,
           "joinedAt": "2025-12-15"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561199481397225",
+          "victimName": "뉴아",
+          "victimTeam": "Team 4",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 15,
+          "headshot": false,
+          "timestamp": "2025-12-15T10:06:13.3495303Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Team 4",
+      "tag": "[T4]",
+      "createdAt": "2025-12-15",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 2,
+        "teamKDR": 0.5
+      },
+      "members": [
+        {
+          "steamId": "76561199090377497",
+          "name": "FiveTen",
+          "role": "leader",
+          "kills": 1,
+          "deaths": 1,
+          "joinedAt": "2025-12-15"
         },
         {
-          "steamId": "76561198136589812",
-          "name": "Life",
+          "steamId": "76561199872237478",
+          "name": "핑구",
           "role": "member",
           "kills": 0,
           "deaths": 0,
           "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561199481397225",
+          "name": "뉴아",
+          "role": "member",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-15"
         }
       ],
       "recentKills": []
+    },
+    {
+      "id": "1",
+      "name": "mini",
+      "tag": "[mini]",
+      "createdAt": "2025-12-15",
+      "color": "#24FFFF",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 1,
+        "totalDeaths": 3,
+        "teamKDR": 0.33
+      },
+      "members": [
+        {
+          "steamId": "76561199374170543",
+          "name": "1",
+          "role": "leader",
+          "kills": 1,
+          "deaths": 2,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561199114462978",
+          "name": "JAKE",
+          "role": "member",
+          "kills": 0,
+          "deaths": 1,
+          "joinedAt": "2025-12-15"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199374170543",
+          "killerName": "1",
+          "victimSteamId": "76561199090377497",
+          "victimName": "FiveTen",
+          "victimTeam": "Team 4",
+          "weapon": "Waterpipe Shotgun",
+          "distance": 2,
+          "headshot": true,
+          "timestamp": "2025-12-15T09:05:13.6261186Z"
+        }
+      ]
     }
   ]
 }
