@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T10:23:38.9096032Z",
+  "lastUpdated": "2025-12-15T10:28:38.8850396Z",
   "teams": [
     {
       "id": "2",
@@ -186,6 +186,115 @@
       ]
     },
     {
+      "id": "3",
+      "name": "Team 3",
+      "tag": "[T3]",
+      "createdAt": "2025-12-15",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 4,
+        "totalDeaths": 7,
+        "teamKDR": 0.57
+      },
+      "members": [
+        {
+          "steamId": "76561198324946154",
+          "name": "Zun Rio Mang",
+          "role": "leader",
+          "kills": 0,
+          "deaths": 2,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561199382060247",
+          "name": "Violet",
+          "role": "member",
+          "kills": 2,
+          "deaths": 1,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561198359198696",
+          "name": "Maximus",
+          "role": "member",
+          "kills": 1,
+          "deaths": 3,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561198136589812",
+          "name": "Life",
+          "role": "member",
+          "kills": 1,
+          "deaths": 1,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561198361831915",
+          "name": "ゆづき",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561199382747364",
+          "name": "악당처단세일러문",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561199382060247",
+          "killerName": "Violet",
+          "victimSteamId": "76561199374170543",
+          "victimName": "1",
+          "victimTeam": "mini",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 8,
+          "headshot": true,
+          "timestamp": "2025-12-15T10:25:56.5139246Z"
+        },
+        {
+          "killerSteamId": "76561199382060247",
+          "killerName": "Violet",
+          "victimSteamId": "76561199114462978",
+          "victimName": "JAKE",
+          "victimTeam": "mini",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 3,
+          "headshot": true,
+          "timestamp": "2025-12-15T10:25:47.1397293Z"
+        },
+        {
+          "killerSteamId": "76561198359198696",
+          "killerName": "Maximus",
+          "victimSteamId": "76561199112306404",
+          "victimName": "뿡진",
+          "victimTeam": "Team 2",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 29,
+          "headshot": true,
+          "timestamp": "2025-12-15T10:20:49.5759031Z"
+        },
+        {
+          "killerSteamId": "76561198136589812",
+          "killerName": "Life",
+          "victimSteamId": "76561199481397225",
+          "victimName": "뉴아",
+          "victimTeam": "Team 4",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 15,
+          "headshot": false,
+          "timestamp": "2025-12-15T10:06:13.3495303Z"
+        }
+      ]
+    },
+    {
       "id": "1",
       "name": "mini",
       "tag": "[mini]",
@@ -194,8 +303,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 5,
-        "totalDeaths": 7,
-        "teamKDR": 0.71
+        "totalDeaths": 9,
+        "teamKDR": 0.56
       },
       "members": [
         {
@@ -203,7 +312,7 @@
           "name": "1",
           "role": "leader",
           "kills": 4,
-          "deaths": 3,
+          "deaths": 4,
           "joinedAt": "2025-12-15"
         },
         {
@@ -211,7 +320,7 @@
           "name": "JAKE",
           "role": "member",
           "kills": 1,
-          "deaths": 4,
+          "deaths": 5,
           "joinedAt": "2025-12-15"
         }
       ],
@@ -312,93 +421,6 @@
         }
       ],
       "recentKills": []
-    },
-    {
-      "id": "3",
-      "name": "Team 3",
-      "tag": "[T3]",
-      "createdAt": "2025-12-15",
-      "color": "#888888",
-      "motto": "No motto set",
-      "stats": {
-        "totalKills": 2,
-        "totalDeaths": 7,
-        "teamKDR": 0.29
-      },
-      "members": [
-        {
-          "steamId": "76561198324946154",
-          "name": "Zun Rio Mang",
-          "role": "leader",
-          "kills": 0,
-          "deaths": 2,
-          "joinedAt": "2025-12-15"
-        },
-        {
-          "steamId": "76561198359198696",
-          "name": "Maximus",
-          "role": "member",
-          "kills": 1,
-          "deaths": 3,
-          "joinedAt": "2025-12-15"
-        },
-        {
-          "steamId": "76561198136589812",
-          "name": "Life",
-          "role": "member",
-          "kills": 1,
-          "deaths": 1,
-          "joinedAt": "2025-12-15"
-        },
-        {
-          "steamId": "76561198361831915",
-          "name": "ゆづき",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-15"
-        },
-        {
-          "steamId": "76561199382747364",
-          "name": "악당처단세일러문",
-          "role": "member",
-          "kills": 0,
-          "deaths": 0,
-          "joinedAt": "2025-12-15"
-        },
-        {
-          "steamId": "76561199382060247",
-          "name": "Violet",
-          "role": "member",
-          "kills": 0,
-          "deaths": 1,
-          "joinedAt": "2025-12-15"
-        }
-      ],
-      "recentKills": [
-        {
-          "killerSteamId": "76561198359198696",
-          "killerName": "Maximus",
-          "victimSteamId": "76561199112306404",
-          "victimName": "뿡진",
-          "victimTeam": "Team 2",
-          "weapon": "Semi-Automatic Rifle",
-          "distance": 29,
-          "headshot": true,
-          "timestamp": "2025-12-15T10:20:49.5759031Z"
-        },
-        {
-          "killerSteamId": "76561198136589812",
-          "killerName": "Life",
-          "victimSteamId": "76561199481397225",
-          "victimName": "뉴아",
-          "victimTeam": "Team 4",
-          "weapon": "Semi-Automatic Rifle",
-          "distance": 15,
-          "headshot": false,
-          "timestamp": "2025-12-15T10:06:13.3495303Z"
-        }
-      ]
     }
   ]
 }
