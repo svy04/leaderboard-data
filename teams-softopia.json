@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2025-12-15T17:18:41.4315043Z",
+  "lastUpdated": "2025-12-15T17:23:41.4765738Z",
   "teams": [
+    {
+      "id": "12",
+      "name": "Team 12",
+      "tag": "[T12]",
+      "createdAt": "2025-12-15",
+      "color": "#888888",
+      "motto": "No motto set",
+      "stats": {
+        "totalKills": 5,
+        "totalDeaths": 0,
+        "teamKDR": 5.0
+      },
+      "members": [
+        {
+          "steamId": "76561198116776433",
+          "name": "낄낄",
+          "role": "leader",
+          "kills": 2,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561199082443094",
+          "name": "DDR",
+          "role": "member",
+          "kills": 3,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        }
+      ],
+      "recentKills": [
+        {
+          "killerSteamId": "76561198116776433",
+          "killerName": "낄낄",
+          "victimSteamId": "76561198178053395",
+          "victimName": "최영진",
+          "victimTeam": "Team 11",
+          "weapon": "Revolver",
+          "distance": 5,
+          "headshot": true,
+          "timestamp": "2025-12-15T17:21:12.3729004Z"
+        },
+        {
+          "killerSteamId": "76561198116776433",
+          "killerName": "낄낄",
+          "victimSteamId": "76561198452199029",
+          "victimName": "ameng",
+          "victimTeam": "Team 11",
+          "weapon": "Revolver",
+          "distance": 5,
+          "headshot": false,
+          "timestamp": "2025-12-15T17:21:11.7434289Z"
+        },
+        {
+          "killerSteamId": "76561199082443094",
+          "killerName": "DDR",
+          "victimSteamId": "76561198178053395",
+          "victimName": "최영진",
+          "victimTeam": "Team 11",
+          "weapon": "Revolver",
+          "distance": 3,
+          "headshot": true,
+          "timestamp": "2025-12-15T17:05:39.2720798Z"
+        },
+        {
+          "killerSteamId": "76561199082443094",
+          "killerName": "DDR",
+          "victimSteamId": "76561198178053395",
+          "victimName": "최영진",
+          "victimTeam": "Team 11",
+          "weapon": "Thompson",
+          "distance": 32,
+          "headshot": true,
+          "timestamp": "2025-12-15T16:35:11.6797760Z"
+        },
+        {
+          "killerSteamId": "76561199082443094",
+          "killerName": "DDR",
+          "victimSteamId": "76561198411980746",
+          "victimName": "민주",
+          "victimTeam": "Team 11",
+          "weapon": "Thompson",
+          "distance": 44,
+          "headshot": false,
+          "timestamp": "2025-12-15T16:33:13.2384727Z"
+        }
+      ]
+    },
     {
       "id": "2",
       "name": "Team 2",
@@ -513,7 +601,7 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 0,
-        "totalDeaths": 3,
+        "totalDeaths": 5,
         "teamKDR": 0.0
       },
       "members": [
@@ -522,7 +610,7 @@
           "name": "최영진",
           "role": "leader",
           "kills": 0,
-          "deaths": 2,
+          "deaths": 3,
           "joinedAt": "2025-12-15"
         },
         {
@@ -530,7 +618,7 @@
           "name": "ameng",
           "role": "member",
           "kills": 0,
-          "deaths": 0,
+          "deaths": 1,
           "joinedAt": "2025-12-15"
         },
         {
