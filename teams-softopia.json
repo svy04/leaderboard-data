@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T10:18:38.8536226Z",
+  "lastUpdated": "2025-12-15T10:23:38.9096032Z",
   "teams": [
     {
       "id": "2",
@@ -9,16 +9,16 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 11,
-        "totalDeaths": 4,
-        "teamKDR": 2.75
+        "totalKills": 13,
+        "totalDeaths": 5,
+        "teamKDR": 2.6
       },
       "members": [
         {
           "steamId": "76561199285883820",
           "name": ":easter.goldegg:",
           "role": "leader",
-          "kills": 5,
+          "kills": 6,
           "deaths": 1,
           "joinedAt": "2025-12-15"
         },
@@ -26,8 +26,8 @@
           "steamId": "76561199112306404",
           "name": "뿡진",
           "role": "member",
-          "kills": 4,
-          "deaths": 3,
+          "kills": 5,
+          "deaths": 4,
           "joinedAt": "2025-12-15"
         },
         {
@@ -40,6 +40,28 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561199112306404",
+          "killerName": "뿡진",
+          "victimSteamId": "76561198136589812",
+          "victimName": "Life",
+          "victimTeam": "Team 3",
+          "weapon": "Bolt Action Rifle",
+          "distance": 86,
+          "headshot": true,
+          "timestamp": "2025-12-15T10:22:21.1162535Z"
+        },
+        {
+          "killerSteamId": "76561199285883820",
+          "killerName": ":easter.goldegg:",
+          "victimSteamId": "76561198359198696",
+          "victimName": "Maximus",
+          "victimTeam": "Team 3",
+          "weapon": "Thompson",
+          "distance": 28,
+          "headshot": true,
+          "timestamp": "2025-12-15T10:21:48.9312964Z"
+        },
         {
           "killerSteamId": "76561199112306404",
           "killerName": "뿡진",
@@ -299,9 +321,9 @@
       "color": "#888888",
       "motto": "No motto set",
       "stats": {
-        "totalKills": 1,
-        "totalDeaths": 5,
-        "teamKDR": 0.2
+        "totalKills": 2,
+        "totalDeaths": 7,
+        "teamKDR": 0.29
       },
       "members": [
         {
@@ -313,19 +335,19 @@
           "joinedAt": "2025-12-15"
         },
         {
+          "steamId": "76561198359198696",
+          "name": "Maximus",
+          "role": "member",
+          "kills": 1,
+          "deaths": 3,
+          "joinedAt": "2025-12-15"
+        },
+        {
           "steamId": "76561198136589812",
           "name": "Life",
           "role": "member",
           "kills": 1,
-          "deaths": 0,
-          "joinedAt": "2025-12-15"
-        },
-        {
-          "steamId": "76561198359198696",
-          "name": "Maximus",
-          "role": "member",
-          "kills": 0,
-          "deaths": 2,
+          "deaths": 1,
           "joinedAt": "2025-12-15"
         },
         {
@@ -354,6 +376,17 @@
         }
       ],
       "recentKills": [
+        {
+          "killerSteamId": "76561198359198696",
+          "killerName": "Maximus",
+          "victimSteamId": "76561199112306404",
+          "victimName": "뿡진",
+          "victimTeam": "Team 2",
+          "weapon": "Semi-Automatic Rifle",
+          "distance": 29,
+          "headshot": true,
+          "timestamp": "2025-12-15T10:20:49.5759031Z"
+        },
         {
           "killerSteamId": "76561198136589812",
           "killerName": "Life",
