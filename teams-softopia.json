@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T09:58:38.7376638Z",
+  "lastUpdated": "2025-12-15T10:03:38.7911412Z",
   "teams": [
     {
       "id": "1",
@@ -121,6 +121,14 @@
         {
           "steamId": "76561199872237478",
           "name": "핑구",
+          "role": "member",
+          "kills": 0,
+          "deaths": 0,
+          "joinedAt": "2025-12-15"
+        },
+        {
+          "steamId": "76561199481397225",
+          "name": "뉴아",
           "role": "member",
           "kills": 0,
           "deaths": 0,
