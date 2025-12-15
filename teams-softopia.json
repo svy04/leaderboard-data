@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T15:03:40.6157951Z",
+  "lastUpdated": "2025-12-15T15:08:40.6707318Z",
   "teams": [
     {
       "id": "2",
@@ -404,8 +404,8 @@
       "motto": "No motto set",
       "stats": {
         "totalKills": 4,
-        "totalDeaths": 12,
-        "teamKDR": 0.33
+        "totalDeaths": 13,
+        "teamKDR": 0.31
       },
       "members": [
         {
@@ -453,7 +453,7 @@
           "name": "악당처단세일러문",
           "role": "member",
           "kills": 0,
-          "deaths": 1,
+          "deaths": 2,
           "joinedAt": "2025-12-15"
         }
       ],
