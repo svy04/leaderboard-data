@@ -8877,7 +8877,7 @@
     "SteamID": "76561198299426329",
     "DisplayName": "ConzoBeMenacing",
     "PlayersKilled": 1,
-    "Deaths": 47,
+    "Deaths": 48,
     "Headshots": 16,
     "KDR": 0.02,
     "ArrowKills": 0,
@@ -8904,7 +8904,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 185,
     "ClothesCrafted": 20,
-    "TimePlayed": 3,
+    "TimePlayed": 4,
     "LastSeen": 1765903875
   },
   {
@@ -24662,16 +24662,16 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 0,
-    "AnimalKills": 0,
+    "AnimalKills": 1,
     "NPCKills": 0,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
-    "PVEKillDistance": 0,
+    "PVEKillDistance": 5,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 8,
-    "WoodGathered": 0,
+    "WoodGathered": 2375,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
     "MetalOreGathered": 0,
@@ -24680,7 +24680,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 45,
+    "TimePlayed": 50,
     "LastSeen": 1765911939
   }
 ]
