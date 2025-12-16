@@ -9149,9 +9149,9 @@
     "SteamID": "76561198846939725",
     "DisplayName": "Void",
     "PlayersKilled": 1,
-    "Deaths": 0,
+    "Deaths": 2,
     "Headshots": 2,
-    "KDR": 1.0,
+    "KDR": 0.5,
     "ArrowKills": 0,
     "MeleeKills": 0,
     "BladeKills": 0,
@@ -9159,11 +9159,11 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 2,
-    "NPCKills": 1,
+    "NPCKills": 3,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 1,
-    "PVEKillDistance": 12,
+    "PVEKillDistance": 76,
     "StructuresBuilt": 24,
     "StructuresRepaired": 0,
     "PlantsGathered": 8,
@@ -9176,7 +9176,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 100,
+    "TimePlayed": 1,
     "LastSeen": 1765911939
   },
   {
@@ -22640,7 +22640,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 1,
-    "TimePlayed": 36,
+    "TimePlayed": 41,
     "LastSeen": 1765915789
   },
   {
