@@ -2512,7 +2512,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 19,
     "ClothesCrafted": 10,
-    "TimePlayed": 17,
+    "TimePlayed": 22,
     "LastSeen": 1765901829
   },
   {
@@ -6481,7 +6481,7 @@
     "StructuresBuilt": 41,
     "StructuresRepaired": 13,
     "PlantsGathered": 206,
-    "WoodGathered": 23084,
+    "WoodGathered": 23411,
     "RocksGathered": 1125,
     "SulfurOreGathered": 200,
     "MetalOreGathered": 1500,
@@ -6490,7 +6490,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 26,
-    "TimePlayed": 98,
+    "TimePlayed": 103,
     "LastSeen": 1765900940
   },
   {
@@ -8904,7 +8904,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 185,
     "ClothesCrafted": 20,
-    "TimePlayed": 14,
+    "TimePlayed": 19,
     "LastSeen": 1765903875
   },
   {
@@ -9101,14 +9101,14 @@
     "PlantsGathered": 64,
     "WoodGathered": 678,
     "RocksGathered": 375,
-    "SulfurOreGathered": 803,
+    "SulfurOreGathered": 1403,
     "MetalOreGathered": 500,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 10,
-    "TimePlayed": 75,
+    "TimePlayed": 80,
     "LastSeen": 1765901994
   },
   {
@@ -24585,7 +24585,7 @@
     "SteamID": "76561198928801405",
     "DisplayName": "하니",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -24612,14 +24612,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 3,
+    "TimePlayed": 2,
     "LastSeen": 1765905051
   },
   {
     "SteamID": "76561198874260852",
     "DisplayName": "TheR",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -24646,7 +24646,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 3,
+    "TimePlayed": 2,
     "LastSeen": 1765905088
   }
 ]
