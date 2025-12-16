@@ -506,7 +506,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 13,
     "ClothesCrafted": 49,
-    "TimePlayed": 23,
+    "TimePlayed": 25,
     "LastSeen": 1765861459
   },
   {
@@ -812,7 +812,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 187,
     "ClothesCrafted": 221,
-    "TimePlayed": 172,
+    "TimePlayed": 177,
     "LastSeen": 1765841295
   },
   {
@@ -914,7 +914,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 13,
-    "TimePlayed": 85,
+    "TimePlayed": 90,
     "LastSeen": 1765848305
   },
   {
@@ -1118,7 +1118,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 206,
     "ClothesCrafted": 24,
-    "TimePlayed": 379,
+    "TimePlayed": 384,
     "LastSeen": 1765845908
   },
   {
@@ -1446,7 +1446,7 @@
     "APCKills": 0,
     "PVPKillDistance": 93,
     "PVEKillDistance": 100,
-    "StructuresBuilt": 309,
+    "StructuresBuilt": 313,
     "StructuresRepaired": 138,
     "PlantsGathered": 911,
     "WoodGathered": 92575,
@@ -1458,7 +1458,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 37,
     "ClothesCrafted": 84,
-    "TimePlayed": 446,
+    "TimePlayed": 451,
     "LastSeen": 1765841449
   },
   {
@@ -1601,7 +1601,7 @@
     "SteamID": "76561198431469582",
     "DisplayName": "진뚱",
     "PlayersKilled": 10,
-    "Deaths": 82,
+    "Deaths": 83,
     "Headshots": 24,
     "KDR": 0.12,
     "ArrowKills": 9,
@@ -1628,7 +1628,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 42,
     "ClothesCrafted": 23,
-    "TimePlayed": 23,
+    "TimePlayed": 5,
     "LastSeen": 1765862955
   },
   {
@@ -1796,9 +1796,9 @@
     "RocketsFired": 31,
     "ExplosivesThrown": 18,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 111,
+    "WeaponsCrafted": 113,
     "ClothesCrafted": 96,
-    "TimePlayed": 7,
+    "TimePlayed": 12,
     "LastSeen": 1765863387
   },
   {
@@ -1866,7 +1866,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1765842396
   },
   {
@@ -2750,7 +2750,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 39,
     "ClothesCrafted": 15,
-    "TimePlayed": 31,
+    "TimePlayed": 36,
     "LastSeen": 1765857404
   },
   {
@@ -3192,7 +3192,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 126,
+    "TimePlayed": 131,
     "LastSeen": 1765858388
   },
   {
@@ -6116,8 +6116,8 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 5,
-    "TimePlayed": 89,
-    "LastSeen": 1765861288
+    "TimePlayed": 92,
+    "LastSeen": 1765866368
   },
   {
     "SteamID": "76561198225599476",
@@ -23106,17 +23106,17 @@
     "PVEKillDistance": 33,
     "StructuresBuilt": 24,
     "StructuresRepaired": 0,
-    "PlantsGathered": 78,
+    "PlantsGathered": 82,
     "WoodGathered": 13693,
-    "RocksGathered": 20146,
-    "SulfurOreGathered": 2120,
-    "MetalOreGathered": 5500,
+    "RocksGathered": 26896,
+    "SulfurOreGathered": 2400,
+    "MetalOreGathered": 6000,
     "RocketsFired": 0,
     "ExplosivesThrown": 2,
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 6,
+    "TimePlayed": 11,
     "LastSeen": 1765852635
   },
   {
@@ -23730,5 +23730,73 @@
     "ClothesCrafted": 0,
     "TimePlayed": 0,
     "LastSeen": 1765857788
+  },
+  {
+    "SteamID": "76561199486557802",
+    "DisplayName": "Caesar_HELL",
+    "PlayersKilled": 0,
+    "Deaths": 2,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 0,
+    "WoodGathered": 0,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 0,
+    "ClothesCrafted": 0,
+    "TimePlayed": 1,
+    "LastSeen": 1765866146
+  },
+  {
+    "SteamID": "76561198438406814",
+    "DisplayName": "사냥하는 양이고",
+    "PlayersKilled": 0,
+    "Deaths": 0,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 0,
+    "WoodGathered": 0,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 39,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 0,
+    "ClothesCrafted": 0,
+    "TimePlayed": 4,
+    "LastSeen": 1765866208
   }
 ]
