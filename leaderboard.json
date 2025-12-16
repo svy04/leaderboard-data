@@ -6490,7 +6490,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 26,
-    "TimePlayed": 113,
+    "TimePlayed": 118,
     "LastSeen": 1765900940
   },
   {
@@ -8893,7 +8893,7 @@
     "PVPKillDistance": 59,
     "PVEKillDistance": 79,
     "StructuresBuilt": 361,
-    "StructuresRepaired": 10,
+    "StructuresRepaired": 24,
     "PlantsGathered": 219,
     "WoodGathered": 61789,
     "RocksGathered": 63917,
@@ -8904,7 +8904,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 185,
     "ClothesCrafted": 20,
-    "TimePlayed": 0,
+    "TimePlayed": 5,
     "LastSeen": 1765903875
   },
   {
@@ -9098,17 +9098,17 @@
     "PVEKillDistance": 44,
     "StructuresBuilt": 11,
     "StructuresRepaired": 0,
-    "PlantsGathered": 83,
+    "PlantsGathered": 117,
     "WoodGathered": 678,
     "RocksGathered": 375,
-    "SulfurOreGathered": 4003,
-    "MetalOreGathered": 7000,
+    "SulfurOreGathered": 6603,
+    "MetalOreGathered": 12500,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 10,
-    "TimePlayed": 90,
+    "TimePlayed": 95,
     "LastSeen": 1765901994
   },
   {
@@ -24601,7 +24601,7 @@
     "PVPKillDistance": 0,
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
-    "StructuresRepaired": 0,
+    "StructuresRepaired": 1,
     "PlantsGathered": 0,
     "WoodGathered": 188,
     "RocksGathered": 0,
@@ -24612,14 +24612,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 12,
+    "TimePlayed": 17,
     "LastSeen": 1765905051
   },
   {
     "SteamID": "76561198874260852",
     "DisplayName": "TheR",
     "PlayersKilled": 0,
-    "Deaths": 1,
+    "Deaths": 2,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -24636,7 +24636,7 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 0,
+    "PlantsGathered": 2,
     "WoodGathered": 556,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
@@ -24645,8 +24645,8 @@
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
-    "ClothesCrafted": 0,
-    "TimePlayed": 12,
+    "ClothesCrafted": 2,
+    "TimePlayed": 3,
     "LastSeen": 1765905088
   }
 ]
