@@ -360,7 +360,7 @@
     "PVEKillDistance": 287,
     "StructuresBuilt": 1049,
     "StructuresRepaired": 128,
-    "PlantsGathered": 496,
+    "PlantsGathered": 506,
     "WoodGathered": 96216,
     "RocksGathered": 151685,
     "SulfurOreGathered": 35641,
@@ -370,7 +370,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 78,
     "ClothesCrafted": 85,
-    "TimePlayed": 3,
+    "TimePlayed": 8,
     "LastSeen": 1765948619
   },
   {
@@ -1432,16 +1432,16 @@
     "DisplayName": "ESeongJun",
     "PlayersKilled": 12,
     "Deaths": 33,
-    "Headshots": 102,
+    "Headshots": 105,
     "KDR": 0.36,
     "ArrowKills": 0,
     "MeleeKills": 3,
     "BladeKills": 0,
     "RevolverKills": 0,
     "ShotgunKills": 0,
-    "RifleKills": 15,
+    "RifleKills": 16,
     "AnimalKills": 11,
-    "NPCKills": 175,
+    "NPCKills": 180,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 69,
@@ -1458,7 +1458,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 413,
+    "TimePlayed": 418,
     "LastSeen": 1765947727
   },
   {
@@ -9040,7 +9040,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 8,
     "ClothesCrafted": 0,
-    "TimePlayed": 194,
+    "TimePlayed": 199,
     "LastSeen": 1765949945
   },
   {
@@ -9115,7 +9115,7 @@
     "SteamID": "76561199827521863",
     "DisplayName": "BOY APOY!",
     "PlayersKilled": 1,
-    "Deaths": 20,
+    "Deaths": 21,
     "Headshots": 8,
     "KDR": 0.05,
     "ArrowKills": 0,
@@ -9124,7 +9124,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 0,
-    "AnimalKills": 5,
+    "AnimalKills": 6,
     "NPCKills": 15,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -9135,14 +9135,14 @@
     "PlantsGathered": 211,
     "WoodGathered": 1273,
     "RocksGathered": 375,
-    "SulfurOreGathered": 12603,
+    "SulfurOreGathered": 13003,
     "MetalOreGathered": 24000,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 12,
-    "TimePlayed": 72,
+    "TimePlayed": 1,
     "LastSeen": 1765955937
   },
   {
@@ -23728,7 +23728,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 5,
-    "TimePlayed": 6,
+    "TimePlayed": 11,
     "LastSeen": 1765960843
   },
   {
@@ -24034,7 +24034,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 2,
     "LastSeen": 1765954836
   },
   {
@@ -24381,7 +24381,7 @@
     "SteamID": "76561199032574829",
     "DisplayName": "soilland7",
     "PlayersKilled": 0,
-    "Deaths": 9,
+    "Deaths": 12,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -24401,14 +24401,14 @@
     "PlantsGathered": 11,
     "WoodGathered": 4272,
     "RocksGathered": 3000,
-    "SulfurOreGathered": 0,
+    "SulfurOreGathered": 92,
     "MetalOreGathered": 1408,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 29,
+    "TimePlayed": 0,
     "LastSeen": 1765959888
   },
   {
@@ -24976,7 +24976,7 @@
     "PVEKillDistance": 1,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 6,
+    "PlantsGathered": 8,
     "WoodGathered": 125,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
@@ -24986,7 +24986,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 17,
+    "TimePlayed": 22,
     "LastSeen": 1765960329
   }
 ]
