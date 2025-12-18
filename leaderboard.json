@@ -496,17 +496,17 @@
     "PVEKillDistance": 86,
     "StructuresBuilt": 154,
     "StructuresRepaired": 34,
-    "PlantsGathered": 1858,
+    "PlantsGathered": 1872,
     "WoodGathered": 14413,
-    "RocksGathered": 63859,
-    "SulfurOreGathered": 11552,
-    "MetalOreGathered": 27333,
+    "RocksGathered": 66109,
+    "SulfurOreGathered": 11952,
+    "MetalOreGathered": 27833,
     "RocketsFired": 0,
     "ExplosivesThrown": 35,
     "PlayersHealed": 0,
     "WeaponsCrafted": 17,
     "ClothesCrafted": 50,
-    "TimePlayed": 5,
+    "TimePlayed": 10,
     "LastSeen": 1766056488
   },
   {
@@ -880,7 +880,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 24,
     "ClothesCrafted": 22,
-    "TimePlayed": 375,
+    "TimePlayed": 380,
     "LastSeen": 1766052379
   },
   {
@@ -1151,8 +1151,8 @@
     "ExplosivesThrown": 31,
     "PlayersHealed": 0,
     "WeaponsCrafted": 300,
-    "ClothesCrafted": 149,
-    "TimePlayed": 185,
+    "ClothesCrafted": 153,
+    "TimePlayed": 190,
     "LastSeen": 1766056232
   },
   {
@@ -4620,7 +4620,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 29,
-    "TimePlayed": 163,
+    "TimePlayed": 168,
     "LastSeen": 1766061020
   },
   {
@@ -5674,7 +5674,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 8,
     "ClothesCrafted": 11,
-    "TimePlayed": 4,
+    "TimePlayed": 9,
     "LastSeen": 1766059663
   },
   {
@@ -8836,8 +8836,8 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 19,
     "ClothesCrafted": 1,
-    "TimePlayed": 126,
-    "LastSeen": 1766055859
+    "TimePlayed": 130,
+    "LastSeen": 1766067346
   },
   {
     "SteamID": "76561199477744492",
@@ -9176,7 +9176,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 8,
     "ClothesCrafted": 0,
-    "TimePlayed": 176,
+    "TimePlayed": 181,
     "LastSeen": 1766065531
   },
   {
@@ -9278,7 +9278,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 12,
-    "TimePlayed": 49,
+    "TimePlayed": 54,
     "LastSeen": 1766062738
   },
   {
@@ -11148,7 +11148,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 15,
     "ClothesCrafted": 3,
-    "TimePlayed": 46,
+    "TimePlayed": 51,
     "LastSeen": 1766064647
   },
   {
@@ -22640,7 +22640,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 3,
-    "TimePlayed": 55,
+    "TimePlayed": 60,
     "LastSeen": 1766062789
   },
   {
@@ -24374,7 +24374,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 2,
-    "TimePlayed": 72,
+    "TimePlayed": 77,
     "LastSeen": 1766066903
   },
   {
@@ -25790,7 +25790,7 @@
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 17,
-    "StructuresBuilt": 104,
+    "StructuresBuilt": 124,
     "StructuresRepaired": 0,
     "PlantsGathered": 89,
     "WoodGathered": 6611,
@@ -25802,7 +25802,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 4,
-    "TimePlayed": 221,
+    "TimePlayed": 226,
     "LastSeen": 1766052885
   },
   {
@@ -25979,7 +25979,7 @@
     "SteamID": "76561199199718951",
     "DisplayName": "qkrgywns1287a",
     "PlayersKilled": 0,
-    "Deaths": 3,
+    "Deaths": 4,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -26006,7 +26006,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 1,
-    "TimePlayed": 1,
+    "TimePlayed": 0,
     "LastSeen": 1766062886
   },
   {
@@ -26064,7 +26064,7 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 12,
+    "PlantsGathered": 16,
     "WoodGathered": 8,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
@@ -26074,7 +26074,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 6,
     "LastSeen": 1766066455
   }
 ]
