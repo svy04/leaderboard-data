@@ -1514,7 +1514,7 @@
     "APCKills": 0,
     "PVPKillDistance": 61,
     "PVEKillDistance": 83,
-    "StructuresBuilt": 234,
+    "StructuresBuilt": 249,
     "StructuresRepaired": 30,
     "PlantsGathered": 461,
     "WoodGathered": 28959,
@@ -1526,7 +1526,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 31,
     "ClothesCrafted": 35,
-    "TimePlayed": 115,
+    "TimePlayed": 120,
     "LastSeen": 1766030586
   },
   {
@@ -6524,7 +6524,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 44,
-    "TimePlayed": 39,
+    "TimePlayed": 44,
     "LastSeen": 1766037372
   },
   {
@@ -8960,7 +8960,7 @@
     "APCKills": 0,
     "PVPKillDistance": 59,
     "PVEKillDistance": 79,
-    "StructuresBuilt": 414,
+    "StructuresBuilt": 415,
     "StructuresRepaired": 31,
     "PlantsGathered": 238,
     "WoodGathered": 83076,
@@ -8972,7 +8972,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 206,
     "ClothesCrafted": 24,
-    "TimePlayed": 1,
+    "TimePlayed": 6,
     "LastSeen": 1766020782
   },
   {
@@ -9108,7 +9108,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 8,
     "ClothesCrafted": 0,
-    "TimePlayed": 133,
+    "TimePlayed": 138,
     "LastSeen": 1766036174
   },
   {
@@ -22572,7 +22572,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 3,
-    "TimePlayed": 11,
+    "TimePlayed": 16,
     "LastSeen": 1766036535
   },
   {
@@ -25386,15 +25386,15 @@
     "StructuresRepaired": 0,
     "PlantsGathered": 18,
     "WoodGathered": 191,
-    "RocksGathered": 0,
+    "RocksGathered": 750,
     "SulfurOreGathered": 0,
-    "MetalOreGathered": 0,
+    "MetalOreGathered": 500,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 8,
     "ClothesCrafted": 10,
-    "TimePlayed": 0,
+    "TimePlayed": 5,
     "LastSeen": 1766028904
   },
   {
@@ -25428,14 +25428,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 132,
+    "TimePlayed": 137,
     "LastSeen": 1766028970
   },
   {
     "SteamID": "76561199038330502",
     "DisplayName": "냥냥",
     "PlayersKilled": 0,
-    "Deaths": 7,
+    "Deaths": 8,
     "Headshots": 2,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -25462,7 +25462,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 0,
+    "TimePlayed": 1,
     "LastSeen": 1766029004
   }
 ]
