@@ -6524,7 +6524,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 44,
-    "TimePlayed": 6,
+    "TimePlayed": 11,
     "LastSeen": 1766022271
   },
   {
@@ -8968,11 +8968,11 @@
     "SulfurOreGathered": 28400,
     "MetalOreGathered": 61140,
     "RocketsFired": 8,
-    "ExplosivesThrown": 61,
+    "ExplosivesThrown": 68,
     "PlayersHealed": 0,
     "WeaponsCrafted": 186,
     "ClothesCrafted": 24,
-    "TimePlayed": 5,
+    "TimePlayed": 10,
     "LastSeen": 1766020782
   },
   {
@@ -21790,7 +21790,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 19,
     "ClothesCrafted": 1,
-    "TimePlayed": 76,
+    "TimePlayed": 81,
     "LastSeen": 1766026614
   },
   {
@@ -22572,7 +22572,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 3,
-    "TimePlayed": 16,
+    "TimePlayed": 21,
     "LastSeen": 1766028813
   },
   {
@@ -25367,7 +25367,7 @@
     "SteamID": "76561198387592678",
     "DisplayName": "lIlIlIlllIIII",
     "PlayersKilled": 0,
-    "Deaths": 1,
+    "Deaths": 3,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -25394,14 +25394,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 2,
+    "TimePlayed": 3,
     "LastSeen": 1766028904
   },
   {
     "SteamID": "76561199080562752",
     "DisplayName": "청포도맛사탕",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 2,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -25428,14 +25428,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 7,
+    "TimePlayed": 2,
     "LastSeen": 1766028970
   },
   {
     "SteamID": "76561199038330502",
     "DisplayName": "냥냥",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -25454,7 +25454,7 @@
     "StructuresRepaired": 0,
     "PlantsGathered": 0,
     "WoodGathered": 182,
-    "RocksGathered": 0,
+    "RocksGathered": 165,
     "SulfurOreGathered": 0,
     "MetalOreGathered": 0,
     "RocketsFired": 0,
@@ -25462,7 +25462,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 6,
+    "TimePlayed": 0,
     "LastSeen": 1766029004
   }
 ]
