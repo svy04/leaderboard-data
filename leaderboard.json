@@ -632,7 +632,7 @@
     "PVEKillDistance": 40,
     "StructuresBuilt": 40,
     "StructuresRepaired": 15,
-    "PlantsGathered": 879,
+    "PlantsGathered": 898,
     "WoodGathered": 43106,
     "RocksGathered": 53509,
     "SulfurOreGathered": 16360,
@@ -642,7 +642,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 33,
     "ClothesCrafted": 39,
-    "TimePlayed": 16,
+    "TimePlayed": 21,
     "LastSeen": 1766082320
   },
   {
@@ -3599,8 +3599,8 @@
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
-    "ClothesCrafted": 5,
-    "TimePlayed": 93,
+    "ClothesCrafted": 6,
+    "TimePlayed": 98,
     "LastSeen": 1766078027
   },
   {
@@ -4185,9 +4185,9 @@
     "SteamID": "76561199020690948",
     "DisplayName": "不惜千金",
     "PlayersKilled": 4,
-    "Deaths": 9,
+    "Deaths": 11,
     "Headshots": 9,
-    "KDR": 0.44,
+    "KDR": 0.36,
     "ArrowKills": 1,
     "MeleeKills": 2,
     "BladeKills": 0,
@@ -6599,9 +6599,9 @@
     "SteamID": "76561198985354280",
     "DisplayName": "BILLA BOUNCER",
     "PlayersKilled": 2,
-    "Deaths": 43,
+    "Deaths": 46,
     "Headshots": 1,
-    "KDR": 0.05,
+    "KDR": 0.04,
     "ArrowKills": 1,
     "MeleeKills": 0,
     "BladeKills": 0,
@@ -6616,7 +6616,7 @@
     "PVEKillDistance": 36,
     "StructuresBuilt": 413,
     "StructuresRepaired": 3,
-    "PlantsGathered": 206,
+    "PlantsGathered": 208,
     "WoodGathered": 31642,
     "RocksGathered": 35081,
     "SulfurOreGathered": 2198,
@@ -6626,7 +6626,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 47,
     "ClothesCrafted": 6,
-    "TimePlayed": 0,
+    "TimePlayed": 2,
     "LastSeen": 1766072109
   },
   {
@@ -6694,7 +6694,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 49,
-    "TimePlayed": 147,
+    "TimePlayed": 152,
     "LastSeen": 1766083406
   },
   {
@@ -26278,14 +26278,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 133,
+    "TimePlayed": 135,
     "LastSeen": 1766068864
   },
   {
     "SteamID": "76561198893487608",
     "DisplayName": "YORUN",
     "PlayersKilled": 0,
-    "Deaths": 15,
+    "Deaths": 16,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -26312,7 +26312,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 0,
     "LastSeen": 1766068950
   },
   {
@@ -26489,7 +26489,7 @@
     "SteamID": "76561199634399784",
     "DisplayName": "xxx",
     "PlayersKilled": 0,
-    "Deaths": 30,
+    "Deaths": 31,
     "Headshots": 4,
     "KDR": 0.0,
     "ArrowKills": 1,
@@ -26745,7 +26745,7 @@
     "StructuresBuilt": 28,
     "StructuresRepaired": 0,
     "PlantsGathered": 35,
-    "WoodGathered": 5730,
+    "WoodGathered": 5915,
     "RocksGathered": 2286,
     "SulfurOreGathered": 0,
     "MetalOreGathered": 0,
@@ -26754,7 +26754,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 4,
-    "TimePlayed": 9,
+    "TimePlayed": 14,
     "LastSeen": 1766080044
   },
   {
@@ -26856,7 +26856,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 27,
+    "TimePlayed": 31,
     "LastSeen": 1766083453
   }
 ]
