@@ -1704,7 +1704,7 @@
     "DisplayName": "설동원",
     "PlayersKilled": 10,
     "Deaths": 62,
-    "Headshots": 13,
+    "Headshots": 14,
     "KDR": 0.16,
     "ArrowKills": 3,
     "MeleeKills": 1,
@@ -1712,12 +1712,12 @@
     "RevolverKills": 0,
     "ShotgunKills": 4,
     "RifleKills": 0,
-    "AnimalKills": 6,
-    "NPCKills": 0,
+    "AnimalKills": 7,
+    "NPCKills": 1,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 39,
-    "PVEKillDistance": 11,
+    "PVEKillDistance": 12,
     "StructuresBuilt": 411,
     "StructuresRepaired": 2,
     "PlantsGathered": 835,
@@ -1730,7 +1730,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 97,
     "ClothesCrafted": 4,
-    "TimePlayed": 48,
+    "TimePlayed": 53,
     "LastSeen": 1766112464
   },
   {
@@ -2903,7 +2903,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 4,
-    "NPCKills": 2,
+    "NPCKills": 3,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 22,
@@ -2920,7 +2920,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 6,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1766112926
   },
   {
@@ -9303,7 +9303,7 @@
     "StructuresBuilt": 115,
     "StructuresRepaired": 16,
     "PlantsGathered": 260,
-    "WoodGathered": 37657,
+    "WoodGathered": 38325,
     "RocksGathered": 23079,
     "SulfurOreGathered": 4710,
     "MetalOreGathered": 12330,
@@ -9312,7 +9312,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 0,
-    "TimePlayed": 358,
+    "TimePlayed": 363,
     "LastSeen": 1766114525
   },
   {
@@ -27009,7 +27009,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 0,
-    "NPCKills": 2,
+    "NPCKills": 5,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
@@ -27026,7 +27026,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 88,
+    "TimePlayed": 93,
     "LastSeen": 1766110978
   },
   {
@@ -27237,7 +27237,7 @@
     "SteamID": "76561199693582538",
     "DisplayName": "응니얼굴",
     "PlayersKilled": 0,
-    "Deaths": 1,
+    "Deaths": 2,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -27264,7 +27264,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 13,
+    "TimePlayed": 0,
     "LastSeen": 1766116032
   }
 ]
