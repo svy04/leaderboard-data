@@ -26958,7 +26958,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 3,
+    "TimePlayed": 8,
     "LastSeen": 1766093573
   },
   {
@@ -27085,7 +27085,7 @@
     "StructuresBuilt": 6,
     "StructuresRepaired": 19,
     "PlantsGathered": 4,
-    "WoodGathered": 347,
+    "WoodGathered": 660,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
     "MetalOreGathered": 0,
@@ -27094,7 +27094,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 16,
+    "TimePlayed": 21,
     "LastSeen": 1766101550
   },
   {
@@ -27130,5 +27130,39 @@
     "ClothesCrafted": 1,
     "TimePlayed": 17,
     "LastSeen": 1766104096
+  },
+  {
+    "SteamID": "76561198083918967",
+    "DisplayName": "Yeet",
+    "PlayersKilled": 0,
+    "Deaths": 0,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 0,
+    "WoodGathered": 0,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 0,
+    "ClothesCrafted": 0,
+    "TimePlayed": 1,
+    "LastSeen": 1766106176
   }
 ]
