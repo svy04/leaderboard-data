@@ -24058,7 +24058,7 @@
     "PVEKillDistance": 17,
     "StructuresBuilt": 64,
     "StructuresRepaired": 13,
-    "PlantsGathered": 544,
+    "PlantsGathered": 551,
     "WoodGathered": 13188,
     "RocksGathered": 8809,
     "SulfurOreGathered": 719,
@@ -24066,9 +24066,9 @@
     "RocketsFired": 0,
     "ExplosivesThrown": 1,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 10,
+    "WeaponsCrafted": 12,
     "ClothesCrafted": 11,
-    "TimePlayed": 42,
+    "TimePlayed": 47,
     "LastSeen": 1766101832
   },
   {
@@ -26886,11 +26886,11 @@
     "SulfurOreGathered": 0,
     "MetalOreGathered": 0,
     "RocketsFired": 10,
-    "ExplosivesThrown": 40,
+    "ExplosivesThrown": 42,
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 4,
+    "TimePlayed": 9,
     "LastSeen": 1766099190
   },
   {
@@ -26912,11 +26912,11 @@
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 21,
-    "StructuresBuilt": 91,
+    "StructuresBuilt": 107,
     "StructuresRepaired": 0,
     "PlantsGathered": 68,
     "WoodGathered": 0,
-    "RocksGathered": 9750,
+    "RocksGathered": 10500,
     "SulfurOreGathered": 1200,
     "MetalOreGathered": 2500,
     "RocketsFired": 41,
@@ -26924,7 +26924,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 95,
+    "TimePlayed": 100,
     "LastSeen": 1766093573
   },
   {
@@ -26965,7 +26965,7 @@
     "SteamID": "76561198903924810",
     "DisplayName": "준영이형의 딱까리 2티",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -26992,7 +26992,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 2,
+    "TimePlayed": 0,
     "LastSeen": 1766096202
   },
   {
@@ -27048,9 +27048,9 @@
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 45,
-    "StructuresBuilt": 26,
+    "StructuresBuilt": 27,
     "StructuresRepaired": 0,
-    "PlantsGathered": 4,
+    "PlantsGathered": 8,
     "WoodGathered": 1259,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
@@ -27060,7 +27060,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1766100983
   },
   {
@@ -27093,8 +27093,8 @@
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
-    "ClothesCrafted": 0,
-    "TimePlayed": 9,
+    "ClothesCrafted": 1,
+    "TimePlayed": 14,
     "LastSeen": 1766101550
   }
 ]
