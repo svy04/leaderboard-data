@@ -1730,7 +1730,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 97,
     "ClothesCrafted": 4,
-    "TimePlayed": 43,
+    "TimePlayed": 48,
     "LastSeen": 1766112464
   },
   {
@@ -2903,7 +2903,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 4,
-    "NPCKills": 1,
+    "NPCKills": 2,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 22,
@@ -2920,7 +2920,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 6,
-    "TimePlayed": 3,
+    "TimePlayed": 8,
     "LastSeen": 1766112926
   },
   {
@@ -5205,9 +5205,9 @@
     "SteamID": "76561198071816888",
     "DisplayName": "HyunDdo",
     "PlayersKilled": 3,
-    "Deaths": 18,
+    "Deaths": 19,
     "Headshots": 11,
-    "KDR": 0.17,
+    "KDR": 0.16,
     "ArrowKills": 0,
     "MeleeKills": 2,
     "BladeKills": 0,
@@ -9312,7 +9312,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 0,
-    "TimePlayed": 353,
+    "TimePlayed": 358,
     "LastSeen": 1766114525
   },
   {
@@ -27009,11 +27009,11 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 0,
-    "NPCKills": 0,
+    "NPCKills": 2,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
-    "PVEKillDistance": 0,
+    "PVEKillDistance": 6,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 20,
@@ -27026,7 +27026,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 83,
+    "TimePlayed": 88,
     "LastSeen": 1766110978
   },
   {
@@ -27230,7 +27230,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 3,
     "LastSeen": 1766113357
   },
   {
@@ -27254,7 +27254,7 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 36,
+    "PlantsGathered": 38,
     "WoodGathered": 1211,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
@@ -27265,6 +27265,6 @@
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
     "TimePlayed": 13,
-    "LastSeen": 1766113867
+    "LastSeen": 1766116032
   }
 ]
