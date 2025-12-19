@@ -1730,7 +1730,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 97,
     "ClothesCrafted": 4,
-    "TimePlayed": 53,
+    "TimePlayed": 58,
     "LastSeen": 1766112464
   },
   {
@@ -2903,11 +2903,11 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 4,
-    "NPCKills": 3,
+    "NPCKills": 6,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 22,
-    "PVEKillDistance": 18,
+    "PVEKillDistance": 23,
     "StructuresBuilt": 81,
     "StructuresRepaired": 0,
     "PlantsGathered": 90,
@@ -2920,7 +2920,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 6,
-    "TimePlayed": 13,
+    "TimePlayed": 18,
     "LastSeen": 1766112926
   },
   {
@@ -9312,7 +9312,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 0,
-    "TimePlayed": 363,
+    "TimePlayed": 368,
     "LastSeen": 1766114525
   },
   {
@@ -26999,7 +26999,7 @@
     "SteamID": "76561198903924810",
     "DisplayName": "준영이형의 딱까리 2티",
     "PlayersKilled": 0,
-    "Deaths": 1,
+    "Deaths": 3,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -27026,7 +27026,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 93,
+    "TimePlayed": 0,
     "LastSeen": 1766110978
   },
   {
@@ -27266,5 +27266,39 @@
     "ClothesCrafted": 0,
     "TimePlayed": 0,
     "LastSeen": 1766116032
+  },
+  {
+    "SteamID": "76561198175157431",
+    "DisplayName": "시아",
+    "PlayersKilled": 0,
+    "Deaths": 0,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 4,
+    "WoodGathered": 103,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 0,
+    "ClothesCrafted": 0,
+    "TimePlayed": 4,
+    "LastSeen": 1766116587
   }
 ]
