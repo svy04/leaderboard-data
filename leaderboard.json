@@ -1718,7 +1718,7 @@
     "APCKills": 0,
     "PVPKillDistance": 39,
     "PVEKillDistance": 11,
-    "StructuresBuilt": 385,
+    "StructuresBuilt": 386,
     "StructuresRepaired": 2,
     "PlantsGathered": 835,
     "WoodGathered": 33421,
@@ -1730,7 +1730,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 96,
     "ClothesCrafted": 4,
-    "TimePlayed": 28,
+    "TimePlayed": 33,
     "LastSeen": 1766112464
   },
   {
@@ -2920,7 +2920,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 6,
-    "TimePlayed": 21,
+    "TimePlayed": 26,
     "LastSeen": 1766112926
   },
   {
@@ -5222,7 +5222,7 @@
     "PVEKillDistance": 44,
     "StructuresBuilt": 78,
     "StructuresRepaired": 0,
-    "PlantsGathered": 312,
+    "PlantsGathered": 317,
     "WoodGathered": 13417,
     "RocksGathered": 10226,
     "SulfurOreGathered": 400,
@@ -5232,7 +5232,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 5,
     "ClothesCrafted": 3,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1766113743
   },
   {
@@ -9312,7 +9312,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 0,
-    "TimePlayed": 338,
+    "TimePlayed": 343,
     "LastSeen": 1766114525
   },
   {
@@ -27026,7 +27026,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 68,
+    "TimePlayed": 73,
     "LastSeen": 1766110978
   },
   {
@@ -27230,14 +27230,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 28,
+    "TimePlayed": 33,
     "LastSeen": 1766113357
   },
   {
     "SteamID": "76561199693582538",
     "DisplayName": "응니얼굴",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -27254,8 +27254,8 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 0,
-    "WoodGathered": 811,
+    "PlantsGathered": 16,
+    "WoodGathered": 1211,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
     "MetalOreGathered": 0,
@@ -27264,7 +27264,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 19,
+    "TimePlayed": 3,
     "LastSeen": 1766113867
   }
 ]
