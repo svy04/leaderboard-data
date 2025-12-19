@@ -354,7 +354,7 @@
     "RifleKills": 22,
     "AnimalKills": 22,
     "NPCKills": 225,
-    "HelicopterKills": 1,
+    "HelicopterKills": 2,
     "APCKills": 3,
     "PVPKillDistance": 145,
     "PVEKillDistance": 287,
@@ -370,7 +370,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 78,
     "ClothesCrafted": 85,
-    "TimePlayed": 36,
+    "TimePlayed": 41,
     "LastSeen": 1766120919
   },
   {
@@ -438,7 +438,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 17,
     "ClothesCrafted": 50,
-    "TimePlayed": 4,
+    "TimePlayed": 9,
     "LastSeen": 1766121162
   },
   {
@@ -1152,7 +1152,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 347,
     "ClothesCrafted": 162,
-    "TimePlayed": 301,
+    "TimePlayed": 306,
     "LastSeen": 1766120898
   },
   {
@@ -1465,9 +1465,9 @@
     "SteamID": "76561198857208877",
     "DisplayName": "ESeongJun",
     "PlayersKilled": 12,
-    "Deaths": 33,
+    "Deaths": 34,
     "Headshots": 114,
-    "KDR": 0.36,
+    "KDR": 0.35,
     "ArrowKills": 0,
     "MeleeKills": 3,
     "BladeKills": 0,
@@ -1492,7 +1492,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 1,
-    "TimePlayed": 552,
+    "TimePlayed": 0,
     "LastSeen": 1765947727
   },
   {
@@ -11420,7 +11420,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 16,
     "ClothesCrafted": 3,
-    "TimePlayed": 41,
+    "TimePlayed": 46,
     "LastSeen": 1766121646
   },
   {
@@ -27026,7 +27026,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 3,
+    "TimePlayed": 8,
     "LastSeen": 1766110978
   },
   {
@@ -27434,7 +27434,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 3,
-    "TimePlayed": 53,
+    "TimePlayed": 58,
     "LastSeen": 1766118472
   },
   {
@@ -27468,7 +27468,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 32,
+    "TimePlayed": 37,
     "LastSeen": 1766118791
   },
   {
@@ -27502,14 +27502,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 26,
+    "TimePlayed": 31,
     "LastSeen": 1766119950
   },
   {
     "SteamID": "76561198805323544",
     "DisplayName": "Platz",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -27536,7 +27536,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 18,
+    "TimePlayed": 2,
     "LastSeen": 1766120543
   },
   {
@@ -27604,14 +27604,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 0,
-    "TimePlayed": 10,
+    "TimePlayed": 14,
     "LastSeen": 1766121704
   },
   {
     "SteamID": "76561198412804166",
     "DisplayName": "ash",
     "PlayersKilled": 0,
-    "Deaths": 5,
+    "Deaths": 6,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -27638,7 +27638,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 4,
     "LastSeen": 1766121147
   }
 ]
