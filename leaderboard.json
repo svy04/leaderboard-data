@@ -52,7 +52,7 @@
     "APCKills": 0,
     "PVPKillDistance": 138,
     "PVEKillDistance": 60,
-    "StructuresBuilt": 154,
+    "StructuresBuilt": 172,
     "StructuresRepaired": 29,
     "PlantsGathered": 1853,
     "WoodGathered": 55257,
@@ -64,7 +64,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 129,
     "ClothesCrafted": 114,
-    "TimePlayed": 164,
+    "TimePlayed": 169,
     "LastSeen": 1766296439
   },
   {
@@ -1288,7 +1288,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 241,
     "ClothesCrafted": 21,
-    "TimePlayed": 438,
+    "TimePlayed": 443,
     "LastSeen": 1766345776
   },
   {
@@ -2126,7 +2126,7 @@
     "APCKills": 0,
     "PVPKillDistance": 95,
     "PVEKillDistance": 57,
-    "StructuresBuilt": 712,
+    "StructuresBuilt": 716,
     "StructuresRepaired": 444,
     "PlantsGathered": 458,
     "WoodGathered": 10958,
@@ -2138,7 +2138,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 100,
     "ClothesCrafted": 69,
-    "TimePlayed": 123,
+    "TimePlayed": 128,
     "LastSeen": 1766338771
   },
   {
@@ -2418,7 +2418,7 @@
     "DisplayName": "COBALT_1",
     "PlayersKilled": 12,
     "Deaths": 52,
-    "Headshots": 61,
+    "Headshots": 62,
     "KDR": 0.23,
     "ArrowKills": 0,
     "MeleeKills": 1,
@@ -2427,7 +2427,7 @@
     "ShotgunKills": 0,
     "RifleKills": 5,
     "AnimalKills": 11,
-    "NPCKills": 102,
+    "NPCKills": 104,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 75,
@@ -2444,7 +2444,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 11,
-    "TimePlayed": 289,
+    "TimePlayed": 294,
     "LastSeen": 1766310854
   },
   {
@@ -4847,7 +4847,7 @@
     "PVPKillDistance": 88,
     "PVEKillDistance": 67,
     "StructuresBuilt": 96,
-    "StructuresRepaired": 41,
+    "StructuresRepaired": 51,
     "PlantsGathered": 367,
     "WoodGathered": 24451,
     "RocksGathered": 4500,
@@ -4858,7 +4858,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 4,
-    "TimePlayed": 111,
+    "TimePlayed": 116,
     "LastSeen": 1766349622
   },
   {
@@ -7068,7 +7068,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 6,
-    "TimePlayed": 4,
+    "TimePlayed": 9,
     "LastSeen": 1766364915
   },
   {
@@ -9348,6 +9348,40 @@
     "ClothesCrafted": 8,
     "TimePlayed": 0,
     "LastSeen": 1766314267
+  },
+  {
+    "SteamID": "76561199012781442",
+    "DisplayName": "zentle700",
+    "PlayersKilled": 1,
+    "Deaths": 19,
+    "Headshots": 1,
+    "KDR": 0.05,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 2,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 7,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 1,
+    "PVEKillDistance": 19,
+    "StructuresBuilt": 1,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 298,
+    "WoodGathered": 84424,
+    "RocksGathered": 104217,
+    "SulfurOreGathered": 33754,
+    "MetalOreGathered": 69085,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 2,
+    "ClothesCrafted": 0,
+    "TimePlayed": 127,
+    "LastSeen": 1766339043
   },
   {
     "SteamID": "76561199247066099",
@@ -11692,7 +11726,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 9,
-    "TimePlayed": 198,
+    "TimePlayed": 203,
     "LastSeen": 1766340910
   },
   {
@@ -16490,40 +16524,6 @@
     "LastSeen": 1766304935
   },
   {
-    "SteamID": "76561199012781442",
-    "DisplayName": "zentle700",
-    "PlayersKilled": 0,
-    "Deaths": 19,
-    "Headshots": 0,
-    "KDR": 0.0,
-    "ArrowKills": 0,
-    "MeleeKills": 0,
-    "BladeKills": 2,
-    "RevolverKills": 0,
-    "ShotgunKills": 0,
-    "RifleKills": 0,
-    "AnimalKills": 7,
-    "NPCKills": 0,
-    "HelicopterKills": 0,
-    "APCKills": 0,
-    "PVPKillDistance": 0,
-    "PVEKillDistance": 19,
-    "StructuresBuilt": 1,
-    "StructuresRepaired": 0,
-    "PlantsGathered": 298,
-    "WoodGathered": 84424,
-    "RocksGathered": 104217,
-    "SulfurOreGathered": 33754,
-    "MetalOreGathered": 69085,
-    "RocketsFired": 0,
-    "ExplosivesThrown": 0,
-    "PlayersHealed": 0,
-    "WeaponsCrafted": 2,
-    "ClothesCrafted": 0,
-    "TimePlayed": 122,
-    "LastSeen": 1766339043
-  },
-  {
     "SteamID": "76561198873881804",
     "DisplayName": "eumeum",
     "PlayersKilled": 0,
@@ -18356,7 +18356,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 30,
     "ClothesCrafted": 24,
-    "TimePlayed": 71,
+    "TimePlayed": 76,
     "LastSeen": 1766363400
   },
   {
@@ -25258,7 +25258,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 14,
-    "TimePlayed": 39,
+    "TimePlayed": 44,
     "LastSeen": 1766354643
   },
   {
@@ -26523,7 +26523,7 @@
     "SteamID": "76561198386589010",
     "DisplayName": "CRAZY",
     "PlayersKilled": 0,
-    "Deaths": 21,
+    "Deaths": 22,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -26550,7 +26550,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 0,
-    "TimePlayed": 13,
+    "TimePlayed": 1,
     "LastSeen": 1766366440
   },
   {
@@ -30773,7 +30773,7 @@
     "SteamID": "76561198148811410",
     "DisplayName": "하늘",
     "PlayersKilled": 0,
-    "Deaths": 2,
+    "Deaths": 3,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -30800,7 +30800,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 1,
-    "TimePlayed": 147,
+    "TimePlayed": 3,
     "LastSeen": 1766346853
   },
   {
@@ -30902,7 +30902,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 195,
+    "TimePlayed": 200,
     "LastSeen": 1766357522
   },
   {
@@ -31004,7 +31004,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 41,
+    "TimePlayed": 46,
     "LastSeen": 1766365478
   },
   {
@@ -31038,7 +31038,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 6,
     "LastSeen": 1766365490
   },
   {
