@@ -25,12 +25,12 @@
     "RocksGathered": 53186,
     "SulfurOreGathered": 33493,
     "MetalOreGathered": 77935,
-    "RocketsFired": 104,
+    "RocketsFired": 105,
     "ExplosivesThrown": 182,
     "PlayersHealed": 0,
     "WeaponsCrafted": 146,
     "ClothesCrafted": 124,
-    "TimePlayed": 32,
+    "TimePlayed": 37,
     "LastSeen": 1766566937
   },
   {
@@ -3464,7 +3464,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 18,
     "ClothesCrafted": 11,
-    "TimePlayed": 53,
+    "TimePlayed": 55,
     "LastSeen": 1766571580
   },
   {
@@ -34631,7 +34631,7 @@
     "PVPKillDistance": 2,
     "PVEKillDistance": 32,
     "StructuresBuilt": 229,
-    "StructuresRepaired": 15,
+    "StructuresRepaired": 16,
     "PlantsGathered": 185,
     "WoodGathered": 28101,
     "RocksGathered": 39957,
@@ -34642,7 +34642,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 0,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1766566903
   },
   {
@@ -34914,7 +34914,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 1,
     "ClothesCrafted": 3,
-    "TimePlayed": 121,
+    "TimePlayed": 126,
     "LastSeen": 1766574232
   },
   {
@@ -35086,5 +35086,39 @@
     "ClothesCrafted": 0,
     "TimePlayed": 4,
     "LastSeen": 1766567306
+  },
+  {
+    "SteamID": "76561198140330102",
+    "DisplayName": "Huge Sausage",
+    "PlayersKilled": 0,
+    "Deaths": 0,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 0,
+    "WoodGathered": 85,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 0,
+    "ClothesCrafted": 0,
+    "TimePlayed": 1,
+    "LastSeen": 1766574968
   }
 ]
