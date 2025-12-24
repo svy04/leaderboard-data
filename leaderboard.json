@@ -3022,7 +3022,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 35,
     "ClothesCrafted": 8,
-    "TimePlayed": 36,
+    "TimePlayed": 41,
     "LastSeen": 1766551022
   },
   {
@@ -3287,14 +3287,14 @@
     "PlantsGathered": 787,
     "WoodGathered": 124412,
     "RocksGathered": 123731,
-    "SulfurOreGathered": 73008,
+    "SulfurOreGathered": 73208,
     "MetalOreGathered": 131674,
     "RocketsFired": 51,
     "ExplosivesThrown": 17,
     "PlayersHealed": 0,
     "WeaponsCrafted": 59,
     "ClothesCrafted": 14,
-    "TimePlayed": 179,
+    "TimePlayed": 184,
     "LastSeen": 1766552659
   },
   {
@@ -4491,9 +4491,9 @@
     "SteamID": "76561199198009581",
     "DisplayName": "akula\"\"",
     "PlayersKilled": 6,
-    "Deaths": 80,
-    "Headshots": 44,
-    "KDR": 0.08,
+    "Deaths": 81,
+    "Headshots": 49,
+    "KDR": 0.07,
     "ArrowKills": 1,
     "MeleeKills": 1,
     "BladeKills": 1,
@@ -4501,7 +4501,7 @@
     "ShotgunKills": 1,
     "RifleKills": 2,
     "AnimalKills": 4,
-    "NPCKills": 42,
+    "NPCKills": 49,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 37,
@@ -4518,7 +4518,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 182,
     "ClothesCrafted": 53,
-    "TimePlayed": 24,
+    "TimePlayed": 2,
     "LastSeen": 1766549680
   },
   {
@@ -10502,7 +10502,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 8,
     "ClothesCrafted": 2,
-    "TimePlayed": 39,
+    "TimePlayed": 44,
     "LastSeen": 1766555503
   },
   {
@@ -19705,7 +19705,7 @@
     "PVPKillDistance": 0,
     "PVEKillDistance": 61,
     "StructuresBuilt": 212,
-    "StructuresRepaired": 26,
+    "StructuresRepaired": 31,
     "PlantsGathered": 293,
     "WoodGathered": 52966,
     "RocksGathered": 45254,
@@ -19716,7 +19716,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 112,
     "ClothesCrafted": 35,
-    "TimePlayed": 32,
+    "TimePlayed": 37,
     "LastSeen": 1766535578
   },
   {
@@ -34057,14 +34057,14 @@
     "PlantsGathered": 116,
     "WoodGathered": 6344,
     "RocksGathered": 3939,
-    "SulfurOreGathered": 400,
+    "SulfurOreGathered": 600,
     "MetalOreGathered": 0,
     "RocketsFired": 0,
     "ExplosivesThrown": 4,
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 21,
+    "TimePlayed": 26,
     "LastSeen": 1766547089
   },
   {
@@ -34132,7 +34132,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 51,
+    "TimePlayed": 56,
     "LastSeen": 1766555955
   },
   {
@@ -34887,7 +34887,7 @@
     "SteamID": "76561199264525072",
     "DisplayName": "ocrk783219",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 4,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -34914,7 +34914,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 8,
+    "TimePlayed": 0,
     "LastSeen": 1766555631
   }
 ]
