@@ -309,9 +309,9 @@
     "SteamID": "76561199818357384",
     "DisplayName": "realgang",
     "PlayersKilled": 44,
-    "Deaths": 67,
+    "Deaths": 68,
     "Headshots": 95,
-    "KDR": 0.66,
+    "KDR": 0.65,
     "ArrowKills": 3,
     "MeleeKills": 7,
     "BladeKills": 2,
@@ -336,7 +336,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 111,
     "ClothesCrafted": 37,
-    "TimePlayed": 1,
+    "TimePlayed": 0,
     "LastSeen": 1766411679
   },
   {
@@ -3022,7 +3022,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 35,
     "ClothesCrafted": 3,
-    "TimePlayed": 9,
+    "TimePlayed": 14,
     "LastSeen": 1766551022
   },
   {
@@ -4518,7 +4518,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 182,
     "ClothesCrafted": 51,
-    "TimePlayed": 29,
+    "TimePlayed": 34,
     "LastSeen": 1766549680
   },
   {
@@ -19716,7 +19716,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 55,
     "ClothesCrafted": 35,
-    "TimePlayed": 45,
+    "TimePlayed": 50,
     "LastSeen": 1766535578
   },
   {
@@ -34064,7 +34064,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 28,
+    "TimePlayed": 33,
     "LastSeen": 1766547089
   },
   {
@@ -34275,7 +34275,7 @@
     "SteamID": "76561198058438385",
     "DisplayName": "매듭달하루",
     "PlayersKilled": 0,
-    "Deaths": 8,
+    "Deaths": 9,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -34848,5 +34848,39 @@
     "ClothesCrafted": 0,
     "TimePlayed": 60,
     "LastSeen": 1766545611
+  },
+  {
+    "SteamID": "76561199002213695",
+    "DisplayName": "aDuckOnQuack",
+    "PlayersKilled": 0,
+    "Deaths": 0,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 0,
+    "WoodGathered": 0,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 0,
+    "ClothesCrafted": 0,
+    "TimePlayed": 1,
+    "LastSeen": 1766551639
   }
 ]
