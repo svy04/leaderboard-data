@@ -2996,14 +2996,14 @@
     "DisplayName": "noa",
     "PlayersKilled": 11,
     "Deaths": 88,
-    "Headshots": 87,
+    "Headshots": 88,
     "KDR": 0.12,
     "ArrowKills": 24,
     "MeleeKills": 7,
     "BladeKills": 2,
     "RevolverKills": 2,
     "ShotgunKills": 3,
-    "RifleKills": 13,
+    "RifleKills": 14,
     "AnimalKills": 1,
     "NPCKills": 54,
     "HelicopterKills": 0,
@@ -3022,7 +3022,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 35,
     "ClothesCrafted": 8,
-    "TimePlayed": 3,
+    "TimePlayed": 8,
     "LastSeen": 1766551022
   },
   {
@@ -3294,7 +3294,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 59,
     "ClothesCrafted": 14,
-    "TimePlayed": 189,
+    "TimePlayed": 194,
     "LastSeen": 1766552659
   },
   {
@@ -4492,7 +4492,7 @@
     "DisplayName": "akula\"\"",
     "PlayersKilled": 6,
     "Deaths": 81,
-    "Headshots": 49,
+    "Headshots": 52,
     "KDR": 0.07,
     "ArrowKills": 1,
     "MeleeKills": 1,
@@ -4501,7 +4501,7 @@
     "ShotgunKills": 1,
     "RifleKills": 2,
     "AnimalKills": 4,
-    "NPCKills": 49,
+    "NPCKills": 52,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 37,
@@ -4518,7 +4518,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 182,
     "ClothesCrafted": 53,
-    "TimePlayed": 7,
+    "TimePlayed": 12,
     "LastSeen": 1766549680
   },
   {
@@ -10502,7 +10502,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 8,
     "ClothesCrafted": 2,
-    "TimePlayed": 49,
+    "TimePlayed": 54,
     "LastSeen": 1766555503
   },
   {
@@ -19704,7 +19704,7 @@
     "APCKills": 0,
     "PVPKillDistance": 2,
     "PVEKillDistance": 61,
-    "StructuresBuilt": 212,
+    "StructuresBuilt": 215,
     "StructuresRepaired": 31,
     "PlantsGathered": 293,
     "WoodGathered": 52966,
@@ -19716,7 +19716,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 112,
     "ClothesCrafted": 35,
-    "TimePlayed": 42,
+    "TimePlayed": 47,
     "LastSeen": 1766535578
   },
   {
@@ -34037,7 +34037,7 @@
     "SteamID": "76561199485592235",
     "DisplayName": "wondamboy",
     "PlayersKilled": 0,
-    "Deaths": 6,
+    "Deaths": 7,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -34054,8 +34054,8 @@
     "PVEKillDistance": 44,
     "StructuresBuilt": 46,
     "StructuresRepaired": 1,
-    "PlantsGathered": 124,
-    "WoodGathered": 7094,
+    "PlantsGathered": 126,
+    "WoodGathered": 9270,
     "RocksGathered": 3939,
     "SulfurOreGathered": 600,
     "MetalOreGathered": 0,
@@ -34064,7 +34064,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 31,
+    "TimePlayed": 5,
     "LastSeen": 1766547089
   },
   {
@@ -34132,7 +34132,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 61,
+    "TimePlayed": 66,
     "LastSeen": 1766555955
   },
   {
@@ -34632,7 +34632,7 @@
     "PVEKillDistance": 32,
     "StructuresBuilt": 11,
     "StructuresRepaired": 0,
-    "PlantsGathered": 121,
+    "PlantsGathered": 133,
     "WoodGathered": 18180,
     "RocksGathered": 24890,
     "SulfurOreGathered": 344,
@@ -34642,7 +34642,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 0,
-    "TimePlayed": 2,
+    "TimePlayed": 7,
     "LastSeen": 1766556435
   },
   {
@@ -34914,7 +34914,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 5,
+    "TimePlayed": 10,
     "LastSeen": 1766555631
   }
 ]
