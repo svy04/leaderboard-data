@@ -3289,12 +3289,12 @@
     "RocksGathered": 117431,
     "SulfurOreGathered": 71408,
     "MetalOreGathered": 131674,
-    "RocketsFired": 47,
-    "ExplosivesThrown": 15,
+    "RocketsFired": 51,
+    "ExplosivesThrown": 17,
     "PlayersHealed": 0,
     "WeaponsCrafted": 59,
     "ClothesCrafted": 14,
-    "TimePlayed": 96,
+    "TimePlayed": 101,
     "LastSeen": 1766545040
   },
   {
@@ -9455,7 +9455,7 @@
     "SteamID": "76561198864916835",
     "DisplayName": "오덕생존가",
     "PlayersKilled": 1,
-    "Deaths": 46,
+    "Deaths": 47,
     "Headshots": 8,
     "KDR": 0.02,
     "ArrowKills": 0,
@@ -9482,7 +9482,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 22,
     "ClothesCrafted": 8,
-    "TimePlayed": 225,
+    "TimePlayed": 0,
     "LastSeen": 1766492248
   },
   {
@@ -19705,7 +19705,7 @@
     "PVPKillDistance": 0,
     "PVEKillDistance": 49,
     "StructuresBuilt": 212,
-    "StructuresRepaired": 14,
+    "StructuresRepaired": 16,
     "PlantsGathered": 284,
     "WoodGathered": 49691,
     "RocksGathered": 45254,
@@ -19715,8 +19715,8 @@
     "ExplosivesThrown": 1,
     "PlayersHealed": 0,
     "WeaponsCrafted": 37,
-    "ClothesCrafted": 34,
-    "TimePlayed": 71,
+    "ClothesCrafted": 35,
+    "TimePlayed": 76,
     "LastSeen": 1766535578
   },
   {
@@ -34055,7 +34055,7 @@
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 72,
-    "WoodGathered": 2601,
+    "WoodGathered": 2673,
     "RocksGathered": 1331,
     "SulfurOreGathered": 0,
     "MetalOreGathered": 0,
@@ -34064,7 +34064,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 40,
+    "TimePlayed": 45,
     "LastSeen": 1766547089
   },
   {
@@ -34828,7 +34828,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 0,
-    "AnimalKills": 0,
+    "AnimalKills": 1,
     "NPCKills": 0,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -34846,7 +34846,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 33,
+    "TimePlayed": 38,
     "LastSeen": 1766545611
   }
 ]
