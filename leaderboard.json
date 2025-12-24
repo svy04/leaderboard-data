@@ -25,12 +25,12 @@
     "RocksGathered": 53186,
     "SulfurOreGathered": 33493,
     "MetalOreGathered": 77935,
-    "RocketsFired": 117,
+    "RocketsFired": 123,
     "ExplosivesThrown": 185,
     "PlayersHealed": 0,
     "WeaponsCrafted": 146,
     "ClothesCrafted": 124,
-    "TimePlayed": 17,
+    "TimePlayed": 22,
     "LastSeen": 1766566937
   },
   {
@@ -19698,7 +19698,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 1,
-    "AnimalKills": 21,
+    "AnimalKills": 22,
     "NPCKills": 103,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -19716,7 +19716,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 112,
     "ClothesCrafted": 35,
-    "TimePlayed": 106,
+    "TimePlayed": 111,
     "LastSeen": 1766576515
   },
   {
@@ -34632,9 +34632,9 @@
     "PVEKillDistance": 32,
     "StructuresBuilt": 439,
     "StructuresRepaired": 16,
-    "PlantsGathered": 209,
-    "WoodGathered": 32377,
-    "RocksGathered": 46744,
+    "PlantsGathered": 217,
+    "WoodGathered": 32767,
+    "RocksGathered": 47325,
     "SulfurOreGathered": 825,
     "MetalOreGathered": 9904,
     "RocketsFired": 0,
@@ -34642,7 +34642,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 0,
-    "TimePlayed": 68,
+    "TimePlayed": 73,
     "LastSeen": 1766566903
   },
   {
@@ -34676,7 +34676,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 4,
-    "TimePlayed": 6,
+    "TimePlayed": 11,
     "LastSeen": 1766575502
   },
   {
@@ -35125,7 +35125,7 @@
     "SteamID": "76561198010917652",
     "DisplayName": "주너니",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -35142,7 +35142,7 @@
     "PVEKillDistance": 1,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 0,
+    "PlantsGathered": 6,
     "WoodGathered": 0,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
@@ -35176,8 +35176,8 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 0,
-    "WoodGathered": 0,
+    "PlantsGathered": 8,
+    "WoodGathered": 125,
     "RocksGathered": 0,
     "SulfurOreGathered": 0,
     "MetalOreGathered": 0,
@@ -35186,7 +35186,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 6,
     "LastSeen": 1766579383
   }
 ]
