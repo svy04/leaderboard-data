@@ -12,7 +12,7 @@
     "RevolverKills": 34,
     "ShotgunKills": 7,
     "RifleKills": 21,
-    "AnimalKills": 105,
+    "AnimalKills": 106,
     "NPCKills": 103,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -26,11 +26,11 @@
     "SulfurOreGathered": 33493,
     "MetalOreGathered": 77935,
     "RocketsFired": 172,
-    "ExplosivesThrown": 212,
+    "ExplosivesThrown": 217,
     "PlayersHealed": 0,
     "WeaponsCrafted": 146,
     "ClothesCrafted": 124,
-    "TimePlayed": 40,
+    "TimePlayed": 45,
     "LastSeen": 1766566937
   },
   {
@@ -19698,7 +19698,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 2,
-    "AnimalKills": 23,
+    "AnimalKills": 24,
     "NPCKills": 142,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -19706,7 +19706,7 @@
     "PVEKillDistance": 61,
     "StructuresBuilt": 279,
     "StructuresRepaired": 57,
-    "PlantsGathered": 326,
+    "PlantsGathered": 336,
     "WoodGathered": 71330,
     "RocksGathered": 59772,
     "SulfurOreGathered": 25534,
@@ -19716,7 +19716,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 113,
     "ClothesCrafted": 35,
-    "TimePlayed": 14,
+    "TimePlayed": 19,
     "LastSeen": 1766583244
   },
   {
@@ -22470,7 +22470,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 14,
     "ClothesCrafted": 3,
-    "TimePlayed": 12,
+    "TimePlayed": 16,
     "LastSeen": 1766583511
   },
   {
@@ -22640,7 +22640,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 12,
+    "TimePlayed": 16,
     "LastSeen": 1766584404
   },
   {
@@ -25326,7 +25326,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 22,
+    "TimePlayed": 27,
     "LastSeen": 1766587770
   },
   {
@@ -34642,7 +34642,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 4,
-    "TimePlayed": 0,
+    "TimePlayed": 5,
     "LastSeen": 1766566903
   },
   {
@@ -34676,7 +34676,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 4,
-    "TimePlayed": 116,
+    "TimePlayed": 121,
     "LastSeen": 1766575502
   },
   {
@@ -35152,7 +35152,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 0,
-    "TimePlayed": 143,
+    "TimePlayed": 148,
     "LastSeen": 1766581223
   },
   {
@@ -35220,7 +35220,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 107,
+    "TimePlayed": 112,
     "LastSeen": 1766581883
   },
   {
@@ -35254,7 +35254,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 107,
+    "TimePlayed": 112,
     "LastSeen": 1766581890
   },
   {
@@ -35322,7 +35322,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 6,
+    "TimePlayed": 10,
     "LastSeen": 1766583531
   },
   {
@@ -35388,9 +35388,77 @@
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
+    "WeaponsCrafted": 2,
+    "ClothesCrafted": 0,
+    "TimePlayed": 15,
+    "LastSeen": 1766587160
+  },
+  {
+    "SteamID": "76561198987385170",
+    "DisplayName": "inde",
+    "PlayersKilled": 0,
+    "Deaths": 0,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 0,
+    "WoodGathered": 0,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 10,
-    "LastSeen": 1766587160
+    "TimePlayed": 2,
+    "LastSeen": 1766588482
+  },
+  {
+    "SteamID": "76561198318205299",
+    "DisplayName": "ICE Bear",
+    "PlayersKilled": 0,
+    "Deaths": 0,
+    "Headshots": 0,
+    "KDR": 0.0,
+    "ArrowKills": 0,
+    "MeleeKills": 0,
+    "BladeKills": 0,
+    "RevolverKills": 0,
+    "ShotgunKills": 0,
+    "RifleKills": 0,
+    "AnimalKills": 0,
+    "NPCKills": 0,
+    "HelicopterKills": 0,
+    "APCKills": 0,
+    "PVPKillDistance": 0,
+    "PVEKillDistance": 0,
+    "StructuresBuilt": 0,
+    "StructuresRepaired": 0,
+    "PlantsGathered": 0,
+    "WoodGathered": 145,
+    "RocksGathered": 0,
+    "SulfurOreGathered": 0,
+    "MetalOreGathered": 0,
+    "RocketsFired": 0,
+    "ExplosivesThrown": 0,
+    "PlayersHealed": 0,
+    "WeaponsCrafted": 0,
+    "ClothesCrafted": 0,
+    "TimePlayed": 2,
+    "LastSeen": 1766588522
   }
 ]
