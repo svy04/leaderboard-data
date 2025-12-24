@@ -3022,7 +3022,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 35,
     "ClothesCrafted": 8,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1766551022
   },
   {
@@ -3276,7 +3276,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 3,
     "RifleKills": 22,
-    "AnimalKills": 25,
+    "AnimalKills": 26,
     "NPCKills": 103,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -3294,7 +3294,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 59,
     "ClothesCrafted": 14,
-    "TimePlayed": 8,
+    "TimePlayed": 13,
     "LastSeen": 1766552659
   },
   {
@@ -4492,7 +4492,7 @@
     "DisplayName": "akula\"\"",
     "PlayersKilled": 6,
     "Deaths": 85,
-    "Headshots": 63,
+    "Headshots": 67,
     "KDR": 0.07,
     "ArrowKills": 1,
     "MeleeKills": 1,
@@ -4501,7 +4501,7 @@
     "ShotgunKills": 1,
     "RifleKills": 2,
     "AnimalKills": 4,
-    "NPCKills": 66,
+    "NPCKills": 70,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 37,
@@ -4517,8 +4517,8 @@
     "ExplosivesThrown": 49,
     "PlayersHealed": 0,
     "WeaponsCrafted": 182,
-    "ClothesCrafted": 53,
-    "TimePlayed": 12,
+    "ClothesCrafted": 56,
+    "TimePlayed": 17,
     "LastSeen": 1766549680
   },
   {
@@ -10502,7 +10502,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 8,
     "ClothesCrafted": 2,
-    "TimePlayed": 18,
+    "TimePlayed": 23,
     "LastSeen": 1766555503
   },
   {
@@ -34056,15 +34056,15 @@
     "StructuresRepaired": 1,
     "PlantsGathered": 126,
     "WoodGathered": 9270,
-    "RocksGathered": 4165,
-    "SulfurOreGathered": 800,
+    "RocksGathered": 4240,
+    "SulfurOreGathered": 1000,
     "MetalOreGathered": 500,
     "RocketsFired": 0,
     "ExplosivesThrown": 8,
     "PlayersHealed": 0,
     "WeaponsCrafted": 8,
     "ClothesCrafted": 0,
-    "TimePlayed": 10,
+    "TimePlayed": 15,
     "LastSeen": 1766547089
   },
   {
@@ -34132,7 +34132,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 39,
+    "TimePlayed": 44,
     "LastSeen": 1766555955
   },
   {
@@ -34624,7 +34624,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 1,
     "RifleKills": 1,
-    "AnimalKills": 12,
+    "AnimalKills": 13,
     "NPCKills": 10,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -34642,7 +34642,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 0,
-    "TimePlayed": 47,
+    "TimePlayed": 52,
     "LastSeen": 1766556435
   },
   {
@@ -34676,7 +34676,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 1,
-    "TimePlayed": 4,
+    "TimePlayed": 9,
     "LastSeen": 1766557763
   },
   {
@@ -34914,7 +34914,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 2,
-    "TimePlayed": 39,
+    "TimePlayed": 44,
     "LastSeen": 1766555631
   }
 ]
