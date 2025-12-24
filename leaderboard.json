@@ -12,12 +12,12 @@
     "RevolverKills": 34,
     "ShotgunKills": 7,
     "RifleKills": 15,
-    "AnimalKills": 98,
+    "AnimalKills": 99,
     "NPCKills": 101,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 372,
-    "PVEKillDistance": 83,
+    "PVEKillDistance": 303,
     "StructuresBuilt": 307,
     "StructuresRepaired": 32,
     "PlantsGathered": 2428,
@@ -26,11 +26,11 @@
     "SulfurOreGathered": 33493,
     "MetalOreGathered": 77935,
     "RocketsFired": 104,
-    "ExplosivesThrown": 178,
+    "ExplosivesThrown": 182,
     "PlayersHealed": 0,
     "WeaponsCrafted": 146,
     "ClothesCrafted": 124,
-    "TimePlayed": 12,
+    "TimePlayed": 17,
     "LastSeen": 1766566937
   },
   {
@@ -343,9 +343,9 @@
     "SteamID": "76561198340983522",
     "DisplayName": "ohsi1023",
     "PlayersKilled": 43,
-    "Deaths": 85,
+    "Deaths": 86,
     "Headshots": 55,
-    "KDR": 0.51,
+    "KDR": 0.5,
     "ArrowKills": 3,
     "MeleeKills": 1,
     "BladeKills": 0,
@@ -370,7 +370,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 91,
     "ClothesCrafted": 105,
-    "TimePlayed": 4,
+    "TimePlayed": 0,
     "LastSeen": 1766567739
   },
   {
@@ -3464,7 +3464,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 18,
     "ClothesCrafted": 11,
-    "TimePlayed": 33,
+    "TimePlayed": 38,
     "LastSeen": 1766571580
   },
   {
@@ -34631,7 +34631,7 @@
     "PVPKillDistance": 2,
     "PVEKillDistance": 32,
     "StructuresBuilt": 228,
-    "StructuresRepaired": 13,
+    "StructuresRepaired": 15,
     "PlantsGathered": 185,
     "WoodGathered": 28101,
     "RocksGathered": 39957,
@@ -34642,7 +34642,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 4,
     "ClothesCrafted": 0,
-    "TimePlayed": 15,
+    "TimePlayed": 20,
     "LastSeen": 1766566903
   },
   {
