@@ -1703,9 +1703,9 @@
     "SteamID": "76561199124550819",
     "DisplayName": "KR-Jin",
     "PlayersKilled": 17,
-    "Deaths": 69,
+    "Deaths": 70,
     "Headshots": 27,
-    "KDR": 0.25,
+    "KDR": 0.24,
     "ArrowKills": 2,
     "MeleeKills": 1,
     "BladeKills": 2,
@@ -1730,7 +1730,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
     "ClothesCrafted": 13,
-    "TimePlayed": 41,
+    "TimePlayed": 0,
     "LastSeen": 1766489763
   },
   {
@@ -12500,15 +12500,15 @@
     "StructuresRepaired": 32,
     "PlantsGathered": 306,
     "WoodGathered": 46960,
-    "RocksGathered": 63919,
-    "SulfurOreGathered": 1025,
-    "MetalOreGathered": 10404,
+    "RocksGathered": 64669,
+    "SulfurOreGathered": 1053,
+    "MetalOreGathered": 10904,
     "RocketsFired": 0,
     "ExplosivesThrown": 6,
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
     "ClothesCrafted": 6,
-    "TimePlayed": 182,
+    "TimePlayed": 187,
     "LastSeen": 1766673481
   },
   {
@@ -22512,7 +22512,7 @@
     "DisplayName": "Dshater",
     "PlayersKilled": 0,
     "Deaths": 21,
-    "Headshots": 15,
+    "Headshots": 16,
     "KDR": 0.0,
     "ArrowKills": 0,
     "MeleeKills": 0,
@@ -22521,7 +22521,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 2,
-    "NPCKills": 21,
+    "NPCKills": 23,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
@@ -22538,7 +22538,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 15,
     "ClothesCrafted": 3,
-    "TimePlayed": 74,
+    "TimePlayed": 79,
     "LastSeen": 1766669570
   },
   {
@@ -22946,7 +22946,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 0,
-    "TimePlayed": 19,
+    "TimePlayed": 24,
     "LastSeen": 1766665904
   },
   {
@@ -35305,7 +35305,7 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 0,
-    "NPCKills": 7,
+    "NPCKills": 8,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
@@ -35322,7 +35322,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 95,
+    "TimePlayed": 100,
     "LastSeen": 1766669625
   },
   {
@@ -35363,7 +35363,7 @@
     "SteamID": "76561198968685054",
     "DisplayName": "Tuấn Anh",
     "PlayersKilled": 0,
-    "Deaths": 5,
+    "Deaths": 6,
     "Headshots": 1,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -35386,11 +35386,11 @@
     "SulfurOreGathered": 717,
     "MetalOreGathered": 2276,
     "RocketsFired": 0,
-    "ExplosivesThrown": 0,
+    "ExplosivesThrown": 4,
     "PlayersHealed": 0,
     "WeaponsCrafted": 3,
     "ClothesCrafted": 0,
-    "TimePlayed": 6,
+    "TimePlayed": 2,
     "LastSeen": 1766672951
   },
   {
@@ -35730,7 +35730,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 22,
+    "TimePlayed": 27,
     "LastSeen": 1766673266
   },
   {
@@ -35764,7 +35764,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 6,
     "LastSeen": 1766673820
   },
   {
@@ -35789,16 +35789,16 @@
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 0,
-    "WoodGathered": 28,
+    "WoodGathered": 95,
     "RocksGathered": 0,
-    "SulfurOreGathered": 4,
-    "MetalOreGathered": 0,
+    "SulfurOreGathered": 7,
+    "MetalOreGathered": 138,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 6,
     "LastSeen": 1766674656
   }
 ]
