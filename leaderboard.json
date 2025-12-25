@@ -7306,7 +7306,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 8,
-    "TimePlayed": 27,
+    "TimePlayed": 32,
     "LastSeen": 1766689573
   },
   {
@@ -34710,7 +34710,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 62,
     "ClothesCrafted": 4,
-    "TimePlayed": 39,
+    "TimePlayed": 44,
     "LastSeen": 1766689578
   },
   {
@@ -35907,7 +35907,7 @@
     "SteamID": "76561198271912621",
     "DisplayName": "bas",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -35924,17 +35924,17 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 2,
-    "WoodGathered": 343,
-    "RocksGathered": 375,
+    "PlantsGathered": 4,
+    "WoodGathered": 625,
+    "RocksGathered": 956,
     "SulfurOreGathered": 0,
-    "MetalOreGathered": 0,
+    "MetalOreGathered": 1165,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 10,
+    "TimePlayed": 0,
     "LastSeen": 1766689502
   }
 ]
