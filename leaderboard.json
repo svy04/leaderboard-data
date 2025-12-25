@@ -8768,7 +8768,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
     "ClothesCrafted": 8,
-    "TimePlayed": 94,
+    "TimePlayed": 99,
     "LastSeen": 1766679419
   },
   {
@@ -34710,7 +34710,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 62,
     "ClothesCrafted": 4,
-    "TimePlayed": 48,
+    "TimePlayed": 53,
     "LastSeen": 1766682201
   },
   {
@@ -35679,11 +35679,11 @@
     "ShotgunKills": 0,
     "RifleKills": 0,
     "AnimalKills": 1,
-    "NPCKills": 1,
+    "NPCKills": 8,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
-    "PVEKillDistance": 33,
+    "PVEKillDistance": 51,
     "StructuresBuilt": 42,
     "StructuresRepaired": 0,
     "PlantsGathered": 34,
@@ -35696,7 +35696,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 19,
+    "TimePlayed": 24,
     "LastSeen": 1766682135
   },
   {
@@ -35866,14 +35866,14 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 7,
+    "TimePlayed": 11,
     "LastSeen": 1766686026
   },
   {
     "SteamID": "76561199235955232",
     "DisplayName": "scouter",
     "PlayersKilled": 0,
-    "Deaths": 1,
+    "Deaths": 3,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -35900,7 +35900,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 0,
     "LastSeen": 1766686033
   }
 ]
