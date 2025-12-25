@@ -982,7 +982,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 5,
-    "TimePlayed": 0,
+    "TimePlayed": 3,
     "LastSeen": 1766679110
   },
   {
@@ -4389,9 +4389,9 @@
     "SteamID": "76561199351442843",
     "DisplayName": "DarkMan",
     "PlayersKilled": 7,
-    "Deaths": 39,
+    "Deaths": 41,
     "Headshots": 21,
-    "KDR": 0.18,
+    "KDR": 0.17,
     "ArrowKills": 0,
     "MeleeKills": 0,
     "BladeKills": 0,
@@ -4416,7 +4416,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 26,
     "ClothesCrafted": 4,
-    "TimePlayed": 4,
+    "TimePlayed": 1,
     "LastSeen": 1766675237
   },
   {
@@ -8758,7 +8758,7 @@
     "PVEKillDistance": 106,
     "StructuresBuilt": 608,
     "StructuresRepaired": 40,
-    "PlantsGathered": 308,
+    "PlantsGathered": 322,
     "WoodGathered": 53389,
     "RocksGathered": 64669,
     "SulfurOreGathered": 1053,
@@ -8768,7 +8768,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
     "ClothesCrafted": 8,
-    "TimePlayed": 60,
+    "TimePlayed": 65,
     "LastSeen": 1766673481
   },
   {
@@ -11238,7 +11238,7 @@
     "APCKills": 0,
     "PVPKillDistance": 5,
     "PVEKillDistance": 0,
-    "StructuresBuilt": 57,
+    "StructuresBuilt": 62,
     "StructuresRepaired": 10,
     "PlantsGathered": 248,
     "WoodGathered": 13755,
@@ -11250,7 +11250,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 14,
     "ClothesCrafted": 10,
-    "TimePlayed": 165,
+    "TimePlayed": 170,
     "LastSeen": 1766678047
   },
   {
@@ -35730,7 +35730,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 6,
+    "TimePlayed": 11,
     "LastSeen": 1766673266
   },
   {
@@ -35764,7 +35764,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 21,
+    "TimePlayed": 26,
     "LastSeen": 1766673820
   },
   {
@@ -35786,7 +35786,7 @@
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 0,
-    "StructuresBuilt": 5,
+    "StructuresBuilt": 6,
     "StructuresRepaired": 0,
     "PlantsGathered": 0,
     "WoodGathered": 1260,
@@ -35798,7 +35798,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 16,
+    "TimePlayed": 21,
     "LastSeen": 1766678247
   }
 ]
