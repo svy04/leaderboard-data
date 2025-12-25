@@ -71,9 +71,9 @@
     "SteamID": "76561199431971262",
     "DisplayName": "B2",
     "PlayersKilled": 67,
-    "Deaths": 49,
+    "Deaths": 50,
     "Headshots": 303,
-    "KDR": 1.37,
+    "KDR": 1.34,
     "ArrowKills": 0,
     "MeleeKills": 0,
     "BladeKills": 1,
@@ -98,7 +98,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 24,
     "ClothesCrafted": 47,
-    "TimePlayed": 31,
+    "TimePlayed": 0,
     "LastSeen": 1766400677
   },
   {
@@ -853,7 +853,7 @@
     "SteamID": "76561199001458509",
     "DisplayName": "으깬감자",
     "PlayersKilled": 30,
-    "Deaths": 107,
+    "Deaths": 108,
     "Headshots": 66,
     "KDR": 0.28,
     "ArrowKills": 0,
@@ -880,7 +880,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 73,
     "ClothesCrafted": 11,
-    "TimePlayed": 39,
+    "TimePlayed": 0,
     "LastSeen": 1766460986
   },
   {
@@ -1827,13 +1827,13 @@
     "RocksGathered": 19500,
     "SulfurOreGathered": 4200,
     "MetalOreGathered": 16500,
-    "RocketsFired": 84,
-    "ExplosivesThrown": 41,
+    "RocketsFired": 86,
+    "ExplosivesThrown": 56,
     "PlayersHealed": 0,
     "WeaponsCrafted": 37,
     "ClothesCrafted": 7,
-    "TimePlayed": 0,
-    "LastSeen": 1766511291
+    "TimePlayed": 5,
+    "LastSeen": 1766684687
   },
   {
     "SteamID": "76561199234846771",
@@ -8768,7 +8768,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
     "ClothesCrafted": 8,
-    "TimePlayed": 64,
+    "TimePlayed": 69,
     "LastSeen": 1766679419
   },
   {
@@ -34692,7 +34692,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 0,
-    "AnimalKills": 11,
+    "AnimalKills": 12,
     "NPCKills": 13,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -34710,7 +34710,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 62,
     "ClothesCrafted": 4,
-    "TimePlayed": 18,
+    "TimePlayed": 23,
     "LastSeen": 1766682201
   },
   {
@@ -35678,7 +35678,7 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 0,
-    "AnimalKills": 0,
+    "AnimalKills": 1,
     "NPCKills": 1,
     "HelicopterKills": 0,
     "APCKills": 0,
@@ -35696,7 +35696,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 35,
+    "TimePlayed": 40,
     "LastSeen": 1766682135
   },
   {
@@ -35805,7 +35805,7 @@
     "SteamID": "76561199264639529",
     "DisplayName": "이예콩",
     "PlayersKilled": 0,
-    "Deaths": 4,
+    "Deaths": 5,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -35821,8 +35821,8 @@
     "PVPKillDistance": 0,
     "PVEKillDistance": 1,
     "StructuresBuilt": 8,
-    "StructuresRepaired": 1,
-    "PlantsGathered": 10,
+    "StructuresRepaired": 16,
+    "PlantsGathered": 12,
     "WoodGathered": 3201,
     "RocksGathered": 4728,
     "SulfurOreGathered": 0,
@@ -35832,7 +35832,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 50,
+    "TimePlayed": 0,
     "LastSeen": 1766680167
   }
 ]
