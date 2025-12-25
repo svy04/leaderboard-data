@@ -1805,7 +1805,7 @@
     "SteamID": "76561199675321271",
     "DisplayName": "Jelly Donuts",
     "PlayersKilled": 17,
-    "Deaths": 67,
+    "Deaths": 68,
     "Headshots": 100,
     "KDR": 0.25,
     "ArrowKills": 0,
@@ -1832,7 +1832,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 37,
     "ClothesCrafted": 7,
-    "TimePlayed": 11,
+    "TimePlayed": 0,
     "LastSeen": 1766684687
   },
   {
@@ -7306,7 +7306,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 10,
     "ClothesCrafted": 8,
-    "TimePlayed": 32,
+    "TimePlayed": 37,
     "LastSeen": 1766689573
   },
   {
@@ -34710,7 +34710,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 62,
     "ClothesCrafted": 4,
-    "TimePlayed": 44,
+    "TimePlayed": 49,
     "LastSeen": 1766689578
   },
   {
@@ -35924,9 +35924,9 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 4,
-    "WoodGathered": 625,
-    "RocksGathered": 956,
+    "PlantsGathered": 11,
+    "WoodGathered": 981,
+    "RocksGathered": 1121,
     "SulfurOreGathered": 0,
     "MetalOreGathered": 1165,
     "RocketsFired": 0,
@@ -35934,7 +35934,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 0,
+    "TimePlayed": 5,
     "LastSeen": 1766689502
   }
 ]
