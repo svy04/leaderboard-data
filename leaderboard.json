@@ -8760,15 +8760,15 @@
     "StructuresRepaired": 40,
     "PlantsGathered": 335,
     "WoodGathered": 53389,
-    "RocksGathered": 65419,
+    "RocksGathered": 66169,
     "SulfurOreGathered": 1053,
-    "MetalOreGathered": 10904,
+    "MetalOreGathered": 11404,
     "RocketsFired": 0,
     "ExplosivesThrown": 10,
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
     "ClothesCrafted": 8,
-    "TimePlayed": 89,
+    "TimePlayed": 94,
     "LastSeen": 1766679419
   },
   {
@@ -34710,7 +34710,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 62,
     "ClothesCrafted": 4,
-    "TimePlayed": 43,
+    "TimePlayed": 48,
     "LastSeen": 1766682201
   },
   {
@@ -35696,7 +35696,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 14,
+    "TimePlayed": 19,
     "LastSeen": 1766682135
   },
   {
@@ -35856,24 +35856,24 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
-    "PlantsGathered": 4,
-    "WoodGathered": 245,
+    "PlantsGathered": 10,
+    "WoodGathered": 750,
     "RocksGathered": 0,
-    "SulfurOreGathered": 0,
+    "SulfurOreGathered": 7,
     "MetalOreGathered": 0,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
-    "WeaponsCrafted": 0,
+    "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 2,
+    "TimePlayed": 7,
     "LastSeen": 1766686026
   },
   {
     "SteamID": "76561199235955232",
     "DisplayName": "scouter",
     "PlayersKilled": 0,
-    "Deaths": 0,
+    "Deaths": 1,
     "Headshots": 0,
     "KDR": 0.0,
     "ArrowKills": 0,
@@ -35900,7 +35900,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 2,
+    "TimePlayed": 1,
     "LastSeen": 1766686033
   }
 ]
