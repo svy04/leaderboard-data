@@ -982,7 +982,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 6,
     "ClothesCrafted": 5,
-    "TimePlayed": 3,
+    "TimePlayed": 8,
     "LastSeen": 1766679110
   },
   {
@@ -4416,7 +4416,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 26,
     "ClothesCrafted": 4,
-    "TimePlayed": 1,
+    "TimePlayed": 6,
     "LastSeen": 1766675237
   },
   {
@@ -8768,8 +8768,8 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
     "ClothesCrafted": 8,
-    "TimePlayed": 65,
-    "LastSeen": 1766673481
+    "TimePlayed": 69,
+    "LastSeen": 1766679419
   },
   {
     "SteamID": "76561199836249440",
@@ -11240,7 +11240,7 @@
     "PVEKillDistance": 0,
     "StructuresBuilt": 62,
     "StructuresRepaired": 10,
-    "PlantsGathered": 248,
+    "PlantsGathered": 256,
     "WoodGathered": 13755,
     "RocksGathered": 13980,
     "SulfurOreGathered": 1692,
@@ -11250,7 +11250,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 14,
     "ClothesCrafted": 10,
-    "TimePlayed": 170,
+    "TimePlayed": 175,
     "LastSeen": 1766678047
   },
   {
@@ -35730,7 +35730,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 11,
+    "TimePlayed": 16,
     "LastSeen": 1766673266
   },
   {
@@ -35746,12 +35746,12 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 0,
-    "AnimalKills": 0,
+    "AnimalKills": 1,
     "NPCKills": 1,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
-    "PVEKillDistance": 0,
+    "PVEKillDistance": 12,
     "StructuresBuilt": 0,
     "StructuresRepaired": 0,
     "PlantsGathered": 0,
@@ -35764,7 +35764,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 26,
+    "TimePlayed": 31,
     "LastSeen": 1766673820
   },
   {
@@ -35780,12 +35780,12 @@
     "RevolverKills": 0,
     "ShotgunKills": 0,
     "RifleKills": 0,
-    "AnimalKills": 0,
+    "AnimalKills": 3,
     "NPCKills": 0,
     "HelicopterKills": 0,
     "APCKills": 0,
     "PVPKillDistance": 0,
-    "PVEKillDistance": 0,
+    "PVEKillDistance": 1,
     "StructuresBuilt": 6,
     "StructuresRepaired": 0,
     "PlantsGathered": 0,
@@ -35798,7 +35798,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 21,
+    "TimePlayed": 26,
     "LastSeen": 1766678247
   }
 ]
