@@ -4389,9 +4389,9 @@
     "SteamID": "76561199351442843",
     "DisplayName": "DarkMan",
     "PlayersKilled": 7,
-    "Deaths": 37,
+    "Deaths": 39,
     "Headshots": 21,
-    "KDR": 0.19,
+    "KDR": 0.18,
     "ArrowKills": 0,
     "MeleeKills": 0,
     "BladeKills": 0,
@@ -4416,7 +4416,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 26,
     "ClothesCrafted": 4,
-    "TimePlayed": 56,
+    "TimePlayed": 4,
     "LastSeen": 1766675237
   },
   {
@@ -8767,8 +8767,8 @@
     "ExplosivesThrown": 6,
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
-    "ClothesCrafted": 6,
-    "TimePlayed": 55,
+    "ClothesCrafted": 8,
+    "TimePlayed": 60,
     "LastSeen": 1766673481
   },
   {
@@ -11250,7 +11250,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 14,
     "ClothesCrafted": 10,
-    "TimePlayed": 160,
+    "TimePlayed": 165,
     "LastSeen": 1766678047
   },
   {
@@ -22946,8 +22946,8 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 11,
     "ClothesCrafted": 6,
-    "TimePlayed": 52,
-    "LastSeen": 1766665904
+    "TimePlayed": 53,
+    "LastSeen": 1766678926
   },
   {
     "SteamID": "76561198108258158",
@@ -35730,7 +35730,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 1,
+    "TimePlayed": 6,
     "LastSeen": 1766673266
   },
   {
@@ -35764,7 +35764,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 16,
+    "TimePlayed": 21,
     "LastSeen": 1766673820
   },
   {
@@ -35786,19 +35786,19 @@
     "APCKills": 0,
     "PVPKillDistance": 0,
     "PVEKillDistance": 0,
-    "StructuresBuilt": 0,
+    "StructuresBuilt": 5,
     "StructuresRepaired": 0,
     "PlantsGathered": 0,
-    "WoodGathered": 1022,
+    "WoodGathered": 1260,
     "RocksGathered": 1338,
     "SulfurOreGathered": 83,
-    "MetalOreGathered": 529,
+    "MetalOreGathered": 922,
     "RocketsFired": 0,
     "ExplosivesThrown": 0,
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 11,
+    "TimePlayed": 16,
     "LastSeen": 1766678247
   }
 ]
