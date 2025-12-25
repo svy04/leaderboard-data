@@ -1820,19 +1820,19 @@
     "APCKills": 1,
     "PVPKillDistance": 80,
     "PVEKillDistance": 136,
-    "StructuresBuilt": 1265,
+    "StructuresBuilt": 1277,
     "StructuresRepaired": 348,
     "PlantsGathered": 130,
     "WoodGathered": 27360,
     "RocksGathered": 19500,
     "SulfurOreGathered": 4200,
     "MetalOreGathered": 16500,
-    "RocketsFired": 86,
+    "RocketsFired": 90,
     "ExplosivesThrown": 56,
     "PlayersHealed": 0,
     "WeaponsCrafted": 37,
     "ClothesCrafted": 7,
-    "TimePlayed": 5,
+    "TimePlayed": 10,
     "LastSeen": 1766684687
   },
   {
@@ -7177,9 +7177,9 @@
     "SteamID": "76561199285883820",
     "DisplayName": "Nick",
     "PlayersKilled": 3,
-    "Deaths": 19,
+    "Deaths": 20,
     "Headshots": 52,
-    "KDR": 0.16,
+    "KDR": 0.15,
     "ArrowKills": 0,
     "MeleeKills": 0,
     "BladeKills": 0,
@@ -7204,7 +7204,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 119,
+    "TimePlayed": 0,
     "LastSeen": 1766398512
   },
   {
@@ -8768,7 +8768,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 7,
     "ClothesCrafted": 8,
-    "TimePlayed": 69,
+    "TimePlayed": 74,
     "LastSeen": 1766679419
   },
   {
@@ -34710,7 +34710,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 62,
     "ClothesCrafted": 4,
-    "TimePlayed": 23,
+    "TimePlayed": 28,
     "LastSeen": 1766682201
   },
   {
@@ -35696,7 +35696,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 0,
     "ClothesCrafted": 0,
-    "TimePlayed": 40,
+    "TimePlayed": 45,
     "LastSeen": 1766682135
   },
   {
@@ -35832,7 +35832,7 @@
     "PlayersHealed": 0,
     "WeaponsCrafted": 2,
     "ClothesCrafted": 0,
-    "TimePlayed": 0,
+    "TimePlayed": 2,
     "LastSeen": 1766680167
   }
 ]
